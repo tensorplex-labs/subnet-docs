@@ -3,7 +3,7 @@
   "name": "Text Prompting",
   "github": ["https://github.com/macrocosm-os/prompting"],
   "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
-  "image_url": "",
+  "image_url": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa78c97f-2d85-4efc-8a60-1460ab81032a_1280x1280.png",
   "description": "description.html",
   "bittensor_discord_id": 1161764867166961704,
   "team": "Macrocosmos",
