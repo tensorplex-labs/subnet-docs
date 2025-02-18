@@ -3,7 +3,7 @@
   "name": "Targon",
   "github": ["https://github.com/manifold-inc/targon"],
   "hw_requirements": "https://github.com/manifold-inc/targon#compute-requirements",
-  "image_url": "",
+  "image_url": "https://targon.com/ManifoldMarkTransparentGreenSVG.svg",
   "description": "description.html",
   "bittensor_discord_id": 1161765008347254915,
   "team": "Manifold Labs",
