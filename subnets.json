@@ -2234,19 +2234,15 @@
             "https://github.com/fx-integral/merit"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/73/v1.png",
+        "description": "description.html",
         "bittensor_discord_id": "1351969903132938302",
         "team": "",
-        "summary": "",
+        "summary": "Merit is a Bittensor subnet that rewards miners for their active participation across other Bittensor subnets.",
         "websites": [
             {
-                "label": "discord",
-                "url": "https://discord.gg/m9J8QTf5JT"
-            },
-            {
-                "label": "twitter",
-                "url": "https://discord.gg/m9J8QTf5JT"
+                "label": "whitepaper",
+                "url": "https://github.com/fx-integral/merit/blob/main/whitepaper.md"
             }
         ],
         "subnet_id": 73
