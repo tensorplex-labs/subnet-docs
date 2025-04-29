@@ -6,14 +6,18 @@
   "github": ["https://github.com/star145s/ai_factory"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/80/v1.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1353733529774723073",
   "team": "",
-  "summary": "",
+  "summary": "AI-Factory is an innovative subnet within the Bittensor ecosystem, dedicated to crafting specialized AI solutions tailored for specific applications. By leveraging Bittensor's decentralized AI network, AI-Factory fosters a collaborative environment where developers and researchers can contribute and refine AI models, ensuring continuous improvement and adaptability to various challenges.",
   "websites": [
     {
       "label": "discord",
       "url": "https://discord.com/invite/AMeC2t8F8W"
+    },
+    {
+      "label": "website",
+      "url": "https://www.aifact.io"
     }
   ]
 }
