@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "FLockDataset",
+  "github": ["https://github.com/FLock-io/FLock-subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/96/v1.jpg",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "FLock.io",
+  "summary": "FLockDataset is a Bittensor subnet designed to incentivize the creation of high-quality datasets for machine learning. Miners generate and upload datasets to Hugging Face, while validators assess their quality by training LoRA (Low-Rank Adaptation) models on a standardized base model (meta-llama/Llama-3.2-1B) and rewarding miners based on performance.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/flock_off_sn96"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "bittensor_discord_id": "1353733356470276096",
   "team": "",
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "dashboard",
+      "url": "https://taos.simulate.trading"
+    }
+  ]
 }
