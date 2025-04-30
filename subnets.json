@@ -2243,6 +2243,10 @@
             {
                 "label": "whitepaper",
                 "url": "https://github.com/fx-integral/merit/blob/main/whitepaper.md"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/4znB9FYG"
             }
         ],
         "subnet_id": 73
@@ -2527,14 +2531,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "MIAOAI",
+        "github": [
+            "https://github.com/MIAOAI-Subnet/MIAOAI_SUBNET"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/86/v1.jpeg",
+        "description": "description.html",
         "bittensor_discord_id": "1358810927943782673",
         "team": "",
-        "summary": "",
+        "summary": "Bridging Pet Tech and Blockchain Innovation",
         "websites": [],
         "subnet_id": 86
     },
