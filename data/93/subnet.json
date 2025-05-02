@@ -3,7 +3,7 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Bitcast",
-  "github": [],
+  "github": ["https://github.com/bitcast-network/bitcast"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/93/v1.jpg",
   "description": "",
@@ -26,6 +26,10 @@
     {
       "label": "dashboard",
       "url": "https://dashboard.bitcast.network/"
+    },
+    {
+      "label": "wandb logger",
+      "url": "https://wandb.ai/bitcast_network/bitcast_vali_logs"
     }
   ]
 }
