@@ -10,6 +10,7 @@
   "bittensor_discord_id": "",
   "team": "UnitOne Labs",
   "summary": "FlameWire powers Ethereum, Bittensor, SUI, and more through a decentralized RPC/API infrastructure with global coverage, preserving crypto's core values decentralization, availability, and censorship resistance.",
+  "categories": ["Infrastructure"],
   "websites": [
     {
       "label": "website",
