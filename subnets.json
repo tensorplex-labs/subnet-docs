@@ -2371,17 +2371,27 @@
         "bittensor_id": "",
         "letter": "",
         "name": "\u03c4aos",
-        "github": [],
+        "github": [
+            "https://github.com/taos-im/sn-79"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/79/v1.png",
+        "description": "description.html",
         "bittensor_discord_id": "1353733356470276096",
         "team": "",
-        "summary": "",
+        "summary": "Decentralized Simulation of Automated Trading in Intelligent Markets: Risk-Averse Agent Optimization",
         "websites": [
             {
                 "label": "dashboard",
                 "url": "https://taos.simulate.trading"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://simulate.trading/taos-im-paper"
+            },
+            {
+                "label": "website",
+                "url": "https://taos.im"
             }
         ],
         "subnet_id": 79
