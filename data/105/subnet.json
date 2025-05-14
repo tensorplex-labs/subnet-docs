@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "SoundsRight",
+  "github": ["https://github.com/synapsec-ai/soundsright-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Spearheading Open-Source Speech Enhancement",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://soundsright.ai"
+    },
+    {
+      "label": "leaderboard",
+      "url": "https://soundsright.ai/leaderboard"
+    }
+  ]
 }
