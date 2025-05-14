@@ -153,31 +153,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "epsilon",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Open Kaito",
-        "github": [
-            "https://github.com/OpenKaito/openkaito"
-        ],
-        "hw_requirements": "https://github.com/OpenKaito/openkaito/blob/main/min_compute.yml",
-        "image_url": "https://backprop.finance/assets/subnet-logos/5/v2.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1214225551364202496",
-        "team": "Kaito AI",
-        "summary": "Kaito AI is committed to democratizing access to Web3 information through its established platform. However, the in-house approach to data collection, indexing, AI training, and ranking imposes operational burdens and stifles broader public innovation.",
-        "categories": [
-            "Model Development"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/openkaito"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://sn5.kaito.ai/"
-            }
-        ],
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 5
     },
     {
@@ -485,35 +471,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "omicron",
+        "bittensor_id": "",
         "letter": "",
-        "name": "De-Val",
-        "github": [
-            "https://github.com/deval-core/De-Val"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/15/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1272557411948957697",
-        "team": "De-Val",
-        "summary": "de_val sets the new benchmark for AI excellence, offering a decentralized evaluation platform designed to enhance LLM performance with unmatched quality. With de_val, you can rigorously test your AI models throughout the ML ops pipeline (offline testing, A/B testing, and continuous monitoring), measuring hallucinations, misattributions, relevancy, and summarization comprehensiveness, so you can understand your outputs at scale and deploy with confidence.",
-        "categories": [
-            "Model Development"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/deval_ai"
-            },
-            {
-                "label": "website",
-                "url": "https://www.de-val.ai/"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://www.de-val.ai/pitch_deck"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 15
     },
     {
@@ -1307,43 +1275,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "chunking",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Chunking",
-        "github": [
-            "https://github.com/VectorChat/chunking_subnet"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/40/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1245768323036217408",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
         "team": "",
-        "summary": "Chunking is focused on advancing Retrieval-Augmented Generation (RAG). The subnet incentivizes the creation, hosting, and serving of intelligent chunking systems that optimize intrachunk similarity and interchunk dissimilarity, enhancing the efficiency and accuracy of data retrieval and processing.",
-        "categories": [
-            "Data Pipeline"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/chunking_subnet"
-            },
-            {
-                "label": "website",
-                "url": "https://vectorchat.ai/"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://subnet.chunking.com/benchmarks"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
-            },
-            {
-                "label": "roadmap",
-                "url": "https://github.com/VectorChat/chunking_subnet/blob/main/docs/roadmap.md"
-            }
-        ],
+        "summary": "",
+        "websites": [],
         "subnet_id": 40
     },
     {
@@ -1544,37 +1486,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "tsadi",
+        "bittensor_id": "",
         "letter": "",
-        "name": "CondenseAI",
-        "github": [
-            "https://github.com/condenses/neural-condense-subnet",
-            "https://github.com/condenses/neural-condense",
-            "https://github.com/condenses/subnet-organic"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/47/v1.svg",
-        "description": "description.html",
-        "summary": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time.",
-        "bittensor_discord_id": "1305525944123134024",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
         "team": "",
-        "categories": [
-            "Inference"
-        ],
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://condenses.ai/"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://dashboard.condenses.ai/"
-            },
-            {
-                "label": "wandb logger",
-                "url": "https://wandb.ai/toilaluan/Neural-Condense-Subnet"
-            }
-        ],
+        "summary": "",
+        "websites": [],
         "subnet_id": 47
     },
     {
@@ -1758,29 +1680,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Web Genie AI",
-        "github": [
-            "https://github.com/web-genie-ai/web-genie-ai/"
-        ],
-        "hw_requirements": "https://github.com/web-genie-ai/web-genie-ai/blob/main/min_compute.yml",
-        "image_url": "https://backprop.finance/assets/subnet-logos/54/v1.jpg",
+        "name": "",
+        "github": [],
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "1316415472563916841",
-        "team": "Web Genie AI",
-        "summary": "WebGenieAI aims to transform diverse prompts\u2014ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs.",
-        "categories": [
-            "AI Agent"
-        ],
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://www.webgenieai.co/"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/WebGenieAI_"
-            }
-        ],
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 54
     },
     {
@@ -2962,15 +2870,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "SoundsRight",
+        "github": [
+            "https://github.com/synapsec-ai/soundsright-subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Spearheading Open-Source Speech Enhancement",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://soundsright.ai"
+            },
+            {
+                "label": "leaderboard",
+                "url": "https://soundsright.ai/leaderboard"
+            }
+        ],
         "subnet_id": 105
     },
     {
