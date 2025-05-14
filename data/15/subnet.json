@@ -1,28 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "omicron",
+  "bittensor_id": "",
   "letter": "",
-  "name": "De-Val",
-  "github": ["https://github.com/deval-core/De-Val"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/15/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1272557411948957697",
-  "team": "De-Val",
-  "summary": "de_val sets the new benchmark for AI excellence, offering a decentralized evaluation platform designed to enhance LLM performance with unmatched quality. With de_val, you can rigorously test your AI models throughout the ML ops pipeline (offline testing, A/B testing, and continuous monitoring), measuring hallucinations, misattributions, relevancy, and summarization comprehensiveness, so you can understand your outputs at scale and deploy with confidence.",
-  "categories": ["Model Development"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/deval_ai"
-    },
-    {
-      "label": "website",
-      "url": "https://www.de-val.ai/"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://www.de-val.ai/pitch_deck"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }

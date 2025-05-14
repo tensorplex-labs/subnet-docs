@@ -1,36 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "chunking",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Chunking",
-  "github": ["https://github.com/VectorChat/chunking_subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/40/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1245768323036217408",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "Chunking is focused on advancing Retrieval-Augmented Generation (RAG). The subnet incentivizes the creation, hosting, and serving of intelligent chunking systems that optimize intrachunk similarity and interchunk dissimilarity, enhancing the efficiency and accuracy of data retrieval and processing.",
-  "categories": ["Data Pipeline"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/chunking_subnet"
-    },
-    {
-      "label": "website",
-      "url": "https://vectorchat.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://subnet.chunking.com/benchmarks"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
-    },
-    {
-      "label": "roadmap",
-      "url": "https://github.com/VectorChat/chunking_subnet/blob/main/docs/roadmap.md"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }

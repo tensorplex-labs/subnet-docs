@@ -2,23 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Web Genie AI",
-  "github": ["https://github.com/web-genie-ai/web-genie-ai/"],
-  "hw_requirements": "https://github.com/web-genie-ai/web-genie-ai/blob/main/min_compute.yml",
-  "image_url": "https://backprop.finance/assets/subnet-logos/54/v1.jpg",
+  "name": "",
+  "github": [],
+  "hw_requirements": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1316415472563916841",
-  "team": "Web Genie AI",
-  "summary": "WebGenieAI aims to transform diverse prompts—ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs.",
-  "categories": ["AI Agent"],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://www.webgenieai.co/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/WebGenieAI_"
-    }
-  ]
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }

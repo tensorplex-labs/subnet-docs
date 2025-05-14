@@ -1,32 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "tsadi",
+  "bittensor_id": "",
   "letter": "",
-  "name": "CondenseAI",
-  "github": [
-    "https://github.com/condenses/neural-condense-subnet",
-    "https://github.com/condenses/neural-condense",
-    "https://github.com/condenses/subnet-organic"
-  ],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/47/v1.svg",
-  "description": "description.html",
-  "summary": "Accelerating AI inference by compressing long sequences of natural language tokens into soft-tokens, reducing computational cost and inference time.",
-  "bittensor_discord_id": "1305525944123134024",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "categories": ["Inference"],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://condenses.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://dashboard.condenses.ai/"
-    },
-    {
-      "label": "wandb logger",
-      "url": "https://wandb.ai/toilaluan/Neural-Condense-Subnet"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }
