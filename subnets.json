@@ -992,21 +992,27 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "NullUntilBoot",
-        "github": [
-            "https://github.com/NeuralNexusII/NullUntilBoot"
-        ],
+        "name": "Candles",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/31/v2.jpg",
         "description": "",
-        "bittensor_discord_id": "1361421560988041267",
+        "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
+        "summary": "Market sentiment prediction through mining and gamified public pools.",
         "categories": [],
         "websites": [
             {
+                "label": "website",
+                "url": "https://candlestao.com"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://medium.com/@neuralnexusii/candles-v1-0-lighting-the-path-to-on-chain-predictive-pools-f9acb1794e69"
+            },
+            {
                 "label": "twitter",
-                "url": "https://x.com/NullUntilBoot"
+                "url": "https://x.com/candlestao"
             }
         ],
         "subnet_id": 31
