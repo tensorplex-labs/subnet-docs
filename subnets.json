@@ -2173,6 +2173,10 @@
             {
                 "label": "discord",
                 "url": "https://discord.gg/4znB9FYG"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/fxintegral_T"
             }
         ],
         "subnet_id": 73
@@ -2278,7 +2282,12 @@
         "bittensor_discord_id": "1351180132295118848",
         "team": "",
         "summary": "Reserved by Crea\u03c4iveBuilds",
-        "websites": [],
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/CreativeBuilds"
+            }
+        ],
         "subnet_id": 77
     },
     {
