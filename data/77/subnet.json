@@ -10,5 +10,10 @@
   "bittensor_discord_id": "1351180132295118848",
   "team": "",
   "summary": "Reserved by CreaτiveBuilds",
-  "websites": []
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/CreativeBuilds"
+    }
+  ]
 }
