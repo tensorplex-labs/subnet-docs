@@ -897,17 +897,12 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "categories": [
-            "Meme"
-        ],
-        "name": "LOL",
-        "github": [
-            ""
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/28/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "1343950080465698836",
+        "bittensor_discord_id": "",
         "team": "",
         "summary": "",
         "websites": [],
