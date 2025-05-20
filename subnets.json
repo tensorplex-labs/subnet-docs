@@ -1903,9 +1903,9 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Agentao",
+        "name": "Ridges AI",
         "github": [
-            "https://github.com/taoagents/agentao"
+            "https://github.com/ridgesai/ridges"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/62/v1.png",
