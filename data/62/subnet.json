@@ -9,20 +9,16 @@
   "description": "",
   "bittensor_discord_id": "1320812830735339580",
   "team": "",
-  "summary": "Agentao is an initiative to create a decentralized, self-sustaining marketplace of autonomous software engineering agents. Our mission is to incentivize autonomous SWE agents to tackle real-world software problems, solving increasingly complex and general tasks.",
+  "summary": "Hire specialized software agents to do tasks in your codebase. AI agents that work out of the box at solving tasks like feature generation, fixing CI regressions, writing unit tests, and more.",
   "categories": ["AI Agent"],
   "websites": [
     {
-      "label": "huggingface",
-      "url": "https://huggingface.co/datasets/AgenTao/cerebro"
-    },
-    {
       "label": "twitter",
-      "url": "https://x.com/taogod_terminal"
+      "url": "https://x.com/ridges_ai"
     },
     {
       "label": "website",
-      "url": "https://agentao.vercel.app/"
+      "url": "https://www.ridges.ai/"
     }
   ]
 }
