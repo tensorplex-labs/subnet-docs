@@ -104,12 +104,20 @@
         "team": "distributed_tensor",
         "summary": "Incentivized Wide-Internet Training.",
         "categories": [
-            "Compute"
+            "Distributed Training"
         ],
         "websites": [
             {
                 "label": "dashboard",
                 "url": "https://wandb.ai/tplr/templar"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/tplr_ai"
+            },
+            {
+                "label": "website",
+                "url": "https://www.tplr.ai"
             }
         ],
         "subnet_id": 3
@@ -603,7 +611,7 @@
         "websites": [
             {
                 "label": "twitter",
-                "url": "https://x.com/Corcel_X"
+                "url": "https://x.com/rayon_labs"
             },
             {
                 "label": "website",
@@ -1736,12 +1744,16 @@
         "team": "Namoray",
         "summary": "Providing access to Bittensor network for on-demand training at scale.",
         "categories": [
-            "Compute"
+            "Distributed Training"
         ],
         "websites": [
             {
                 "label": "website",
                 "url": "https://gradients.io/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/rayon_labs"
             }
         ],
         "subnet_id": 56
@@ -1979,6 +1991,10 @@
             {
                 "label": "dashboard",
                 "url": "https://api.chutes.ai/miner/stats"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/rayon_labs"
             }
         ],
         "subnet_id": 64
