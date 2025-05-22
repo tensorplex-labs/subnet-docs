@@ -10,11 +10,19 @@
   "bittensor_discord_id": "1222226314824777853",
   "team": "distributed_tensor",
   "summary": "Incentivized Wide-Internet Training.",
-  "categories": ["Compute"],
+  "categories": ["Distributed Training"],
   "websites": [
     {
       "label": "dashboard",
       "url": "https://wandb.ai/tplr/templar"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/tplr_ai"
+    },
+    {
+      "label": "website",
+      "url": "https://www.tplr.ai"
     }
   ]
 }

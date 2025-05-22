@@ -19,6 +19,10 @@
     {
       "label": "dashboard",
       "url": "https://api.chutes.ai/miner/stats"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/rayon_labs"
     }
   ]
 }
