@@ -2,13 +2,30 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
+  "name": "Liquidity Provisioning",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/106/v1.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Incentivized liquidity provisioning on Solana",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://voidai.com"
+    },
+    {
+      "label": "application",
+      "url": "https://bridge.voidai.com"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://docs.voidai.com/"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/v0idai"
+    }
+  ]
 }

@@ -1,0 +1,69 @@
+<h2 id="what-is-lp-">What Is LP?</h2>
+<p>
+  LP is a dedicated Bittensor subnet (SN106) coordinating on-chain liquidity for
+  Alpha tokens on Raydium. Instead of generic AMMs, LP introduces
+  <strong>proof-of-provision</strong>: miners bridge TAO or Alpha to mint
+  wTAO/wALPHA, deposit them (paired with TAO) into Raydium pools, then stake the
+  resulting LP tokens in our Solana smart contract.
+</p>
+<h2 id="how-it-works">How It Works</h2>
+<ol>
+  <li>
+    <p>
+      <strong>Bridge &amp; Mint:</strong> Miners lock native TAO/Alpha on
+      Bittensor via the VoidAI Bridge and receive wrapped SPL tokens on Solana.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Provide Liquidity:</strong> They supply wTAO/wALPHA pairs to
+      Raydium pools and receive LP tokens.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Stake &amp; Validate:</strong> LP tokens are staked in a smart
+      contract on Solana. Validators on SN106 samples both chains to confirm
+      each deposit’s size and uptime, ensuring only genuine contributions earn
+      rewards.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Reward Distribution:</strong> 41 % to liquidity providers
+      (miners), 41 % to validators/stakers, and 18 % to the subnet owner
+      (VoidAI).
+    </p>
+  </li>
+</ol>
+<h2 id="treasury-protocol-owned-liquidity">
+  Treasury &amp; Protocol-Owned Liquidity
+</h2>
+<p>
+  All fees—0.25 % Raydium trading fees, bridge fees, staking yields, and
+  validator commissions—are funneled into the on-chain treasury on Solana. From
+  there, funds are redeployed into wTAO/wALPHA pools as protocol-owned
+  liquidity, deepening markets and earning ongoing fees. This creates a
+  self-reinforcing cycle: revenue funds liquidity, liquidity boosts volume,
+  volume generates more revenue.
+</p>
+<h2 id="governance-community">Governance &amp; Community</h2>
+<p>LP token holders govern key aspects of the subnet:</p>
+<ul>
+  <li>
+    <p>
+      <strong>New Pools:</strong> Vote to onboard additional Solana-native
+      assets.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Treasury Deployment:</strong> Direct where treasury funds are
+      deployed.
+    </p>
+  </li>
+</ul>
+<p>
+  All governance actions and treasury flows are recorded on-chain for complete
+  transparency.
+</p>
