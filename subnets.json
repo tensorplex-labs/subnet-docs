@@ -2147,15 +2147,30 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "StreetVision",
+        "github": [
+            "https://github.com/natixnetwork/streetvision-subnet/"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/72/v1.jpg",
         "description": "",
         "bittensor_discord_id": "1349122541754515538",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "NATIX",
+        "summary": "This network is a decentralized subnet designed to inference images to extract information such as construction sites. Built on Bittensor, this subnet incentivizes miners to develop and deploy models that accurately detect features, starting with construction sites.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.natix.network"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/natixnetwork"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/NATIXNetwork"
+            }
+        ],
         "subnet_id": 72
     },
     {
@@ -2775,6 +2790,10 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/FlameWire_SN"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://unitone.gitbook.io/flamewire"
             }
         ],
         "subnet_id": 97
