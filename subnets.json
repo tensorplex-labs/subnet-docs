@@ -2596,7 +2596,7 @@
             "https://github.com/Delta-Compute/infinitevibe"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/89/v1.png",
         "description": "description.html",
         "bittensor_discord_id": "1359592408119120033",
         "team": "",
@@ -2605,6 +2605,10 @@
             {
                 "label": "website",
                 "url": "https://infinitevibe.ai/"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/J3tXWDrzEm"
             }
         ],
         "subnet_id": 89
