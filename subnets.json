@@ -3052,15 +3052,22 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "oneoneone",
+        "github": [
+            "https://github.com/oneoneone-io/subnet-111"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/111/v1.jpeg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "A decentralized AI ecosystem built on the Bittensor network that specializes in collecting, validating, and serving high-quality user-generated content from platforms across the web.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://oneoneone.io"
+            }
+        ],
         "subnet_id": 111
     },
     {
