@@ -3115,15 +3115,20 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Eclipse",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/114/v1.png",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/Bittensor_SN114"
+            }
+        ],
         "subnet_id": 114
     },
     {
