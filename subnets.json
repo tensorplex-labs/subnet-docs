@@ -494,35 +494,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "bitads",
+        "bittensor_id": "",
         "letter": "",
-        "name": "BitAds",
-        "github": [
-            "https://github.com/eseckft/BitAds.ai"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/16/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1189234502669697064",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
         "team": "",
-        "summary": "BitAds is focused on reshaping online advertising with its Conversion Tracking system, which ensures advertisers pay only for successful sales. Contributors are rewarded based on the sales generated through their unique links.",
-        "categories": [
-            "Marketing"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/BitAds_AI"
-            },
-            {
-                "label": "website",
-                "url": "https://bitads.ai/"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://bitads.ai/whitepaper"
-            }
-        ],
+        "summary": "",
+        "websites": [],
         "subnet_id": 16
     },
     {
