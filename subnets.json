@@ -3218,15 +3218,28 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "sundae_bar",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/121/v1.png",
         "description": "",
         "bittensor_discord_id": "",
-        "team": "",
+        "team": "sundae_bar ai",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.sundaebar.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/sundaebar_ai"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/PMsEbX8t"
+            }
+        ],
         "subnet_id": 121
     },
     {
