@@ -1,0 +1,53 @@
+<p>
+  MANTIS scores miners based on the information theoretical value of their
+  embeddings to the prediction of BTCUSD.
+</p>
+<p>
+  Incentives are distributed proprtional to a given miners contribution to the
+  accuracy of a MLP that interprets these embeddings run by validators.
+</p>
+<p>
+  Time to emissions depends entirely on how quickly the validator can learn how
+  to interpret a given miners embeddings.
+</p>
+<p>
+  This approach is in contrast to having miners produce and directly scoring
+  them, it is superior in 2 primary ways:
+</p>
+<p>Synergy/Synthesis:</p>
+<p>
+  A set of embeddings which are not individually predictive, may carry
+  predictive power when combined with others (such as with funding rate and open
+  interest along with many other feature pairs, historically).
+</p>
+<p>
+  In other words, additive individual evaluation cannot detect higher-order
+  interactions, and is therefore unsuitable for incentivizing the highest
+  quality NETWORK outputs.
+</p>
+<p>
+  To provide an example, you could have a system that directly scores
+  predictions, and a top set of 3 miners dominating the network, their
+  accuracies are around 57%, and an ensemble of their outputs gets around 61%.
+</p>
+<p>
+  You could have a miner that outputs 58% accuracy, and takes over the network,
+  however it&#39;s underlying signal was already captured by the existing
+  miners, and the network performance in fact, degrades.
+</p>
+<p>
+  On the other hand, you could have a system with 55% accuracy, that captures
+  signal orthagonal to the existing strategies, and this could not stay
+  registered with a linear system.
+</p>
+<p>
+  MANTIS Solves this. MANTIS Is a framework for extracting the most accurate
+  network performance for time series tasks. Our first being BTC forcasting.
+</p>
+<p>
+  Technical details on how salience is calculated, and on our timelock
+  implementation can be found in the codebase:
+  <a href="https://github.com/Barbariandev/MANTIS"
+    >https://github.com/Barbariandev/MANTIS</a
+  >.
+</p>

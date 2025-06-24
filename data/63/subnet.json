@@ -2,22 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Alpha Trader Exchange",
-  "github": ["https://github.com/Nickel5-Inc/alpha-trader-exchange"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/63/v2.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1349115333570723978",
-  "team": "Nickel5",
+  "bittensor_discord_id": "",
+  "team": "",
   "summary": "",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://www.alphatraderexchange.com"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/_alphatraderx"
-    }
-  ]
+  "websites": []
 }
