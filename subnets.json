@@ -1565,7 +1565,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/50/v3.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1311109830282313781",
         "team": "Mode Network",
         "categories": [
@@ -1576,6 +1576,22 @@
             {
                 "label": "twitter",
                 "url": "https://x.com/modenetwork"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/SynthdataCo"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://mode-network.github.io/synth-subnet/Synth%20Whitepaper%20v1.pdf"
+            },
+            {
+                "label": "website",
+                "url": "https://www.synthdata.co"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashboard.synthdata.co/dashboard/"
             }
         ],
         "subnet_id": 50
