@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
+  "name": "Quantum",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/63/v3.webp",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "qBitTensor Labs",
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/qBitTensor"
+    }
+  ]
 }

@@ -3,12 +3,17 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Swarm",
-  "github": [],
+  "github": ["https://github.com/swarm-subnet/swarm"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/124/v1.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Developing OS autopilot for drones",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/SwarmSubnet"
+    }
+  ]
 }

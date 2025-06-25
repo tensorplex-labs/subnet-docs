@@ -2,22 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Sταking",
-  "github": ["https://github.com/mobiusfund/staking"],
+  "name": "Investing",
+  "github": ["https://github.com/mobiusfund/investing"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/88/v2.png",
+  "description": "",
   "bittensor_discord_id": "1358854051634221328",
   "team": "",
-  "summary": "Optimizing Staking Strategies",
+  "summary": "Envisioned as the world's first DeFAI powered AUM, leveraging a decentralized network of both human and artificial intelligence, Investing is the Bittensor subnet with the mission to provide investment services for both retail and institutional investors.",
   "websites": [
     {
       "label": "dashboard",
-      "url": "https://stakingalpha.com"
+      "url": "https://db.investing88.ai/"
     },
     {
       "label": "twitter",
-      "url": "https://x.com/StakingAlpha88"
+      "url": "https://x.com/Investing88ai"
     }
   ]
 }

@@ -2,26 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Merit",
-  "github": ["https://github.com/fx-integral/merit"],
+  "name": "MetaHash",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/73/v1.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/73/v2.jpg",
+  "description": "",
   "bittensor_discord_id": "1351969903132938302",
   "team": "",
-  "summary": "Merit is a Bittensor subnet that rewards miners for their active participation across other Bittensor subnets.",
+  "summary": "The first meta-mining subnet on Bittensor — a decentralized OTC marketplace for Bittensor miners.",
   "websites": [
     {
-      "label": "whitepaper",
-      "url": "https://github.com/fx-integral/merit/blob/main/whitepaper.md"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/4znB9FYG"
-    },
-    {
       "label": "twitter",
-      "url": "https://x.com/fxintegral_T"
+      "url": "https://x.com/MetaHashSn73"
     }
   ]
 }
