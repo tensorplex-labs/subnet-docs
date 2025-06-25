@@ -3,22 +3,34 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Synth",
-  "github": [
-    "https://github.com/mode-network/synth-subnet"
-  ],
+  "github": ["https://github.com/mode-network/synth-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/50/v3.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1311109830282313781",
   "team": "Mode Network",
-  "categories": [
-    "DeFi"
-  ],
+  "categories": ["DeFi"],
   "summary": "Synth creates the world's most powerful Synthetic price data for DeFi, enabling a paradigm shift in how agents model and optimise for the future.",
   "websites": [
     {
       "label": "twitter",
       "url": "https://x.com/modenetwork"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/SynthdataCo"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://mode-network.github.io/synth-subnet/Synth%20Whitepaper%20v1.pdf"
+    },
+    {
+      "label": "website",
+      "url": "https://www.synthdata.co"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://dashboard.synthdata.co/dashboard/"
     }
   ]
 }
