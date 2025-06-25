@@ -1948,15 +1948,20 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Quantum",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/63/v3.webp",
         "description": "",
         "bittensor_discord_id": "",
-        "team": "",
+        "team": "qBitTensor Labs",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/qBitTensor"
+            }
+        ],
         "subnet_id": 63
     },
     {
@@ -2170,28 +2175,18 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Merit",
-        "github": [
-            "https://github.com/fx-integral/merit"
-        ],
+        "name": "MetaHash",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/73/v1.png",
-        "description": "description.html",
+        "image_url": "https://backprop.finance/assets/subnet-logos/73/v2.jpg",
+        "description": "",
         "bittensor_discord_id": "1351969903132938302",
         "team": "",
-        "summary": "Merit is a Bittensor subnet that rewards miners for their active participation across other Bittensor subnets.",
+        "summary": "The first meta-mining subnet on Bittensor \u2014 a decentralized OTC marketplace for Bittensor miners.",
         "websites": [
             {
-                "label": "whitepaper",
-                "url": "https://github.com/fx-integral/merit/blob/main/whitepaper.md"
-            },
-            {
-                "label": "discord",
-                "url": "https://discord.gg/4znB9FYG"
-            },
-            {
                 "label": "twitter",
-                "url": "https://x.com/fxintegral_T"
+                "url": "https://x.com/MetaHashSn73"
             }
         ],
         "subnet_id": 73
@@ -2296,7 +2291,7 @@
         "description": "",
         "bittensor_discord_id": "1351180132295118848",
         "team": "",
-        "summary": "Reserved by Crea\u03c4iveBuilds",
+        "summary": "A complete on-chain liquidity mining system for the Bittensor ecosystem.",
         "websites": [
             {
                 "label": "twitter",
@@ -2547,24 +2542,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "S\u03c4\u03b1king",
+        "name": "Investing",
         "github": [
-            "https://github.com/mobiusfund/staking"
+            "https://github.com/mobiusfund/investing"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
-        "description": "description.html",
+        "image_url": "https://backprop.finance/assets/subnet-logos/88/v2.png",
+        "description": "",
         "bittensor_discord_id": "1358854051634221328",
         "team": "",
-        "summary": "Optimizing Staking Strategies",
+        "summary": "Envisioned as the world's first DeFAI powered AUM, leveraging a decentralized network of both human and artificial intelligence, Investing is the Bittensor subnet with the mission to provide investment services for both retail and institutional investors.",
         "websites": [
             {
                 "label": "dashboard",
-                "url": "https://stakingalpha.com"
+                "url": "https://db.investing88.ai/"
             },
             {
                 "label": "twitter",
-                "url": "https://x.com/StakingAlpha88"
+                "url": "https://x.com/Investing88ai"
             }
         ],
         "subnet_id": 88
@@ -2686,7 +2681,7 @@
         "description": "",
         "bittensor_discord_id": "1362489640841380045",
         "team": "",
-        "summary": "The Decentralized Creators Economy Powered by Bittensor",
+        "summary": "Bitcast is a decentralized platform that incentivizes content creators to connect brands with audiences. Creators publish YouTube videos to satisfy defined briefs and earn rewards based on engagement metrics.",
         "websites": [
             {
                 "label": "twitter",
@@ -2811,7 +2806,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Creator",
+        "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2826,7 +2821,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Algo",
+        "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2841,7 +2836,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Sign\u03b1l",
+        "name": "",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -3268,14 +3263,21 @@
         "bittensor_id": "",
         "letter": "",
         "name": "Swarm",
-        "github": [],
+        "github": [
+            "https://github.com/swarm-subnet/swarm"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/124/v1.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Developing OS autopilot for drones",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/SwarmSubnet"
+            }
+        ],
         "subnet_id": 124
     },
     {
