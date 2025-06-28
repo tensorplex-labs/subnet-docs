@@ -2,14 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "pre_training_llms",
   "letter": "",
-  "name": "Pre-training LLMs",
-  "github": ["https://github.com/macrocosm-os/pretraining"],
+  "name": "IOTA",
+  "github": ["https://github.com/macrocosm-os/IOTA"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/9/v1.png",
   "description": "description.html",
   "bittensor_discord_id": "1162768567821930597",
   "team": "Macrocosmos",
-  "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
+  "summary": "Incentivized Orchestrated Training Architecture (IOTA) is a framework for pretraining large language models across a network of heterogeneous, unreliable, permissionless and token incentivized machines. IOTA employs a data- and pipeline-parallel architecture to accelerate training and reduce hardware requirements for participants.",
   "categories": ["Model Development", "Macrocosmos"],
   "websites": [
     {
@@ -18,19 +18,15 @@
     },
     {
       "label": "website",
-      "url": "https://www.macrocosmos.ai/sn9"
+      "url": "https://iota.macrocosmos.ai"
     },
     {
       "label": "dashboard",
-      "url": "https://www.macrocosmos.ai/sn9/dashboard"
+      "url": "https://iota.macrocosmos.ai/dashboard"
     },
     {
       "label": "whitepaper",
-      "url": "https://www.macrocosmos.ai/research/pretraining_whitepaper.pdf"
-    },
-    {
-      "label": "substack",
-      "url": "https://macrocosmosai.substack.com/t/pre-training"
+      "url": "https://www.macrocosmos.ai/research/iota_primer.pdf"
     }
   ]
 }

@@ -1,44 +1,25 @@
-<p>
-  <strong>SN9</strong> is Bittensor's pre-training subnet, managed by
-  Macrocosmos
-</p>
-<p>
-  It's designed to provide pre-trained models to the Bittensor ecosystem,
-  incentivising miners to build the best models.
-</p>
-
-<h2>How SN9 trains SOTA Intelligence</h2>
-<ol>
+<ul>
   <li>
-    <strong>Incentivising quality output</strong>
-    <p>
-      SN9 incentivises miners to provide the highest quality pre-training models
-      and validators that assess the quality of the miner's models. Quality is
-      assessed by the validators against a standard agreed by the community.
-    </p>
+    Orchestrator distributes model layers across heterogeneous miners and
+    streams activations between them.
   </li>
   <li>
-    <strong>Identify AND reward contributions</strong>
-    <p>
-      A winner-takes-all model stimulates minors to continuously compete, so
-      that their model has the best chance of being number one. This system
-      encourages miners to commit resources and compute power.
-    </p>
+    All network communication is mediated via the orchestrator, and a shared S3
+    bucket is used to store activations and layer weights.
   </li>
   <li>
-    <strong>De-risk influence of bad actors</strong>
-    <p>
-      The other consequence of a winner-takes-all compensation structure is that
-      it encourages greater professionalism among miners, while discouraging
-      cabbalistic behavior. Together with robust validation mechanisms, SN9's
-      design ensures that it pays to play by the rules.
-    </p>
+    Miners compete to process as many activations as possible in the training
+    stage.
   </li>
-</ol>
-
+  <li>
+    Miners periodically upload their local weights and merge their activations
+    using a variant of Butterfly All-Reduce.
+  </li>
+  <li>
+    Validators spot-check miners to ensure that work was performed as required.
+  </li>
+</ul>
 <p>
-  For more information, visit the
-  <a href="https://github.com/macrocosm-os/pretraining" target="_blank"
-    >Pretraining Subnet GitHub Repository</a
-  >.
+  For a more comprehensive overview, please refer to our technical paper
+  <a href="https://www.macrocosmos.ai/research/iota_primer.pdf">here</a>.
 </p>

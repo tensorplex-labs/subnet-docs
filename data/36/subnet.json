@@ -10,6 +10,15 @@
   "categories": ["AI Agent"],
   "bittensor_discord_id": "1339356060787408996",
   "team": "Autoppia",
-  "description": "",
-  "websites": []
+  "description": "description.html",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://autoppia.com"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/AutoppiaAI"
+    }
+  ]
 }

@@ -1,15 +1,15 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "protein_folding",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Protein Folding",
-  "github": ["https://github.com/macrocosm-os/folding"],
+  "name": "Mainframe",
+  "github": ["https://github.com/macrocosm-os/mainframe"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/25/v1.png",
   "description": "",
   "bittensor_discord_id": "1234881153832321024",
   "team": "Macrocosmos",
-  "summary": "Protein Folding focuses on molecular dynamics simulations. Contributors are incentivized to develop performant protein-folding models that drive down the cost of querying.",
+  "summary": "Generalized Scientific Compute on Bittensor",
   "categories": ["DeSci", "Macrocosmos"],
   "websites": [
     {

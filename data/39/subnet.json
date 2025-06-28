@@ -1,28 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "edge_maxxing",
+  "bittensor_id": "",
   "letter": "",
-  "name": "EdgeMaxxing",
-  "github": ["https://github.com/womboai/edge-optimization-subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/39/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1241046233800507482",
-  "team": "Wombo",
-  "summary": "EdgeMaxxing is focused on optimizing AI models for consumer devices, starting with Stable Diffusion XL on the NVIDIA GeForce RTX 4090. By optimizing popular models for edge devices, the subnet aims to transform idle computing resources into valuable contributors to decentralized inference networks.",
-  "categories": ["Model Development"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/WOMBO"
-    },
-    {
-      "label": "website",
-      "url": "https://www.w.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://huggingface.co/spaces/wombo/edge-maxxing-dashboard"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
