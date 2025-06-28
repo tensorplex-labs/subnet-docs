@@ -269,16 +269,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "pre_training_llms",
         "letter": "",
-        "name": "Pre-training LLMs",
+        "name": "IOTA",
         "github": [
-            "https://github.com/macrocosm-os/pretraining"
+            "https://github.com/macrocosm-os/IOTA"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/9/v1.png",
         "description": "description.html",
         "bittensor_discord_id": "1162768567821930597",
         "team": "Macrocosmos",
-        "summary": "Pre-Training is dedicated to the creation of SOTA pretrained foundation models, rewarding contributors for achieving top performance on selected open datasets. Functioning as a continuous benchmark, the models that excel in head-to-head loss comparisons on evaluation data receive the highest rewards. The subnet has successfully developed models with 700 million and 7 billion parameters that outperform industry-leading counterparts like GPT-2 Large and Falcon-7B.",
+        "summary": "Incentivized Orchestrated Training Architecture (IOTA) is a framework for pretraining large language models across a network of heterogeneous, unreliable, permissionless and token incentivized machines. IOTA employs a data- and pipeline-parallel architecture to accelerate training and reduce hardware requirements for participants.",
         "categories": [
             "Model Development",
             "Macrocosmos"
@@ -290,19 +290,15 @@
             },
             {
                 "label": "website",
-                "url": "https://www.macrocosmos.ai/sn9"
+                "url": "https://iota.macrocosmos.ai"
             },
             {
                 "label": "dashboard",
-                "url": "https://www.macrocosmos.ai/sn9/dashboard"
+                "url": "https://iota.macrocosmos.ai/dashboard"
             },
             {
                 "label": "whitepaper",
-                "url": "https://www.macrocosmos.ai/research/pretraining_whitepaper.pdf"
-            },
-            {
-                "label": "substack",
-                "url": "https://macrocosmosai.substack.com/t/pre-training"
+                "url": "https://www.macrocosmos.ai/research/iota_primer.pdf"
             }
         ],
         "subnet_id": 9
@@ -796,18 +792,18 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "protein_folding",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Protein Folding",
+        "name": "Mainframe",
         "github": [
-            "https://github.com/macrocosm-os/folding"
+            "https://github.com/macrocosm-os/mainframe"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/25/v1.png",
         "description": "",
         "bittensor_discord_id": "1234881153832321024",
         "team": "Macrocosmos",
-        "summary": "Protein Folding focuses on molecular dynamics simulations. Contributors are incentivized to develop performant protein-folding models that drive down the cost of querying.",
+        "summary": "Generalized Scientific Compute on Bittensor",
         "categories": [
             "DeSci",
             "Macrocosmos"
@@ -1175,8 +1171,17 @@
         ],
         "bittensor_discord_id": "1339356060787408996",
         "team": "Autoppia",
-        "description": "",
-        "websites": [],
+        "description": "description.html",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://autoppia.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/AutoppiaAI"
+            }
+        ],
         "subnet_id": 36
     },
     {
@@ -1244,35 +1249,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "edge_maxxing",
+        "bittensor_id": "",
         "letter": "",
-        "name": "EdgeMaxxing",
-        "github": [
-            "https://github.com/womboai/edge-optimization-subnet"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/39/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1241046233800507482",
-        "team": "Wombo",
-        "summary": "EdgeMaxxing is focused on optimizing AI models for consumer devices, starting with Stable Diffusion XL on the NVIDIA GeForce RTX 4090. By optimizing popular models for edge devices, the subnet aims to transform idle computing resources into valuable contributors to decentralized inference networks.",
-        "categories": [
-            "Model Development"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/WOMBO"
-            },
-            {
-                "label": "website",
-                "url": "https://www.w.ai/"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://huggingface.co/spaces/wombo/edge-maxxing-dashboard"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 39
     },
     {
