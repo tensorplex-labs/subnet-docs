@@ -2179,17 +2179,27 @@
         "bittensor_id": "",
         "letter": "",
         "name": "MetaHash",
-        "github": [],
+        "github": [
+            "https://github.com/fx-integral/metahash"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/73/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1351969903132938302",
         "team": "",
-        "summary": "The first meta-mining subnet on Bittensor \u2014 a decentralized OTC marketplace for Bittensor miners.",
+        "summary": "Metahash (Subnet 73) is a decentralized over-the-counter (OTC) layer that allows dTAO holders swap $ALPHA directly for $META, eliminating slippage and price impact on their native subnets.",
         "websites": [
             {
                 "label": "twitter",
                 "url": "https://x.com/MetaHashSn73"
+            },
+            {
+                "label": "website",
+                "url": "https://metahash73.com"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/m9J8QTf5JT"
             }
         ],
         "subnet_id": 73
