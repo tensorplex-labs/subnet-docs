@@ -118,6 +118,10 @@
             {
                 "label": "website",
                 "url": "https://www.tplr.ai"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/McJ2jGwj"
             }
         ],
         "subnet_id": 3
@@ -1251,15 +1255,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Basilica",
+        "github": [
+            "https://github.com/tplr-ai/basilica"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "distributed_tensor",
+        "summary": "Basilica is a decentralized GPU compute marketplace built on the Bittensor network. It creates a trustless environment where GPU providers (miners) can offer compute resources, and validators ensure quality and reliability through cryptographic verification.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/tplr_ai"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/McJ2jGwj"
+            }
+        ],
         "subnet_id": 39
     },
     {
@@ -2894,15 +2909,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "HappyAI",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Building AI apps to make people happier.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/smile_mem"
+            },
+            {
+                "label": "website",
+                "url": "https://www.happysmile.ai"
+            }
+        ],
         "subnet_id": 103
     },
     {
@@ -3243,15 +3267,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Bitrecs",
+        "github": [
+            "https://github.com/bitrecs/bitrecs-subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/122/v1.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Bitrecs is a novel recommendation engine built on the Bittensor network. This implementation provides a framework for serving realtime e-commerce recommendations using LLMs. Miners are encouraged to experiment with their own implementations to improve latency and quality. We aim to provide relevant and timely recommendations for any ecommerce site.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.bitrecs.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/bitrecs"
+            }
+        ],
         "subnet_id": 122
     },
     {
