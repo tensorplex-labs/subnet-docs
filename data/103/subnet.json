@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
+  "name": "HappyAI",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Building AI apps to make people happier.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/smile_mem"
+    },
+    {
+      "label": "website",
+      "url": "https://www.happysmile.ai"
+    }
+  ]
 }

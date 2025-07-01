@@ -1,0 +1,87 @@
+<h2 id="subnet-goals">Subnet Goals</h2>
+<ul>
+  <li>
+    <p>
+      <strong>Maximize sales for online retailers (ecommerce merchants)</strong>
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong
+        >Discover the best and most consistent LLMs that can produce quality,
+        generalized recs</strong
+      >
+    </p>
+  </li>
+</ul>
+<p>Common objectives shared by merchants:</p>
+<ol>
+  <li>Increase add to carts (engagement)</li>
+  <li>
+    Increase the number of customers who complete an order (conversion rate)
+  </li>
+  <li>Increase the average size of cart (average order value)</li>
+</ol>
+<p>
+  The subnet miners are incentivized to try to maximize the goals for online
+  merchants using <em>existing store data and traffic</em> (onsite).
+</p>
+<h2 id="problem">Problem</h2>
+<p>
+  Global e-commerce is an estimated 20T market with a ~15% CAGR. A large portion
+  of online sales are directly attributed to onsite recommendations (e.g
+  customers who bought x also bought y, bundled products, last minute checkout
+  items etc). Famously, Amazon attributes 35% of their total online sales to
+  their proprietary recommendation engine. Unfortunately this engine is out of
+  reach for most online retailers who are operating on smaller platforms (e.g
+  Shopify, Woocommerce etc) which have their own recommendation solutions and
+  widgets, often using older rules-based technology.
+</p>
+<p>
+  This problem is a subset of the much larger General Recommendations space
+  which powers most of the Internet today (e.g Netflix movie recommendations,
+  TikTok reels, Google search suggestions, etc)
+</p>
+<p>
+  We are addressing a more narrow but vital area of e-commerce -
+  <a
+    href="https://www.perplexity.ai/search/onsite-product-recommendations-PmY8e84GSxavnmdSW9934A"
+    >onsite product recommendations for merchants</a
+  >
+</p>
+<h2 id="solution">Solution</h2>
+<p>
+  Incentivize Bittensor miners to provide realtime product recommendations for
+  online merchants.
+</p>
+<p>
+  The first generation solution uses prompting and ICL via a Voting Ensemble
+  method to coerce recs from the latest LLMs. We explore dozens of LLMs and
+  measure their &quot;agreement&quot; via sku recommendations they produce in
+  zero-shot queries. These recs make their way back to client websites for the
+  end user (the shopper) to consume.
+</p>
+<p>
+  <img
+    src="https://github.com/bitrecs/bitrecs-subnet/raw/main/docs/bitrecs_moe.png"
+    alt="basic query"
+  />
+</p>
+<p>
+  0.8 uses a simple prompt template that we hope to evolve into a fully featured
+  recommender as the network matures. Additionally, many LLM&#39;s have encoded
+  valuable information about shopping cohorts, seasonality, brand affinities,
+  customer journeys etc which we try to unlock using prompting.
+</p>
+<p>
+  The solution has been designed to offer merchants a free and simple plugin
+  that works out of the box, while hiding all the complexity and abstractions of
+  Bittensor away from them so they can continue to focus on selling and running
+  an online business. Subnet miners can focus on competing and evolving the
+  prompting to produce increasingly valuable and timely product recommendations.
+</p>
+<p>
+  Validators provide the gateway to the miners, which send and collect requests
+  through the network, scoring them and selecting a top candidate to return to
+  the client.
+</p>
