@@ -1224,25 +1224,29 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "distributed_training",
+        "bittensor_id": "",
         "letter": "",
-        "name": "DistributedTraining",
+        "name": "DSTRBTD",
         "github": [
-            "https://github.com/KMFODA/DistributedTraining"
+            "https://github.com/dstrbtd/DistributedTraining"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/38/v2.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1281623984286334987",
         "team": "KMFODA",
-        "summary": "DistributedTraining is focused on training a single LLM in a distributed setting. Contributors are incentivized to provide compute, bandwidth, and low latency, using compute to train local models and bandwidth and latency to facilitate the averaging of model weights across participants.",
+        "summary": "Trust-less Decentralised Distributed Training",
         "categories": [
             "Compute"
         ],
         "websites": [
             {
                 "label": "website",
-                "url": "https://distributed-training.notion.site/Decentralised-Distributed-Training-fd21bdfa72294dfeab8fb092770212b9"
+                "url": "https://www.dstrbtd.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/dstrbtd_ai"
             },
             {
                 "label": "dashboard",
