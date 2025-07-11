@@ -3,13 +3,13 @@
   "bittensor_id": "",
   "letter": "",
   "name": "HappyAI",
-  "github": [],
+  "github": ["https://github.com/graph-it-uk/HappyAI-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Building AI apps to make people happier.",
+  "summary": "Powering the Avocado mental-health companion",
   "websites": [
     {
       "label": "twitter",

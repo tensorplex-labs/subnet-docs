@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Neza",
+  "github": ["https://github.com/subnet99/neza"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/99/v1.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Focused on faster, higher-quality video generation, driving innovation, empowering creators, and enabling commercial impact.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://neza.video"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/neza_video"
+    }
+  ]
 }
