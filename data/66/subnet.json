@@ -2,14 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Fake News",
-  "github": ["https://github.com/gutenberg-team/fakenews-subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1334536801922060360",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "FakeNews is subnet, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions—even for real-time verifications. Our vision is to create the world’s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with help and power of decentralized AI community.",
-  "categories": ["DeepFake Detection"],
+  "summary": "",
   "websites": []
 }
