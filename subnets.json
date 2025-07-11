@@ -2854,15 +2854,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Neza",
+        "github": [
+            "https://github.com/subnet99/neza"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/99/v1.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Focused on faster, higher-quality video generation, driving innovation, empowering creators, and enabling commercial impact.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://neza.video"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/neza_video"
+            }
+        ],
         "subnet_id": 99
     },
     {
@@ -2915,13 +2926,15 @@
         "bittensor_id": "",
         "letter": "",
         "name": "HappyAI",
-        "github": [],
+        "github": [
+            "https://github.com/graph-it-uk/HappyAI-subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Building AI apps to make people happier.",
+        "summary": "Powering the Avocado mental-health companion",
         "websites": [
             {
                 "label": "twitter",
