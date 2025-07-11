@@ -2,22 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "InfiniteVibe",
-  "github": ["https://github.com/Delta-Compute/infinitevibe"],
+  "name": "InfiniteHash",
+  "github": ["https://github.com/backend-developers-ltd/InfiniteHash"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/89/v1.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1359592408119120033",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "InfiniteVibe is an AI‐driven video and media studio putting Bittensor at the frontier of AI-Generated video production.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://infinitevibe.ai/"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/J3tXWDrzEm"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }
