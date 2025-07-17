@@ -913,9 +913,10 @@
         "$schema": "../../schema.json",
         "bittensor_id": "coldint",
         "letter": "",
-        "name": "Coldint",
+        "name": "AI ASSeSS",
         "github": [
-            "https://github.com/coldint/sn29"
+            "https://github.com/coldint/sn29",
+            "https://github.com/coldint/coldint_validator"
         ],
         "hw_requirements": "",
         "categories": [
@@ -925,12 +926,8 @@
         "description": "description.html",
         "bittensor_discord_id": "1263866060780605501",
         "team": "Coldint",
-        "summary": "Coldint is dedicated to the collective training of AI models by incentivizing contributors to collaborate on models, code, and insights.",
+        "summary": "AI Agent Safety&Security Specialist Subnet",
         "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/coldint"
-            },
             {
                 "label": "website",
                 "url": "https://coldint.io/"
