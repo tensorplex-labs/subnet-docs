@@ -2049,12 +2049,25 @@
         "name": "Ocean",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/66/v2.jpg",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Transforming Bittensor POOLS into OCEANS. Oceans incentivizes miners to provide liquidity to Bittensor subnets base on what alpha holders vote.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/OceansSN66"
+            },
+            {
+                "label": "website",
+                "url": "https://oceans66.com"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://oceans66.com/whitepaper/introduction"
+            }
+        ],
         "subnet_id": 66
     },
     {
