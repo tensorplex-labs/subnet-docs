@@ -3,12 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "affine",
-  "github": [],
+  "github": ["https://github.com/AffineFoundation/affine"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/120/v1.png",
+  "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "Affine Foundation",
   "summary": "affinity with the machine",
   "websites": []
 }
