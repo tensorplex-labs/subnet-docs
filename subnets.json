@@ -3066,15 +3066,34 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Taoillium",
+        "github": [
+            "https://github.com/taoillium/bittensor-subnet-taoillium"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/109/v1.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Bittensor Subnet Taoillium is a comprehensive framework for building and deploying incentivized subnets on the Bittensor blockchain. This project provides a complete template that abstracts away the complexity of blockchain interactions while offering powerful tools for creating custom incentive mechanisms.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://taoillium.ai"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://app.taoillium.ai/docs"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/Taoillium"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/taoillium"
+            }
+        ],
         "subnet_id": 109
     },
     {
