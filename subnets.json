@@ -1458,35 +1458,17 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "final-tsadi",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Neural3D",
-        "github": [
-            "https://github.com/GoNeuralAI/neural-subnet"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/46/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "1273657158982172742",
-        "team": "Neural AI",
-        "summary": "The goal of this subnet is to provide end users (game developers, virtual production, etc.) a way to populate 3D worlds by quickly generating high quality 3D assets based on text prompts via web app, API or plugins for game engines (e.g Unreal Engine & Unity), while simultaneously building a massive open-source library of 3D assets that can be used amongst other things, for further model training.",
-        "categories": [
-            "Inference"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/GoNeuralAI"
-            },
-            {
-                "label": "website",
-                "url": "https://www.goneural.ai/"
-            },
-            {
-                "label": "application",
-                "url": "https://app.goneural.ai/"
-            }
-        ],
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 46
     },
     {
@@ -1603,27 +1585,23 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Compute Subnet",
+        "name": "lium.io",
         "github": [
-            "https://github.com/Datura-ai/compute-subnet"
+            "https://github.com/Datura-ai/lium-io"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/51/v1.svg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/51/v2.png",
         "description": "description.html",
         "bittensor_discord_id": "1291754566957928469",
         "team": "Datura",
-        "summary": "The Compute Subnet on Bittensor is a decentralized network that allows miners to contribute their GPU resources to a global pool. Users can rent these resources for computational tasks, such as machine learning, data analysis, and more. The system ensures fair compensation for miners based on the quality and performance of their GPUs.",
+        "summary": "This project enables a decentralized, peer-to-peer GPU rental marketplace, connecting miners who contribute GPU resources with users who need computational power. Our frontend interface is available at lium.io, where you can easily rent machines from the subnet.",
         "categories": [
             "Compute"
         ],
         "websites": [
             {
                 "label": "website",
-                "url": "https://celiumcompute.ai/"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/celiumcompute"
+                "url": "https://lium.io/"
             }
         ],
         "subnet_id": 51
