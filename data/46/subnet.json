@@ -1,28 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "final-tsadi",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Neural3D",
-  "github": ["https://github.com/GoNeuralAI/neural-subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/46/v1.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1273657158982172742",
-  "team": "Neural AI",
-  "summary": "The goal of this subnet is to provide end users (game developers, virtual production, etc.) a way to populate 3D worlds by quickly generating high quality 3D assets based on text prompts via web app, API or plugins for game engines (e.g Unreal Engine & Unity), while simultaneously building a massive open-source library of 3D assets that can be used amongst other things, for further model training.",
-  "categories": ["Inference"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/GoNeuralAI"
-    },
-    {
-      "label": "website",
-      "url": "https://www.goneural.ai/"
-    },
-    {
-      "label": "application",
-      "url": "https://app.goneural.ai/"
-    }
-  ]
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }

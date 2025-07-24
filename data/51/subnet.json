@@ -2,23 +2,19 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Compute Subnet",
-  "github": ["https://github.com/Datura-ai/compute-subnet"],
+  "name": "lium.io",
+  "github": ["https://github.com/Datura-ai/lium-io"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/51/v1.svg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/51/v2.png",
   "description": "description.html",
   "bittensor_discord_id": "1291754566957928469",
   "team": "Datura",
-  "summary": "The Compute Subnet on Bittensor is a decentralized network that allows miners to contribute their GPU resources to a global pool. Users can rent these resources for computational tasks, such as machine learning, data analysis, and more. The system ensures fair compensation for miners based on the quality and performance of their GPUs.",
+  "summary": "This project enables a decentralized, peer-to-peer GPU rental marketplace, connecting miners who contribute GPU resources with users who need computational power. Our frontend interface is available at lium.io, where you can easily rent machines from the subnet.",
   "categories": ["Compute"],
   "websites": [
     {
       "label": "website",
-      "url": "https://celiumcompute.ai/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/celiumcompute"
+      "url": "https://lium.io/"
     }
   ]
 }
