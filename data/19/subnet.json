@@ -5,28 +5,28 @@
   "name": "Nineteen",
   "github": ["https://github.com/rayonlabs/nineteen"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/19/v1.svg",
+  "image_url": "nineteen-image-url",
   "description": "description.html",
   "bittensor_discord_id": "1186691482749505627",
-  "team": "",
-  "summary": "Giving access to Bittensor with Decentralized subnet inference at scale.",
+  "team": "Rayon Labs",
+  "summary": "Lightning Fast, Decentralized Inference at Scale.",
   "categories": ["Inference"],
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/rayon_labs"
+      "url": "https://x.com/nineteen_ai"
     },
     {
       "label": "website",
-      "url": "https://sn19.ai/"
+      "url": "https://nineteen.ai/"
     },
     {
       "label": "dashboard",
-      "url": "https://sn19.ai/leaderboards"
+      "url": "https://nineteen.ai/app/research/leaderboards"
     },
     {
       "label": "application",
-      "url": "https://app.sn19.ai/"
+      "url": "https://nineteen.ai/app/playground"
     },
     {
       "label": "whitepaper",
@@ -34,7 +34,7 @@
     },
     {
       "label": "discord",
-      "url": "https://discord.gg/dR865yTPaZ"
+      "url": "https://discord.gg/HbysyPuZns"
     }
   ]
 }
