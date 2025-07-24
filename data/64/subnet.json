@@ -5,11 +5,11 @@
   "name": "Chutes",
   "github": ["https://github.com/rayonlabs/chutes-miner"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/64/v1.svg",
+  "image_url": "new-chutes-image",
   "description": "",
   "bittensor_discord_id": "1320739778534047785",
   "team": "Rayon Labs",
-  "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world, with an economic model built for the upcoming dTao future.",
+  "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world. Run any available model at scale, or deploy your own in seconds.",
   "categories": ["Compute"],
   "websites": [
     {
@@ -18,11 +18,11 @@
     },
     {
       "label": "dashboard",
-      "url": "https://api.chutes.ai/miner/stats"
+      "url": "https://chutes.ai/app/research/leaderboard"
     },
     {
       "label": "twitter",
-      "url": "https://x.com/rayon_labs"
+      "url": "https://x.com/chutes_ai"
     }
   ]
 }

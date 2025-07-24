@@ -5,11 +5,11 @@
   "name": "Gradients",
   "github": ["https://github.com/rayonlabs/G.O.D"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/56/v1.svg",
+  "image_url": "new-gradients-image",
   "description": "",
   "bittensor_discord_id": "1311360495428702240",
-  "team": "Namoray",
-  "summary": "Providing access to Bittensor network for on-demand training at scale.",
+  "team": "Rayon Labs",
+  "summary": "On Gradients, Train SOTA Artificial Intelligence Models in a few clicks. The world's best AutoML platform.",
   "categories": ["Distributed Training"],
   "websites": [
     {
@@ -18,7 +18,19 @@
     },
     {
       "label": "twitter",
-      "url": "https://x.com/rayon_labs"
+      "url": "https://x.com/gradients_ai"
+    },
+    {
+      "label": "dashboard",
+      "url": "https://gradients.io/app/research"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://arxiv.org/pdf/2506.07940"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/HbysyPuZns"
     }
   ]
 }
