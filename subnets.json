@@ -193,7 +193,8 @@
         "team": "",
         "summary": "Infinite Games incentivizes the prediction of future events by rewarding contributors based on the accuracy and speed of their model's forecasts. The subnet currently focuses on binary future events listed on Polymarket and Azuro.",
         "categories": [
-            "Prediction Market"
+            "Prediction Market",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -321,7 +322,8 @@
         "bittensor_discord_id": "1217952256306057298",
         "team": "",
         "categories": [
-            "DeFi"
+            "DeFi",
+            "Yuma Accelerated"
         ],
         "summary": "Sturdy is focused on the creation of autonomous DeFi yield optimizers. Contributors develop algorithms to allocate assets among a fixed set of strategies or 'pools' with varying interest rates to maximize yield.",
         "websites": [
@@ -506,6 +508,9 @@
         "bittensor_discord_id": "",
         "team": "",
         "summary": "HashTensor is a decentralized Bittensor subnet designed to track and validate mining activity across multiple proof-of-work blockchains. By introducing a model called Proof of Effective Work (PoEW), the system rewards miners not just for raw hashrate, but for performance, uptime, and reliability, allowing them to earn Alpha tokens based on their actual contribution.",
+        "categories": [
+            "Mining"
+        ],
         "websites": [
             {
                 "label": "website",
@@ -596,10 +601,11 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/19/v1.svg",
         "description": "description.html",
         "bittensor_discord_id": "1186691482749505627",
-        "team": "",
+        "team": "Rayon Labs",
         "summary": "Giving access to Bittensor with Decentralized subnet inference at scale.",
         "categories": [
-            "Inference"
+            "Inference",
+            "Rayon Labs"
         ],
         "websites": [
             {
@@ -1346,7 +1352,8 @@
         "team": "Masa",
         "summary": "Masa focuses on decentralized data scraping, offering an alternative to traditional centralized services like BrightData and Apify.",
         "categories": [
-            "Data Pipeline"
+            "Data Pipeline",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -1409,7 +1416,8 @@
         "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
         "categories": [
             "Model Development",
-            "Sports Prediction"
+            "Sports Prediction",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -1623,7 +1631,8 @@
         "bittensor_discord_id": "1213131262483628102",
         "team": "Tensorplex",
         "categories": [
-            "Data Pipeline"
+            "Data Pipeline",
+            "Reinforcement Learning"
         ],
         "summary": "Tensorplex Dojo Subnet is an open platform designed to crowdsource high-quality human-generated datasets. Powered by Bittensor, the Dojo Subnet addresses these challenges by allowing anyone to earn TAO by labeling data or providing human-preference data. This approach democratizes the collection of human preference data, addressing existing equity issues and paving the way for more inclusive and ethical AI development.",
         "websites": [
@@ -1687,6 +1696,10 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/54/v2.jpg",
         "description": "description.html",
         "bittensor_discord_id": "",
+        "categories": [
+            "Fraud Protection",
+            "Yuma Accelerated"
+        ],
         "team": "Yanez Compliance",
         "summary": "MIID (Multimodal Inorganic Identity Dataset) is a next-generation identity testing and identity data generation subnet designed to enhance fraud detection, KYC systems, and name-matching algorithms.",
         "websites": [
@@ -1716,7 +1729,8 @@
         "team": "Coin Metric",
         "summary": "The Precog Subnet will serve as an arena to identify the analysts with the best strategies and information to anticipate Bitcoin price movements, and recruit them to share their insight with the broader community.",
         "categories": [
-            "Financial Trading"
+            "Financial Trading",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -1742,10 +1756,11 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/56/v1.svg",
         "description": "",
         "bittensor_discord_id": "1311360495428702240",
-        "team": "Namoray",
+        "team": "Rayon Labs",
         "summary": "Providing access to Bittensor network for on-demand training at scale.",
         "categories": [
-            "Distributed Training"
+            "Distributed Training",
+            "Rayon Labs"
         ],
         "websites": [
             {
@@ -1807,7 +1822,8 @@
         "team": "Impel",
         "summary": "The Dippy Empathetic Speech Subnet on Bittensor is dedicated to developing the world's most advanced open-source Speech model for immersive, lifelike interactions.",
         "categories": [
-            "Model Development"
+            "Model Development",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -1865,7 +1881,8 @@
         "team": "Bitsec",
         "summary": "Bitsec is an Ecosystem for AI-powered code vulnerability detection. Initially it will help other Bittensor Subnet owners find and fix flaws in their incentive mechanisms, and find exploits in smart contract code. As the project grows, Bitsec will expand coverage to other types of codebases.",
         "categories": [
-            "Cybersecurity"
+            "Cybersecurity",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -1894,7 +1911,8 @@
         "team": "Innerworks",
         "summary": "At RedTeam, we're creating a hub for ethical hacking and amplifying the collective intelligence of a unique community of engineers. For the first time, sophisticated attackers can be rewarded for their ingenuity through a powerful incentive mechanism designed to uncover vulnerabilities and build more resilient systems.",
         "categories": [
-            "Cybersecurity"
+            "Cybersecurity",
+            "Yuma Accelerated"
         ],
         "websites": [
             {
@@ -1954,6 +1972,10 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "qBitTensor Labs",
+        "categories": [
+            "Quantum Computing",
+            "Compute"
+        ],
         "summary": "Unlocking Practical Quantum Computing on Bittensor",
         "websites": [
             {
@@ -1982,7 +2004,8 @@
         "team": "Rayon Labs",
         "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world, with an economic model built for the upcoming dTao future.",
         "categories": [
-            "Compute"
+            "Compute",
+            "Rayon Labs"
         ],
         "websites": [
             {
@@ -2031,6 +2054,9 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
+        "categories": [
+            "DeFi"
+        ],
         "summary": "Transforming Bittensor POOLS into OCEANS. Oceans incentivizes miners to provide liquidity to Bittensor subnets base on what alpha holders vote.",
         "websites": [
             {
@@ -2125,6 +2151,10 @@
         "bittensor_discord_id": "1349119225868058644",
         "team": "dFusion",
         "summary": "Vericore is a Bittensor subnet seeking to improve large-scale semantic fact-checking and verification. The subnet processes statements and returns evidence-based validation through relevant quotes and source materials that either support or contradict the input claims.",
+        "categories": [
+            "Fraud Protection",
+            "Yuma Accelerated"
+        ],
         "websites": [
             {
                 "label": "website",
@@ -2166,6 +2196,11 @@
         "bittensor_discord_id": "1349122541754515538",
         "team": "NATIX",
         "summary": "This network is a decentralized subnet designed to inference images to extract information such as construction sites. Built on Bittensor, this subnet incentivizes miners to develop and deploy models that accurately detect features, starting with construction sites.",
+        "categories": [
+            "Inference",
+            "Computer Vision",
+            "Yuma Accelerated"
+        ],
         "websites": [
             {
                 "label": "website",
@@ -2196,6 +2231,9 @@
         "bittensor_discord_id": "1351969903132938302",
         "team": "",
         "summary": "Metahash (Subnet 73) is a decentralized over-the-counter (OTC) layer that allows dTAO holders swap $ALPHA directly for $META, eliminating slippage and price impact on their native subnets.",
+        "categories": [
+            "DeFi"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -2313,6 +2351,9 @@
         "bittensor_discord_id": "1351180132295118848",
         "team": "",
         "summary": "A complete on-chain liquidity mining system for the Bittensor ecosystem.",
+        "categories": [
+            "DeFi"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -2490,6 +2531,9 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/85/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1342559689690583202",
+        "categories": [
+            "Computer Vision"
+        ],
         "team": "",
         "summary": "Revolutionizing Video Upscaling with AI-Driven Decentralisation",
         "websites": [
@@ -2539,6 +2583,9 @@
         "bittensor_discord_id": "1347299108238397572",
         "team": "",
         "summary": "CheckerChain is a next-gen AI-powered crypto review platform that powers a trustless review consensus mechanism (tRCM).",
+        "categories": [
+            "Fraud Protection"
+        ],
         "websites": [
             {
                 "label": "website",
@@ -2598,6 +2645,9 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
+        "categories": [
+            "Mining"
+        ],
         "summary": "",
         "websites": [],
         "subnet_id": 89
@@ -2616,6 +2666,9 @@
         "bittensor_discord_id": "1361438967198908577",
         "team": "",
         "summary": "A fully implemented Bittensor subnet for automated verification of prediction market statements through distributed consensus.",
+        "categories": [
+            "Prediction Market"
+        ],
         "websites": [
             {
                 "label": "website",
@@ -2638,6 +2691,9 @@
         "bittensor_discord_id": "1361439346154016900",
         "team": "Shugo LTD",
         "summary": "The Incentivized DDoS Scrubbing Center",
+        "categories": [
+            "Cybersecurity"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -2667,6 +2723,9 @@
         "description": "description.html",
         "bittensor_discord_id": "1361761424153645217",
         "team": "ReinforcedAI",
+        "categories": [
+            "Cybersecurity"
+        ],
         "summary": "The mission of ReinforcedAI\u2019s Solidity Audit Subnet Pi is to accelerate this process by combining knowledge and expertise of such teams. Aligning decentralized sources of expertise towards competition and benchmarking against peers is the most effective mechanism to accomplish that mission. Bittensor\u2019s architecture and incentive mechanisms are the perfect way to organize the market for that knowledge and expertise \u2014 there are clear incentives to join and competitive mechanisms that motivate improvements, which is exactly what is needed to create the most innovative solutions.",
         "websites": [
             {
@@ -2691,6 +2750,10 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/93/v1.jpg",
         "description": "",
+        "category": [
+            "Marketing",
+            "Social"
+        ],
         "bittensor_discord_id": "1362489640841380045",
         "team": "",
         "summary": "Bitcast is a decentralized platform that incentivizes content creators to connect brands with audiences. Creators publish YouTube videos to satisfy defined briefs and earn rewards based on engagement metrics.",
@@ -2732,6 +2795,9 @@
         "bittensor_discord_id": "1343988268630409226",
         "team": "Eastworld AI",
         "summary": "Next-Generation Gyms for Next-Generation AI Agents, on Bittensor",
+        "categories": [
+            "AI Agent"
+        ],
         "websites": [
             {
                 "label": "twitter",
@@ -2771,6 +2837,9 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/96/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "",
+        "categories": [
+            "Yuma Accelerated"
+        ],
         "team": "FLock.io",
         "summary": "FLock OFF is a Bittensor subnet designed to incentivize the creation of high-quality datasets for machine learning. Miners generate and upload datasets to Hugging Face, while validators assess their quality by training LoRA (Low-Rank Adaptation) models on a standardized base model (Qwen/Qwen2.5-1.5B-Instruct) and rewarding miners based on performance.",
         "websites": [
@@ -2924,6 +2993,9 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
+        "categories": [
+            "Social"
+        ],
         "summary": "Powering the Avocado mental-health companion",
         "websites": [
             {
@@ -2964,6 +3036,9 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
         "bittensor_discord_id": "",
+        "categories": [
+            "Model Development"
+        ],
         "team": "",
         "summary": "Spearheading Open-Source Speech Enhancement",
         "websites": [
@@ -2984,6 +3059,9 @@
         "letter": "",
         "name": "Liquidity Provisioning",
         "github": [],
+        "categories": [
+            "DeFi"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/106/v1.jpg",
         "description": "description.html",
@@ -3140,6 +3218,10 @@
         "bittensor_discord_id": "",
         "team": "",
         "summary": "Taonado is a zero knowledge (ZK) based token mixer for the Bittensor ($TAO) ecosystem, inspired by the privacy principles of Tornado Cash. It enables users to deposit and withdraw TAO tokens with complete anonymity, severing the onchain link between sender and receiver addresses. Built to align with Bittensor's incentivized network, Taonado rewards participants for contributing to network privacy and security.",
+        "categories": [
+            "DeFi",
+            "Zero Knowledge"
+        ],
         "websites": [
             {
                 "label": "website",
@@ -3259,6 +3341,9 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/120/v1.png",
         "description": "description.html",
         "bittensor_discord_id": "",
+        "categories": [
+            "Reinforcement Learning"
+        ],
         "team": "Affine Foundation",
         "summary": "affinity with the machine",
         "websites": [],
@@ -3275,6 +3360,9 @@
         "description": "",
         "bittensor_discord_id": "",
         "team": "sundae_bar ai",
+        "categories": [
+            "AI Agent"
+        ],
         "summary": "",
         "websites": [
             {
@@ -3330,6 +3418,10 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
         "bittensor_discord_id": "",
+        "categories": [
+            "Prediction Market",
+            "Inference"
+        ],
         "team": "",
         "summary": "The Ultimate Signal Machine",
         "websites": [],
@@ -3348,6 +3440,9 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
+        "categories": [
+            "Robotics"
+        ],
         "summary": "Developing OS autopilot for drones",
         "websites": [
             {
