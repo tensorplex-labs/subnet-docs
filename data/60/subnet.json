@@ -10,7 +10,7 @@
   "bittensor_discord_id": "1300553352274382848",
   "team": "Bitsec",
   "summary": "Bitsec is an Ecosystem for AI-powered code vulnerability detection. Initially it will help other Bittensor Subnet owners find and fix flaws in their incentive mechanisms, and find exploits in smart contract code. As the project grows, Bitsec will expand coverage to other types of codebases.",
-  "categories": ["Cybersecurity"],
+  "categories": ["Cybersecurity", "Yuma Accelerated"],
   "websites": [
     {
       "label": "twitter",

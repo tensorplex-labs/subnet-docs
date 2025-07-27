@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1361438967198908577",
   "team": "",
   "summary": "A fully implemented Bittensor subnet for automated verification of prediction market statements through distributed consensus.",
+  "categories": ["Prediction Market"],
   "websites": [
     {
       "label": "website",

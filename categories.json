@@ -5,6 +5,10 @@
       "description": ""
     },
     {
+      "name": "Computer Vision",
+      "description": ""
+    },
+    {
       "name": "Distributed Training",
       "description": ""
     },
@@ -69,6 +73,14 @@
       "description": ""
     },
     {
+      "name": "Yuma Accelerated",
+      "description": ""
+    },
+    {
+      "name": "Rayon Labs",
+      "description": ""
+    },
+    {
       "name": "Cybersecurity",
       "description": ""
     },
@@ -81,7 +93,23 @@
       "description": ""
     },
     {
+      "name": "Robotics",
+      "description": ""
+    },
+    {
+      "name": "Quantum Computing",
+      "description": ""
+    },
+    {
       "name": "Marketing",
+      "description": ""
+    },
+    {
+      "name": "Fraud Protection",
+      "description": ""
+    },
+    {
+      "name": "Reinforcement Learning",
       "description": ""
     }
   ]

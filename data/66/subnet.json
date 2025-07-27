@@ -9,6 +9,7 @@
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
+  "categories": ["DeFi"],
   "summary": "Transforming Bittensor POOLS into OCEANS. Oceans incentivizes miners to provide liquidity to Bittensor subnets base on what alpha holders vote.",
   "websites": [
     {

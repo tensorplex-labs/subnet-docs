@@ -10,6 +10,7 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Taonado is a zero knowledge (ZK) based token mixer for the Bittensor ($TAO) ecosystem, inspired by the privacy principles of Tornado Cash. It enables users to deposit and withdraw TAO tokens with complete anonymity, severing the onchain link between sender and receiver addresses. Built to align with Bittensor's incentivized network, Taonado rewards participants for contributing to network privacy and security.",
+  "categories": ["DeFi", "Zero Knowledge"],
   "websites": [
     {
       "label": "website",

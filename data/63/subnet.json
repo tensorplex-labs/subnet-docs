@@ -9,6 +9,7 @@
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "qBitTensor Labs",
+  "categories": ["Quantum Computing", "Compute"],
   "summary": "Unlocking Practical Quantum Computing on Bittensor",
   "websites": [
     {

@@ -8,9 +8,9 @@
   "image_url": "https://backprop.finance/assets/subnet-logos/56/v1.svg",
   "description": "",
   "bittensor_discord_id": "1311360495428702240",
-  "team": "Namoray",
+  "team": "Rayon Labs",
   "summary": "Providing access to Bittensor network for on-demand training at scale.",
-  "categories": ["Distributed Training"],
+  "categories": ["Distributed Training", "Rayon Labs"],
   "websites": [
     {
       "label": "website",

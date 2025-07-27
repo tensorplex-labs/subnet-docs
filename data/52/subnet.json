@@ -14,7 +14,7 @@
   "description": "description.html",
   "bittensor_discord_id": "1213131262483628102",
   "team": "Tensorplex",
-  "categories": ["Data Pipeline"],
+  "categories": ["Data Pipeline", "Reinforcement Learning"],
   "summary": "Tensorplex Dojo Subnet is an open platform designed to crowdsource high-quality human-generated datasets. Powered by Bittensor, the Dojo Subnet addresses these challenges by allowing anyone to earn TAO by labeling data or providing human-preference data. This approach democratizes the collection of human preference data, addressing existing equity issues and paving the way for more inclusive and ethical AI development.",
   "websites": [
     {
