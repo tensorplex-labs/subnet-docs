@@ -10,6 +10,7 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "HashTensor is a decentralized Bittensor subnet designed to track and validate mining activity across multiple proof-of-work blockchains. By introducing a model called Proof of Effective Work (PoEW), the system rewards miners not just for raw hashrate, but for performance, uptime, and reliability, allowing them to earn Alpha tokens based on their actual contribution.",
+  "categories": ["Mining"],
   "websites": [
     {
       "label": "website",

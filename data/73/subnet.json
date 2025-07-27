@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1351969903132938302",
   "team": "",
   "summary": "Metahash (Subnet 73) is a decentralized over-the-counter (OTC) layer that allows dTAO holders swap $ALPHA directly for $META, eliminating slippage and price impact on their native subnets.",
+  "categories": ["DeFi"],
   "websites": [
     {
       "label": "twitter",

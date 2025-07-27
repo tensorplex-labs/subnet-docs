@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1349122541754515538",
   "team": "NATIX",
   "summary": "This network is a decentralized subnet designed to inference images to extract information such as construction sites. Built on Bittensor, this subnet incentivizes miners to develop and deploy models that accurately detect features, starting with construction sites.",
+  "categories": ["Inference", "Computer Vision", "Yuma Accelerated"],
   "websites": [
     {
       "label": "website",

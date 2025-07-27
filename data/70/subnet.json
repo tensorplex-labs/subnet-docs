@@ -10,6 +10,7 @@
   "bittensor_discord_id": "1349119225868058644",
   "team": "dFusion",
   "summary": "Vericore is a Bittensor subnet seeking to improve large-scale semantic fact-checking and verification. The subnet processes statements and returns evidence-based validation through relevant quotes and source materials that either support or contradict the input claims.",
+  "categories": ["Fraud Protection", "Yuma Accelerated"],
   "websites": [
     {
       "label": "website",
