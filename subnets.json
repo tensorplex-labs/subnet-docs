@@ -598,11 +598,11 @@
             "https://github.com/rayonlabs/nineteen"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/19/v1.svg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/19/v2.webp",
         "description": "description.html",
         "bittensor_discord_id": "1186691482749505627",
         "team": "Rayon Labs",
-        "summary": "Giving access to Bittensor with Decentralized subnet inference at scale.",
+        "summary": "Lightning Fast, Decentralized Inference at Scale.",
         "categories": [
             "Inference",
             "Rayon Labs"
@@ -610,19 +610,19 @@
         "websites": [
             {
                 "label": "twitter",
-                "url": "https://x.com/rayon_labs"
+                "url": "https://x.com/nineteen_ai"
             },
             {
                 "label": "website",
-                "url": "https://sn19.ai/"
+                "url": "https://nineteen.ai/"
             },
             {
                 "label": "dashboard",
-                "url": "https://sn19.ai/leaderboards"
+                "url": "https://nineteen.ai/app/research/leaderboards"
             },
             {
                 "label": "application",
-                "url": "https://app.sn19.ai/"
+                "url": "https://nineteen.ai/app/playground"
             },
             {
                 "label": "whitepaper",
@@ -630,7 +630,7 @@
             },
             {
                 "label": "discord",
-                "url": "https://discord.gg/dR865yTPaZ"
+                "url": "https://discord.gg/HbysyPuZns"
             }
         ],
         "subnet_id": 19
@@ -1753,11 +1753,11 @@
             "https://github.com/rayonlabs/G.O.D"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/56/v1.svg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/56/v2.webp",
         "description": "",
         "bittensor_discord_id": "1311360495428702240",
         "team": "Rayon Labs",
-        "summary": "Providing access to Bittensor network for on-demand training at scale.",
+        "summary": "On Gradients, Train SOTA Artificial Intelligence Models in a few clicks. The world's best AutoML platform.",
         "categories": [
             "Distributed Training",
             "Rayon Labs"
@@ -1769,7 +1769,19 @@
             },
             {
                 "label": "twitter",
-                "url": "https://x.com/rayon_labs"
+                "url": "https://x.com/gradients_ai"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://gradients.io/app/research"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://arxiv.org/pdf/2506.07940"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/HbysyPuZns"
             }
         ],
         "subnet_id": 56
@@ -1998,11 +2010,11 @@
             "https://github.com/rayonlabs/chutes-miner"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/64/v1.svg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/64/v2.webp",
         "description": "",
         "bittensor_discord_id": "1320739778534047785",
         "team": "Rayon Labs",
-        "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world, with an economic model built for the upcoming dTao future.",
+        "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world. Run any available model at scale, or deploy your own in seconds.",
         "categories": [
             "Compute",
             "Rayon Labs"
@@ -2014,11 +2026,11 @@
             },
             {
                 "label": "dashboard",
-                "url": "https://api.chutes.ai/miner/stats"
+                "url": "https://chutes.ai/app/research/leaderboard"
             },
             {
                 "label": "twitter",
-                "url": "https://x.com/rayon_labs"
+                "url": "https://x.com/chutes_ai"
             }
         ],
         "subnet_id": 64
