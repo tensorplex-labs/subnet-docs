@@ -2060,16 +2060,18 @@
         "bittensor_id": "",
         "letter": "",
         "name": "Ocean",
-        "github": [],
+        "github": [
+            "https://github.com/Oceans-Subnet/oceans_subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/66/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "categories": [
             "DeFi"
         ],
-        "summary": "Transforming Bittensor POOLS into OCEANS. Oceans incentivizes miners to provide liquidity to Bittensor subnets base on what alpha holders vote.",
+        "summary": "Oceans is on a mission to transform bittensor pools into oceans. We will use bittensor incentives to channel liquidity to where it is most productive. Subnet liquidity has been a huge issue in Bittensor and we want to solve it.",
         "websites": [
             {
                 "label": "twitter",
@@ -2972,7 +2974,7 @@
         "letter": "",
         "name": "BetterTherapy",
         "github": [
-            "https://github.com/BetterTherapy/bettertherapy-bittensor-subnet"
+            "https://github.com/BetterTherapy/BetterTherapy-Subnet"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/102/v1.jpg",
