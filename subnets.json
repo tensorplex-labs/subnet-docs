@@ -511,6 +511,9 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "OpenGradient",
+        "categories": [
+            "Yuma Accelerated"
+        ],
         "summary": "The Incentivized Network for AI-Powered Quantitative Analysis",
         "websites": [
             {
@@ -1897,7 +1900,8 @@
         "bittensor_discord_id": "1310617172132888639",
         "team": "Masa",
         "categories": [
-            "AI Agent"
+            "AI Agent",
+            "Yuma Accelerated"
         ],
         "summary": "Welcome to Agent Arena by Masa - the first competitive agent ecosystem where market forces and real engagement drive the evolution of sentient AI agents.",
         "websites": [
