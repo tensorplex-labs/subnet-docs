@@ -2,13 +2,30 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Hone",
+  "github": ["https://github.com/manifold-inc/hone"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/5/v3.jpg",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "Manifold Labs",
+  "summary": "Hierarchical AI Pretraining",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/traininghone"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/manifoldlabs"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/manifold"
+    },
+    {
+      "label": "website",
+      "url": "https://www.hone.training"
+    }
+  ]
 }

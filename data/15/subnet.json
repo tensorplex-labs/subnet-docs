@@ -2,13 +2,26 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "BitQuant",
+  "github": ["https://github.com/OpenGradient/BitQuant-Subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/15/v2.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "OpenGradient",
+  "summary": "The Incentivized Network for AI-Powered Quantitative Analysis",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/BitQuantAI"
+    },
+    {
+      "label": "website",
+      "url": "https://www.bitquant.io"
+    },
+    {
+      "label": "website",
+      "url": "https://www.opengradient.ai"
+    }
+  ]
 }

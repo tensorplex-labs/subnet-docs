@@ -2,13 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "ALPHA",
+  "github": ["https://github.com/tigerinvests-com/sn107-alpha"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
+  "summary": "Verifiable On-Chain Treasury Data via Decentralized AI",
   "websites": []
 }
