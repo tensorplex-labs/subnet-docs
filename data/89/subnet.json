@@ -5,11 +5,20 @@
   "name": "InfiniteHash",
   "github": ["https://github.com/backend-developers-ltd/InfiniteHash"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/89/v2.jpg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
   "categories": ["Mining"],
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "dashboard",
+      "url": "https://grafana.bactensor.io/d/infinitehash/infinitehash"
+    },
+    {
+      "label": "website",
+      "url": "https://infinitehash.xyz"
+    }
+  ]
 }

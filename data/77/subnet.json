@@ -5,7 +5,7 @@
   "name": "Liquidity",
   "github": ["https://github.com/creativebuilds/sn77"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/77/v1.jpg",
   "description": "",
   "bittensor_discord_id": "1351180132295118848",
   "team": "",
@@ -15,6 +15,10 @@
     {
       "label": "twitter",
       "url": "https://x.com/CreativeBuilds"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/77Liquidity"
     }
   ]
 }

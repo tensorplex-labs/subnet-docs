@@ -3,13 +3,26 @@
   "bittensor_id": "",
   "letter": "",
   "name": "TAO Private Network",
-  "github": ["https://github.com/beyond-stake/tpn-subnet"],
+  "github": ["https://github.com/taofu-labs/tpn-subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/65/v2.jpg",
   "description": "",
   "bittensor_discord_id": "1342275465267642408",
-  "team": "",
+  "team": "Taofu Labs",
   "summary": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers. By coordinating miners and validators, TPN ensures reliable, censorship-resistant connectivity while rewarding contributors for their participation.",
   "categories": ["Infrastructure"],
-  "websites": []
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://tpn.taofu.xyz"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/taofu"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/SN65_TPN"
+    }
+  ]
 }
