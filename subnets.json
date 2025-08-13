@@ -3540,14 +3540,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Flyspeck",
+        "github": [
+            "https://github.com/proofofproofs/flyspeck_project"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/125/v1.webp",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
+        "summary": "Decentralized, permissionless marketplace for proving mathematical theorems",
         "websites": [],
         "subnet_id": 125
     },
