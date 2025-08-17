@@ -2,22 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Patrol (TAO.com)",
-  "github": ["https://github.com/tao-dot-com/patrol_subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/81/v1.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1354089114189955102",
-  "team": "TAO.com",
-  "summary": "Secure crypto funds and provide all holders peace of mind, wherever they are.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/tao_dot_com"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/Q74Vm5G8"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
