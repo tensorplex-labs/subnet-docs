@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Liquidity Provisioning",
+  "name": "VoidAI Liquidity Provisioning",
   "github": [],
   "categories": ["DeFi"],
   "hw_requirements": "",
