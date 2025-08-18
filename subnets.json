@@ -879,23 +879,33 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Storb",
+        "name": "kinitro",
         "github": [
-            "https://github.com/fr34kcoders/storb-rs"
+            "https://github.com/threetau/kinitro"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/26/v3.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/26/v4.jpg",
         "description": "",
         "bittensor_discord_id": "1321148494253264998",
-        "team": "Storb",
-        "summary": "Storb is a decentralized object storage subnet built on the Bittensor network. It aims to be a distributed, fault-tolerant, and efficient digital storage solution.",
-        "categories": [
-            "Storage"
-        ],
+        "team": "",
+        "summary": "cerebrum machinae",
+        "categories": [],
         "websites": [
             {
                 "label": "website",
-                "url": "https://storb.dev"
+                "url": "https://kinitro.ai"
+            },
+            {
+                "label": "website",
+                "url": "https://threetau.net"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/kinitroai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/threetau"
             }
         ],
         "subnet_id": 26
