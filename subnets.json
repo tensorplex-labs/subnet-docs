@@ -3104,7 +3104,7 @@
             "https://github.com/synapsec-ai/soundsright-subnet"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/105/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "",
         "categories": [
@@ -3120,6 +3120,10 @@
             {
                 "label": "leaderboard",
                 "url": "https://soundsright.ai/leaderboard"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/SoundsRight_SN"
             }
         ],
         "subnet_id": 105
@@ -3128,7 +3132,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Liquidity Provisioning",
+        "name": "VoidAI Liquidity Provisioning",
         "github": [],
         "categories": [
             "DeFi"
