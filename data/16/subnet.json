@@ -2,23 +2,19 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "HashTensor",
-  "github": ["https://github.com/HashTensor/HashTensor_Subnet"],
+  "name": "BitKoop",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/16/v2.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/16/v3.jpg",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "HashTensor is a decentralized Bittensor subnet designed to track and validate mining activity across multiple proof-of-work blockchains. By introducing a model called Proof of Effective Work (PoEW), the system rewards miners not just for raw hashrate, but for performance, uptime, and reliability, allowing them to earn Alpha tokens based on their actual contribution.",
-  "categories": ["Mining"],
+  "summary": "BitKoop is a decentralized, community-powered discount web platform that transforms discount codes into a reliable digital commodity.",
+  "categories": [],
   "websites": [
     {
-      "label": "website",
-      "url": "https://hashtensor.com/"
-    },
-    {
       "label": "twitter",
-      "url": "https://x.com/HashTensor"
+      "url": "https://x.com/BitKoop"
     }
   ]
 }
