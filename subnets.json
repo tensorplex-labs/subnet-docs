@@ -1539,33 +1539,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "NextPlace",
-        "github": [
-            "https://github.com/Nickel5-Inc/Nextplace"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/48/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1286726353881796670",
-        "team": "Nickel5",
-        "summary": "Leveraging the power of AI harnessed by the Bittensor framework, NextPlace is building the next best Real Estate market negotiator. Discover what your home is likely to sell for, identify housing trends in real estate markets across the United States, earn Tao by unleashing your own AI models in the subnet, and so much more.",
-        "categories": [
-            "Prediction Market"
-        ],
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://nextplace.ai"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/NextPlace_AI"
-            },
-            {
-                "label": "market analysis",
-                "url": "https://nextplace.ai/map"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 48
     },
     {
