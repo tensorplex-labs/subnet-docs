@@ -1880,30 +1880,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Agent Arena",
-        "github": [
-            "https://github.com/masa-finance/agent-arena-subnet"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/59/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "1310617172132888639",
-        "team": "Masa",
-        "categories": [
-            "AI Agent",
-            "Yuma Accelerated"
-        ],
-        "summary": "Welcome to Agent Arena by Masa - the first competitive agent ecosystem where market forces and real engagement drive the evolution of sentient AI agents.",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/getmasafi"
-            },
-            {
-                "label": "leaderboard",
-                "url": "https://app.masa.ai/agent-arena"
-            }
-        ],
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 59
     },
     {
