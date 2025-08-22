@@ -2526,28 +2526,18 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Docs-Insights",
-        "github": [
-            "https://github.com/TatsuProject/Document_Understanding_Subnet"
-        ],
+        "name": "ChipForge",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/84/v1.png",
-        "description": "description.html",
-        "bittensor_discord_id": "1300456223371427912",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
         "team": "Ta\u03c4su",
-        "summary": "In today's world, documents come in all shapes and formats\u2014many as scanned images or photographs\u2014making accurate data extraction difficult and time-consuming. The Document Understanding Subnet is here to change that. Built on the Bittensor decentralized infrastructure, this subnet combines the power of vision models, language models, vision-language models (VLMs), OCR engines, and intelligent post-processing to transform complex documents into structured, meaningful data.",
+        "summary": "",
         "websites": [
-            {
-                "label": "whitepaper",
-                "url": "https://tatsu.gitbook.io/document-understanding-whitepaper"
-            },
             {
                 "label": "twitter",
                 "url": "https://x.com/TatsuEcosystem"
-            },
-            {
-                "label": "website",
-                "url": "https://docs-insights.ai"
             }
         ],
         "subnet_id": 84
