@@ -1,0 +1,128 @@
+<h1 id="grail-incentivising-intelligence">
+  grail - incentivising intelligence
+</h1>
+<h2 id="overview">Overview</h2>
+<p>
+  <strong>grail</strong> focuses on post-training language models with
+  verifiable inference capabilities. It leverages the
+  <strong>GRAIL protocol</strong> (Guaranteed Rollout Authenticity via Inference
+  Ledger) to ensure cryptographically verifiable model outputs during
+  reinforcement learning rollouts.
+</p>
+<h3 id="key-distinction-grail-vs-grail">Key Distinction: grail vs GRAIL</h3>
+<ul>
+  <li>
+    <strong>grail</strong> (lowercase): The Bittensor subnet implementation for
+    post-training models using verifiable inference
+  </li>
+  <li>
+    <strong>GRAIL</strong> (uppercase): The underlying cryptographic protocol
+    (Guaranteed Rollout Authenticity via Inference Ledger) that provides
+    verifiable inference guarantees
+  </li>
+</ul>
+<h2 id="architecture">Architecture</h2>
+<h3 id="core-components">Core Components</h3>
+<h4 id="1-grail-protocol-grail-grail-py-">
+  1. GRAIL Protocol (<code>grail/grail.py</code>)
+</h4>
+<p>
+  The cryptographic protocol implementation that ensures verifiable inference
+  through:
+</p>
+<ul>
+  <li>Pseudorandom function (PRF) for deterministic token generation</li>
+  <li>Sketch-based proof system for model output verification</li>
+  <li>Integration with drand beacon for randomness</li>
+  <li>Support for SAT problem generation and verification</li>
+</ul>
+<h4 id="2-rollout-generation-grail-rollout-py-">
+  2. Rollout Generation (<code>grail/rollout.py</code>)
+</h4>
+<p>GRPO (Generalized Proximal Policy Optimization) rollout system for:</p>
+<ul>
+  <li>Multiple rollouts per problem for robust training</li>
+  <li>Token-level logprob tracking for GRAIL proofs</li>
+  <li>Advantage computation for policy gradient training</li>
+  <li>Trajectory recording for analysis</li>
+</ul>
+<h4 id="3-environment-system-grail-environments-">
+  3. Environment System (<code>grail/environments/</code>)
+</h4>
+<p>Modular environment framework supporting:</p>
+<ul>
+  <li>
+    <strong>SAT Problems</strong> (<code>sat.py</code>): 3-SAT problem
+    generation and solving
+  </li>
+  <li>Extensible base for additional problem domains</li>
+  <li>Text-based problem representation for LLM processing</li>
+</ul>
+<h4 id="4-communication-layer-grail-comms-py-">
+  4. Communication Layer (<code>grail/comms.py</code>)
+</h4>
+<p>
+  Handles subnet communication and coordination between validators and miners.
+</p>
+<h4 id="5-randomness-grail-drand-py-">
+  5. Randomness (<code>grail/drand.py</code>)
+</h4>
+<p>
+  Integration with drand beacon for verifiable randomness in problem generation.
+</p>
+<h2 id="how-it-works">How It Works</h2>
+<h3 id="post-training-flow">Post-Training Flow</h3>
+<ol>
+  <li>
+    <strong>Problem Generation</strong>: Validators generate verifiable problems
+    (e.g., SAT instances) using drand beacon randomness
+  </li>
+  <li>
+    <strong>Rollout Collection</strong>: Miners generate multiple solution
+    attempts using their models
+  </li>
+  <li>
+    <strong>GRAIL Verification</strong>: Each rollout is cryptographically
+    verified using the GRAIL protocol
+  </li>
+  <li>
+    <strong>Reward Computation</strong>: Valid rollouts receive rewards based on
+    solution quality
+  </li>
+  <li>
+    <strong>Model Updates</strong>: Miners update their models using GRPO with
+    collected rollouts
+  </li>
+</ol>
+<h3 id="verifiable-inference">Verifiable Inference</h3>
+<p>The GRAIL protocol ensures that:</p>
+<ul>
+  <li>Model outputs are deterministically verifiable</li>
+  <li>Rollouts cannot be falsified or replayed</li>
+  <li>Randomness is publicly verifiable through drand</li>
+  <li>Token generation follows cryptographic constraints</li>
+</ul>
+<h2 id="technical-details">Technical Details</h2>
+<h3 id="grail-protocol-parameters">GRAIL Protocol Parameters</h3>
+<ul>
+  <li><strong>PRIME_Q</strong>: 2,147,483,647 (modular arithmetic prime)</li>
+  <li><strong>CHALLENGE_K</strong>: 16 (number of challenge tokens)</li>
+  <li><strong>TOLERANCE</strong>: 3 (allowed deviations in verification)</li>
+</ul>
+<h3 id="supported-environments">Supported Environments</h3>
+<ul>
+  <li>
+    <strong>SAT Problems</strong>: 3-SAT instances with configurable complexity
+    <ul>
+      <li>Variables: 3-10</li>
+      <li>Clauses: 5-20</li>
+      <li>Clause length: 3 (3-SAT)</li>
+    </ul>
+  </li>
+</ul>
+<h3 id="model-requirements">Model Requirements</h3>
+<ul>
+  <li>Compatible with HuggingFace transformers</li>
+  <li>Support for logprob extraction</li>
+  <li>CUDA-enabled for efficient inference</li>
+</ul>
