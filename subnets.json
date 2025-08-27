@@ -2513,25 +2513,32 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "CliqueAI",
+        "github": [
+            "https://github.com/toptensor/CliqueAI"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1355560253076410428",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "TopTensor",
+        "summary": "AI-Powered Maximum Clique Solver Network",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://cliqueai.toptensor.ai"
+            }
+        ],
         "subnet_id": 83
     },
     {
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "ChipForge",
+        "name": "ChipForge (Tatsu)",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/84/v1.png",
         "description": "",
         "bittensor_discord_id": "",
         "team": "Ta\u03c4su",
