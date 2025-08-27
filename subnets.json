@@ -1524,15 +1524,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Reboot",
+        "github": [
+            "https://github.com/reboot-org/reboot-subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/47/v2.jpeg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Reboot Subnet \u2013 Robotics AI Network is a specialized Bittensor subnet for decentralized, AI-powered robotics services. It enables developers to build, deploy, and validate intelligent robotic systems on a blockchain-backed, incentive-driven network \u2014 combining distributed AI computation with secure consensus.",
+        "websites": [
+            {
+                "label": "whitepaper",
+                "url": "https://reboot-3.gitbook.io/reboot"
+            },
+            {
+                "label": "website",
+                "url": "https://getreboot.org"
+            }
+        ],
         "subnet_id": 47
     },
     {
