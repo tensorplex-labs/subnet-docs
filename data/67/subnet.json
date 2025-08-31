@@ -2,13 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Tenexium",
+  "github": ["https://github.com/Tenexium/tenex-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1349116951959441450",
   "team": "",
-  "summary": "",
+  "summary": "Tenexium operates as a spot margin protocol within the Bittensor ecosystem, serving as the core infrastructure for the Tenex subnet. The protocol enables users to establish leveraged long positions on subnet tokens using TAO as collateral, while providing TAO liquidity providers with sustainable yields through both Bittensor miner emissions and protocol-generated fees from trading, borrowing, and liquidations.",
   "websites": []
 }
