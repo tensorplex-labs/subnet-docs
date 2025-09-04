@@ -624,46 +624,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Nineteen",
-        "github": [
-            "https://github.com/rayonlabs/nineteen"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/19/v2.webp",
-        "description": "description.html",
-        "bittensor_discord_id": "1186691482749505627",
-        "team": "Rayon Labs",
-        "summary": "Lightning Fast, Decentralized Inference at Scale.",
-        "categories": [
-            "Inference",
-            "Rayon Labs"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/nineteen_ai"
-            },
-            {
-                "label": "website",
-                "url": "https://nineteen.ai/"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://nineteen.ai/app/research/leaderboards"
-            },
-            {
-                "label": "application",
-                "url": "https://nineteen.ai/app/playground"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://sn19.ai/pdfs/sn19-deck.pdf"
-            },
-            {
-                "label": "discord",
-                "url": "https://discord.gg/HbysyPuZns"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 19
     },
     {
