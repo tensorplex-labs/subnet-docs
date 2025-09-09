@@ -1519,15 +1519,30 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Quantum Compute",
+        "github": [
+            "https://github.com/qbittensor-labs/quantum"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
         "bittensor_discord_id": "",
-        "team": "",
+        "team": "qBitTensor Labs",
+        "categories": [
+            "Quantum Computing",
+            "Compute"
+        ],
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/qBitTensor"
+            },
+            {
+                "label": "website",
+                "url": "https://www.qbittensorlabs.com"
+            }
+        ],
         "subnet_id": 48
     },
     {
@@ -2518,13 +2533,16 @@
         "bittensor_id": "",
         "letter": "",
         "name": "ChipForge (Tatsu)",
-        "github": [],
+        "github": [
+            "https://github.com/TatsuProject/ChipForge_SN84",
+            "https://github.com/TatsuProject/chipforge_eda_server"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/84/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "Ta\u03c4su",
-        "summary": "",
+        "summary": "ChipForge (SN84) introduces the first digital design subnet for decentralized hardware innovation. This subnet enables miners to compete in designing real silicon. Processor development is organized into on-chain challenges \u2014 spanning AI accelerators, cryptographic modules, mini-GPUs, and other critical components. Participants download specifications, leverage AI tools, and submit complete Verilog/SystemVerilog implementations. The highest-quality designs earn rewards while contributing to fully manufacturable chips.",
         "websites": [
             {
                 "label": "twitter",
