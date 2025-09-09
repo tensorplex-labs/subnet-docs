@@ -1,0 +1,65 @@
+<h1 id="chipforge-sn84-">ChipForge (SN84)</h1>
+<p>
+  ChipForge (SN84) introduces the first digital design subnet for decentralized
+  hardware innovation. This subnet enables miners to compete in designing real
+  silicon. Processor development is organized into on-chain challenges —
+  spanning AI accelerators, cryptographic modules, mini-GPUs, and other critical
+  components. Participants download specifications, leverage AI tools, and
+  submit complete Verilog/SystemVerilog implementations. The highest-quality
+  designs earn rewards while contributing to fully manufacturable chips.
+</p>
+<p>
+  In the short term, ChipForge focuses on advancing digital hardware design,
+  with future applications across IoT, robotics, edge devices, and post-quantum
+  security. Our roadmap includes progressing from design to full-scale
+  fabrication within a year. Revenue from design IPs and fabricated chips will
+  be reinvested into the ecosystem, ensuring sustainable value creation. Backed
+  by the Tatsu validator team and open to strategic partnerships, ChipForge
+  marks the beginning of a new era — decentralized, collaborative, and on-chain
+  digital design.
+</p>
+<h2 id="overview">Overview</h2>
+<p>ChipForge operates as a competitive platform where:</p>
+<ul>
+  <li>
+    <strong>Miners</strong> submit hardware design solutions
+    (Verilog/SystemVerilog)
+  </li>
+  <li>
+    <strong>Validators</strong> evaluate submissions using industry-standard EDA
+    tools (Verilator, Yosys, Icarus, Openlane)
+  </li>
+  <li>
+    <strong>Challenges</strong> are rotated periodically with different design
+    requirements
+  </li>
+  <li>
+    <strong>Rewards</strong> are distributed based on performance metrics and
+    competitive scoring - This is a winner-takes-all reward mechanism
+  </li>
+</ul>
+<h2 id="architecture">Architecture</h2>
+<h3 id="core-components">Core Components</h3>
+<ol>
+  <li>
+    <strong>Chipforge Challenge Server</strong> - Manages challenges,
+    submissions, and evaluations
+  </li>
+  <li>
+    <strong>Miners</strong> - Submit optimized hardware designs for active
+    challenges
+  </li>
+  <li>
+    <strong>Validators</strong> - Download, evaluate, and score miner
+    submissions against provided test benches and test cases
+  </li>
+  <li>
+    <strong>Chipforge EDA Server</strong> - Performs synthesis, place &amp;
+    route, and timing analysis
+  </li>
+</ol>
+<h3 id="workflow">Workflow</h3>
+<pre><code><span class="hljs-number">1.</span> Challenge Activation → <span class="hljs-number">2.</span> Miner Submissions → <span class="hljs-number">3.</span> Batch Creation → 
+<span class="hljs-number">4.</span> Validator Downloads → <span class="hljs-number">5.</span> EDA Evaluation → <span class="hljs-number">6.</span> Score Submission → 
+<span class="hljs-number">7.</span> Weight Setting → <span class="hljs-number">8.</span> Challenge Completion
+</code></pre>

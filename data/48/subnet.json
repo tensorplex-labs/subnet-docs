@@ -2,13 +2,23 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Quantum Compute",
+  "github": ["https://github.com/qbittensor-labs/quantum"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "qBitTensor Labs",
+  "categories": ["Quantum Computing", "Compute"],
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/qBitTensor"
+    },
+    {
+      "label": "website",
+      "url": "https://www.qbittensorlabs.com"
+    }
+  ]
 }
