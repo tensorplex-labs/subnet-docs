@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "TaoLend",
+  "github": ["https://github.com/xpenlab/taolend"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "TaoLend is a decentralized lending protocol within the Bittensor ($TAO) ecosystem. It enables users to lend TAO with confidence while borrowers can secure loans using subnet ALPHA as collateral. By unlocking TAO liquidity and keeping ALPHA staked within subnets, TaoLend enhances both capital efficiency and network security.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://taolend.io"
+    }
+  ]
 }

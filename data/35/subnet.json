@@ -1,24 +1,27 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "logicnet",
+  "bittensor_id": "",
   "letter": "",
-  "name": "LogicNet",
-  "github": ["https://github.com/LogicNet-Subnet/LogicNet"],
+  "name": "Cartha (0xMarkets)",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/35/v1.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1204855126045753434",
-  "team": "Logic Net",
-  "summary": "LogicNet focuses on developing open-source mathematics and detailed data analysis models.",
-  "categories": ["Model Development"],
+  "image_url": "https://backprop.finance/assets/subnet-logos/35/v2.jpg",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "Trade Currencies, Commodities & Crypto Without Barriers",
   "websites": [
     {
       "label": "website",
-      "url": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+      "url": "https://www.0xmarkets.io"
     },
     {
-      "label": "dashboard",
-      "url": "https://logicnet.streamlit.app/"
+      "label": "whitepaper",
+      "url": "https://docs.0xmarkets.io/litepaper"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/0x_Markets"
     }
   ]
 }
