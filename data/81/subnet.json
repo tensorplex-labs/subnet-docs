@@ -8,7 +8,16 @@
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "covenant",
   "summary": "grail focuses on post-training language models with verifiable inference capabilities. It leverages the GRAIL protocol (Guaranteed Rollout Authenticity via Inference Ledger) to ensure cryptographically verifiable model outputs during reinforcement learning rollouts.",
-  "websites": []
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/grail_ai"
+    },
+      {
+      "label": "discord",
+      "url": "https://discord.gg/GyzhzRWJBQ"
+    }
+  ]
 }
