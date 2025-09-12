@@ -1,8 +1,8 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "bitagent",
+  "bittensor_id": "",
   "letter": "",
-  "name": "BitAgent",
+  "name": "Bounty Hunter",
   "github": ["https://github.com/RogueTensor/bitagent_subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/20/v1.png",
