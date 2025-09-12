@@ -5,7 +5,7 @@
   "name": "grail",
   "github": ["https://github.com/tplr-ai/grail"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/81/v2.png",
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "covenant",
@@ -15,7 +15,7 @@
       "label": "twitter",
       "url": "https://x.com/grail_ai"
     },
-      {
+    {
       "label": "discord",
       "url": "https://discord.gg/GyzhzRWJBQ"
     }

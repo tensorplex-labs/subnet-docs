@@ -5,14 +5,14 @@
   "name": "basilica",
   "github": ["https://github.com/tplr-ai/basilica"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/39/v2.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/39/v3.png",
   "description": "description.html",
   "bittensor_discord_id": "1387865673690251445",
   "team": "covenant",
   "summary": "Basilica is a decentralized GPU compute marketplace built on the Bittensor network. It creates a trustless environment where GPU providers (miners) can offer compute resources, and validators ensure quality and reliability through cryptographic verification.",
   "categories": ["Compute"],
   "websites": [
-        {
+    {
       "label": "website",
       "url": "https://www.basilica.ai"
     },
