@@ -2,18 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Eclipse",
-  "github": [],
+  "name": "Level 114",
+  "github": ["https://github.com/Level114/level114-subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/114/v1.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/114/v2.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
+  "summary": "A Bittensor subnet that enables miners to register with a collector-center-main service and allows validators to evaluate miner performance based on reported metrics.",
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/Bittensor_SN114"
+      "url": "https://x.com/level_114"
+    },
+    {
+      "label": "website",
+      "url": "https://level114.io"
     }
   ]
 }
