@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
+  "name": "ByteLeap",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/128/v1.jpg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "A Blockchain-Enhanced, Fully Decentralized Cloud Platform",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/byteleap_ai"
+    },
+    {
+      "label": "website",
+      "url": "https://byteleap.ai"
+    }
+  ]
 }
