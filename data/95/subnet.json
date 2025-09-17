@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
+  "name": "Actual Computer",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/95/v1.jpg",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "Actual Computer Inc.",
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://actual.computer"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/actualputer"
+    }
+  ]
 }

@@ -1,24 +1,23 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "masa",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Masa",
-  "github": ["https://github.com/masa-finance"],
+  "name": "Gopher",
+  "github": ["https://github.com/gopher-lab"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/42/v2.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/42/v3.jpg",
+  "description": "",
   "bittensor_discord_id": "1275149537547391058",
   "team": "Masa",
-  "summary": "Masa focuses on decentralized data scraping, offering an alternative to traditional centralized services like BrightData and Apify.",
-  "categories": ["Data Pipeline", "Yuma Accelerated"],
+  "summary": "A Layer-1 for the AI data economy. Access AI-ready data on demand. The fastest & simplest way to scrape and stream data straight into models, apps & agents.",
   "websites": [
     {
       "label": "website",
-      "url": "https://developers.masa.ai/docs/masa-subnet/welcome"
+      "url": "https://gopher-ai.com"
     },
     {
       "label": "twitter",
-      "url": "https://x.com/getmasafi"
+      "url": "https://x.com/gopher_ai"
     }
   ]
 }

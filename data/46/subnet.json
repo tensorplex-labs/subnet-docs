@@ -2,13 +2,17 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "RESI",
+  "github": [
+    "https://github.com/resi-labs-ai/resi",
+    "https://github.com/resi-labs-ai/resi-labs-api",
+    "https://github.com/resi-labs-ai/prospector"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
+  "summary": "Building the world's largest open real estate database through decentralized intelligence",
   "websites": []
 }
