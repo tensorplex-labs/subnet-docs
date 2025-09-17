@@ -1355,30 +1355,26 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "masa",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Masa",
+        "name": "Gopher",
         "github": [
-            "https://github.com/masa-finance"
+            "https://github.com/gopher-lab"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/42/v2.jpg",
-        "description": "description.html",
+        "image_url": "https://backprop.finance/assets/subnet-logos/42/v3.jpg",
+        "description": "",
         "bittensor_discord_id": "1275149537547391058",
         "team": "Masa",
-        "summary": "Masa focuses on decentralized data scraping, offering an alternative to traditional centralized services like BrightData and Apify.",
-        "categories": [
-            "Data Pipeline",
-            "Yuma Accelerated"
-        ],
+        "summary": "A Layer-1 for the AI data economy. Access AI-ready data on demand. The fastest & simplest way to scrape and stream data straight into models, apps & agents.",
         "websites": [
             {
                 "label": "website",
-                "url": "https://developers.masa.ai/docs/masa-subnet/welcome"
+                "url": "https://gopher-ai.com"
             },
             {
                 "label": "twitter",
-                "url": "https://x.com/getmasafi"
+                "url": "https://x.com/gopher_ai"
             }
         ],
         "subnet_id": 42
@@ -1484,14 +1480,18 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "RESI",
+        "github": [
+            "https://github.com/resi-labs-ai/resi",
+            "https://github.com/resi-labs-ai/resi-labs-api",
+            "https://github.com/resi-labs-ai/prospector"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
+        "summary": "Building the world's largest open real estate database through decentralized intelligence",
         "websites": [],
         "subnet_id": 46
     },
@@ -2870,15 +2870,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Actual Computer",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/95/v1.jpg",
         "description": "",
         "bittensor_discord_id": "",
-        "team": "",
+        "team": "Actual Computer Inc.",
         "summary": "",
-        "websites": [],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://actual.computer"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/actualputer"
+            }
+        ],
         "subnet_id": 95
     },
     {
