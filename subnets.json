@@ -640,26 +640,17 @@
         "bittensor_id": "",
         "letter": "",
         "name": "Bounty Hunter",
-        "github": [
-            "https://github.com/RogueTensor/bitagent_subnet"
-        ],
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/20/v1.png",
-        "description": "description.html",
-        "bittensor_discord_id": "1194736998250975332",
-        "team": "Rogue Tensor",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
         "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
-        "categories": [
-            "AI Agent"
-        ],
         "websites": [
             {
                 "label": "application",
-                "url": "https://gogoagent.ai/"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://docs.google.com/document/d/1QVCzDu0eMmkdglD65F_Q_UjnCJauVEr62WgG8SgACt0/edit#heading=h.ck7e3z2g8pmt"
+                "url": "https://aiboards.io"
             }
         ],
         "subnet_id": 20
