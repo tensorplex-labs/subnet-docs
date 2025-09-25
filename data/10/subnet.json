@@ -1,28 +1,20 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "sturdy",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Sturdy",
-  "github": ["https://github.com/Sturdy-Subnet/sturdy-subnet"],
+  "name": "Swap",
+  "github": ["https://github.com/Swap-Subnet/swap-subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/10/v1.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/10/v2.png",
+  "description": "",
   "bittensor_discord_id": "1217952256306057298",
-  "team": "",
+  "team": "TaoFi",
   "categories": ["DeFi", "Yuma Accelerated"],
-  "summary": "Sturdy is focused on the creation of autonomous DeFi yield optimizers. Contributors develop algorithms to allocate assets among a fixed set of strategies or 'pools' with varying interest rates to maximize yield.",
+  "summary": "Swap (SN10 on Bittensor) incentivizes miners to provide liquidity to the TAO<>USDC pool on TaoFi. Miners are scored based on how much fees their positions received in the past 24 hours.",
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/SturdyFinance"
-    },
-    {
-      "label": "website",
-      "url": "https://www.sturdysubnet.org/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://www.sturdysubnet.org/dashboard"
+      "url": "https://x.com/_taofi_"
     }
   ]
 }

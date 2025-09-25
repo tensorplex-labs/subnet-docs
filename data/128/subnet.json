@@ -3,7 +3,10 @@
   "bittensor_id": "",
   "letter": "",
   "name": "ByteLeap",
-  "github": [],
+  "github": [
+    "https://github.com/byteleapai/byteleap-Miner",
+    "https://github.com/byteleapai/byteleap-Validator"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/128/v1.jpg",
   "description": "",
