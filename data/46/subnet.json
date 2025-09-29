@@ -9,10 +9,15 @@
     "https://github.com/resi-labs-ai/prospector"
   ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/46/v2.jpg",
   "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "Resi Labs",
   "summary": "Building the world's largest open real estate database through decentralized intelligence",
-  "websites": []
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/resilabsai"
+    }
+  ]
 }

@@ -5,12 +5,12 @@
   "name": "Quantum Compute",
   "github": ["https://github.com/qbittensor-labs/quantum"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/48/v2.jpeg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "qBitTensor Labs",
   "categories": ["Quantum Computing", "Compute"],
-  "summary": "",
+  "summary": "Quantum Compute (SN48) is a Bittensor subnet focused on democratizing access to quantum computing, creating an open marketplace for executing real quantum circuits on physical Quantum Processing Units (QPUs), and on quantum simulators scaled up to run on large HPC clusters.",
   "websites": [
     {
       "label": "twitter",
