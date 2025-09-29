@@ -1466,12 +1466,17 @@
             "https://github.com/resi-labs-ai/prospector"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/46/v2.jpg",
         "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "",
+        "team": "Resi Labs",
         "summary": "Building the world's largest open real estate database through decentralized intelligence",
-        "websites": [],
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/resilabsai"
+            }
+        ],
         "subnet_id": 46
     },
     {
@@ -1509,7 +1514,7 @@
             "https://github.com/qbittensor-labs/quantum"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/48/v2.jpeg",
         "description": "",
         "bittensor_discord_id": "",
         "team": "qBitTensor Labs",
@@ -1517,7 +1522,7 @@
             "Quantum Computing",
             "Compute"
         ],
-        "summary": "",
+        "summary": "Quantum Compute (SN48) is a Bittensor subnet focused on democratizing access to quantum computing, creating an open marketplace for executing real quantum circuits on physical Quantum Processing Units (QPUs), and on quantum simulators scaled up to run on large HPC clusters.",
         "websites": [
             {
                 "label": "twitter",
@@ -1964,7 +1969,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Quantum",
+        "name": "Quantum Innovate",
         "github": [
             "https://github.com/qbittensor-labs/quantum"
         ],
@@ -1977,7 +1982,7 @@
             "Quantum Computing",
             "Compute"
         ],
-        "summary": "Unlocking Practical Quantum Computing on Bittensor",
+        "summary": "Quantum Innovate (SN63) is a Bittensor subnet dedicated to fostering innovation in quantum computing algorithm execution. Miners are challenged with synthetic quantum circuits, such as peaked circuits, HStab circuits, and upcoming Shor's algorithm-based tasks, to push the boundaries of quantum circuit execution through pre-processing, simulator selection, simulation efficiency, and post-processing.",
         "websites": [
             {
                 "label": "twitter",
