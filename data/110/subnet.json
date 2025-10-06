@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Rich Kids of TAO",
+  "github": ["https://github.com/Rich-Kids-of-TAO/rkt-subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/110/v1.jpeg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Rich Kids of TAO is a Bittensor subnet that distributes rewards to miners based on their emissions across subnets chosen by community vote. Unlike previous \"Miner Appreciation\" subnets, this system allows existing miners to vote on which subnets should be weighted for reward distribution, making the process more adaptive to the ecosystem.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://richkidsoftao.com"
+    }
+  ]
 }
