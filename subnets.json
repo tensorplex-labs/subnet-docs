@@ -1861,15 +1861,30 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Babelbit",
+        "github": [
+            "https://github.com/babelbit/babelbit_subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/59/v2.gif",
         "description": "",
         "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "Babelbit Ltd",
+        "summary": "Developing low-latency speech-to-speech translation on Bittensor",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://babelbit.ai"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://babelbit.ai/white_paper_short-v2.pdf"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/babelbit"
+            }
+        ],
         "subnet_id": 59
     },
     {
