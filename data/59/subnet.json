@@ -6,7 +6,7 @@
   "github": ["https://github.com/babelbit/babelbit_subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/59/v2.gif",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "Babelbit Ltd",
   "summary": "Developing low-latency speech-to-speech translation on Bittensor",

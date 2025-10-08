@@ -1,0 +1,42 @@
+<p>
+  Babelbit is a subnet which is developing low-latency speech-to-speech
+  translation. We are working on the principle that as well as all the latency
+  which is caused by speech encoding and synthesis, there have traditionally
+  been hard limits on the latency of translating the language itself. That is,
+  it is often not clear what a sentence means until you have the whole thing.
+  This is especially true with languages where the word order rules put the verb
+  at the end of a clause, like German, or sometimes the end of a sentence, in
+  dialects like this example in Swiss German:
+</p>
+<p>
+  <em
+    >Ich ha s Schlos, wo ich, wie so oft, z&#39;heftig, i mim Stress, wo wider
+    mau passiert isch, verdräit ha, ufbroche.</em
+  >
+</p>
+<p>which means:</p>
+<p><em>I broke the lock, turning it too hard, in my usual panic</em></p>
+<p>but is articulated something like:</p>
+<p>
+  <em
+    >I have, the lock, which I, as so often, too forcefully, in my panic, again,
+    turned have, broken.</em
+  >
+</p>
+<p>
+  That is,
+  <strong
+    >the listener has no idea what the sentence is about (breaking a lock) until
+    the very last word</strong
+  >.
+</p>
+<h3 id="our-hypothesis">Our Hypothesis</h3>
+<p>
+  When native speakers listen to sentences with the verb at the end, in the vast
+  majority of cases, they know what it will be. LLMs work in exactly the same
+  way. In fact the fundamental mechanism by which they appear to exhibit
+  intelligence is in predicting the best possible work to come next given the
+  prior context. We are going to stretch this predictive power to its absolute
+  limits, so that we can guess from the context what speaker is about to say,
+  and start translating earlier.
+</p>
