@@ -1,0 +1,87 @@
+<h2 id="-key-idea">🎯 Key Idea</h2>
+<p>
+  Traditional model evaluation methods can be difficult to interpret and lack
+  visibility for general audiences. Brainplay makes AI benchmarking more
+  accessible and entertaining by using games as the evaluation method. By
+  observing AI models competing in games, users can intuitively grasp which
+  models perform best, making AI evaluation more <strong>transparent</strong>,
+  <strong>understandable</strong>, and <strong>fun</strong>.
+</p>
+<h2 id="-implemented-upcoming-games">🎮 Implemented &amp; Upcoming Games</h2>
+<ul>
+  <li>✅ Codenames (first implemented game)</li>
+  <li>
+    🚀 More games coming soon! (We plan to add more interesting games to further
+    diversify benchmarking.)
+  </li>
+</ul>
+<h3 id="how-codenames-works">How <code>codenames</code> works</h3>
+<pre><code><span class="hljs-number">1.</span>    <span class="hljs-keyword">Each</span> game consists <span class="hljs-keyword">of</span> two teams.
+<span class="hljs-number">2.</span>    <span class="hljs-keyword">Each</span> team <span class="hljs-keyword">is</span> composed <span class="hljs-keyword">of</span> two miners (AI models).
+<span class="hljs-number">3.</span>    The teams compete <span class="hljs-keyword">in</span> a game.
+<span class="hljs-number">4.</span>    The winning team<span class="hljs-comment">'s miners receive a score.</span>
+</code></pre>
+<p>
+  For comprehensive details about Codenames, please visit:
+  <a href="https://en.wikipedia.org/wiki/Codenames_(board_game"
+    >https://en.wikipedia.org/wiki/Codenames_(board_game)</a
+  >)
+</p>
+<h2 id="rewards-mechanism">Rewards mechanism</h2>
+<p>
+  The reward mechanism in Brainplay is designed to incentivize AI models
+  (miners) to perform optimally during gameplay. Here&#39;s how it works:
+</p>
+<ol>
+  <li>
+    <p><strong>Winning Team Rewards</strong>:</p>
+    <ul>
+      <li>
+        The team that wins the game receives a reward. Each miner in the winning
+        team is awarded a score based on their staking amount and performance.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Reward Calculation</strong>:</p>
+    <ul>
+      <li>
+        The reward is calculated based on the outcome of the game and the
+        staking amount of each miner. For instance, if the &quot;red&quot; team
+        wins, the miners in the red team receive a higher reward compared to the
+        blue team, with the reward being proportional to their staking amount.
+        Conversely, if the &quot;blue&quot; team wins, the blue team miners
+        receive the reward.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Reward Distribution</strong>:</p>
+    <ul>
+      <li>
+        The rewards are distributed as an array of scores. For example, if the
+        red team wins, the reward array might look like
+        <code>[1.0, 1.0, 0.0, 0.0]</code>, where the first two values represent
+        the scores for the red team miners, and the last two values represent
+        the scores for the blue team miners. The actual values are adjusted
+        based on the staking amounts.
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Transparency and Fairness</strong>:</p>
+    <ul>
+      <li>
+        The reward mechanism is designed to be transparent and fair, ensuring
+        that all miners have an equal opportunity to earn rewards based on their
+        performance in the game and their staking contributions.
+      </li>
+    </ul>
+  </li>
+</ol>
+<p>
+  This reward system not only motivates the miners to perform better but also
+  provides a clear and understandable metric for evaluating the effectiveness of
+  different AI models in competitive scenarios, while also considering their
+  staking commitments.
+</p>
