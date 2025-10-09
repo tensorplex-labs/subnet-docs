@@ -3388,14 +3388,25 @@
         "bittensor_id": "",
         "letter": "",
         "name": "BrainPlay",
-        "github": [],
+        "github": [
+            "https://github.com/shiftlayer-llc/brainplay-subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/117/v1.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "ShiftLayer",
+        "summary": "Brainplay is a subnet of Bittensor designed to benchmark AI models through competitive gameplay. Instead of relying solely on abstract mathematical scores, this approach allows people to visually understand a model\u2019s performance by watching it play interesting and engaging games.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://play.shiftlayer.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/ShiftLayer_Ai"
+            }
+        ],
         "subnet_id": 117
     },
     {
