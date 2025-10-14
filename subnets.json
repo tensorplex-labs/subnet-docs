@@ -2222,15 +2222,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Leadpoet",
         "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/71/v1.jpg",
         "description": "",
-        "bittensor_discord_id": "1349121405903573114",
+        "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Let AI sales agents find your next customers. Powered by Bittensor.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/LeadpoetAI"
+            },
+            {
+                "label": "website",
+                "url": "https://leadpoet.com"
+            }
+        ],
         "subnet_id": 71
     },
     {
