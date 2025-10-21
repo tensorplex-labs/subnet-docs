@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "HODL - The ETF Subnet",
+  "github": ["https://github.com/mobiusfund/etf"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "Mobius Fund",
+  "summary": "Incentivizing long-term conviction",
+  "websites": [
+    {
+      "label": "whitepaper",
+      "url": "https://github.com/mobiusfund/etf/blob/main/Docs/HODL%20-%20The%20ETF%20Subnet.pdf"
+    }
+  ]
 }
