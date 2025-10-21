@@ -3,13 +3,13 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Leadpoet",
-  "github": [],
+  "github": ["https://github.com/Leadpoet/Leadpoet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/71/v1.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Let AI sales agents find your next customers. Powered by Bittensor.",
+  "summary": "Leadpoet is Subnet 71, the decentralized AI sales agent subnet built on Bittensor. Leadpoet's vision is streamlining the top of sales funnel, starting with high-quality lead generation today and evolving into a fully automated sales engine where meetings with your ideal customers seamlessly appear on your calendar.",
   "websites": [
     {
       "label": "twitter",
