@@ -67,6 +67,13 @@ Your subnet folder must contain a `subnet.json` file that follows the schema for
 - To add a new category that is not already defined in `categories.json`, please include justification in the PR.
 - The label `tplx_publication_link` is reserved for Tensorplex Labs publications, which will be managed by the team instead.
 
+<!--
+#### Internal note: Uploading images
+
+Simply upload the image satisyfing the conditions above to the S3 bucket at the following path:
+`assets/subnet-logos/{netuid}/v{id}.{format}`
+-->
+
 ## Contribution Process
 
 1. Fork this repository
