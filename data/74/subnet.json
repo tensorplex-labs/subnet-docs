@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Gittensor",
+  "github": ["https://github.com/entrius/gittensor"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/74/v1.jpeg",
   "description": "",
   "bittensor_discord_id": "1349123574820245534",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Gittensor aims to accelerate the development of open source software (OSS) and enable OSS developers to be rewarded for meaningful work.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://gittensor.io"
+    }
+  ]
 }
