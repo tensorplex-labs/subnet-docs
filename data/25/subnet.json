@@ -2,31 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Mainframe",
-  "github": ["https://github.com/macrocosm-os/mainframe"],
+  "name": "Embryon",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/25/v1.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "1234881153832321024",
-  "team": "Macrocosmos",
-  "summary": "Generalized Scientific Compute on Bittensor",
-  "categories": ["DeSci", "Macrocosmos"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/MacrocosmosAI"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://www.macrocosmos.ai/sn25/dashboard"
-    },
-    {
-      "label": "website",
-      "url": "https://www.macrocosmos.ai/sn25"
-    },
-    {
-      "label": "tplx_publication_link",
-      "url": "https://medium.com/@tensorplexlabs/bittensor-subnet-review-sn25-protein-folding-f0ca9dc3d479"
-    }
-  ]
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
