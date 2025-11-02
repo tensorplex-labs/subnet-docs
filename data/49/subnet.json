@@ -2,19 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Polaris",
-  "github": ["https://github.com/bigideaafrica/polaris"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/49/v2.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1353838885523820564",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "categories": ["Compute"],
-  "summary": "Polaris is a Bittensor subnet designed as a decentralized GPU compute marketplace and management layer. Its primary goal is to connect miners who have spare GPU resources with the Bittensor network, enabling those GPUs to be used for AI tasks and other compute-intensive workloads in a trustless environment.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://www.polariscloud.ai"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }
