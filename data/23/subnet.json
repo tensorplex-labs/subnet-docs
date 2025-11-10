@@ -2,19 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Nuance",
-  "github": ["https://github.com/NuanceNetwork/Nuance"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/23/v2.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1191833510021955695",
-  "team": "Zuvu AI",
-  "summary": "Nuance is a revolutionary subnet project aimed at transforming the media landscape by incentivizing users on X to promote factual and nuanced opinions.",
-  "categories": ["Social"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/NuanceSubnet"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
