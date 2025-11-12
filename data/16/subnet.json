@@ -2,19 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "BitKoop",
-  "github": ["https://github.com/BitKoopLabs/BitKoop"],
+  "name": "BitAds",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/16/v3.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "BitKoop is a decentralized, community-powered discount web platform that transforms discount codes into a reliable digital commodity.",
-  "categories": [],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/BitKoop"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }
