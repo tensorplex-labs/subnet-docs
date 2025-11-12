@@ -2,27 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "SWE-Rizzo",
-  "github": ["https://github.com/brokespace/code"],
+  "name": "Talisman AI",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/45/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1267511824601976935",
+  "image_url": "https://backprop.finance/assets/subnet-logos/45/v2.jpg",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "Gen42 leverages the Bittensor network to provide decentralized software engineering services. Our focus is on creating robust, scalable tools for software engineering, powered by open-source large language models. These tools should benefit both Bittensor community and the broader software engineering ecosystem. To achieve this, our miners compete to develop the best SWE (software engineering) pipelines and we score their performance.",
-  "categories": ["AI Agent"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/Gen42AI"
-    },
-    {
-      "label": "website",
-      "url": "https://www.gen42.ai/en"
-    },
-    {
-      "label": "application",
-      "url": "https://chat.gen42.ai/login"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }
