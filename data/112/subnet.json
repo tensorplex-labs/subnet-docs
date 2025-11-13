@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "minotaur",
+  "github": ["https://github.com/subnet112/minotaur_subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/112/v1.jpg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "minotaur is a Bittensor subnet focused on swap‑intent processing and execution optimization. It leverages a subnet‑native incentive mechanism to deliver better, cheaper, and faster trades for users.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://minotaursubnet.com/"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/minotaursubnet"
+    }
+  ]
 }

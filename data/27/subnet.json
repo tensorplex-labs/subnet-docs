@@ -2,8 +2,8 @@
   "$schema": "../../schema.json",
   "bittensor_id": "neural_internet",
   "letter": "",
-  "name": "Compute",
-  "github": ["https://github.com/neuralinternet/compute-subnet"],
+  "name": "Neural Internet",
+  "github": ["https://github.com/neuralinternet/SN27"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/27/v1.jpg",
   "description": "description.html",
@@ -12,10 +12,6 @@
   "categories": ["Compute"],
   "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
   "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/neural_internet"
-    },
     {
       "label": "website",
       "url": "https://neuralinternet.ai/"
