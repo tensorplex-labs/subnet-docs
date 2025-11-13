@@ -819,9 +819,9 @@
         "$schema": "../../schema.json",
         "bittensor_id": "neural_internet",
         "letter": "",
-        "name": "Compute",
+        "name": "Neural Internet",
         "github": [
-            "https://github.com/neuralinternet/compute-subnet"
+            "https://github.com/neuralinternet/SN27"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/27/v1.jpg",
@@ -833,10 +833,6 @@
         ],
         "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
         "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/neural_internet"
-            },
             {
                 "label": "website",
                 "url": "https://neuralinternet.ai/"
@@ -3188,15 +3184,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "minotaur",
+        "github": [
+            "https://github.com/subnet112/minotaur_subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/112/v1.jpg",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "minotaur is a Bittensor subnet focused on swap\u2011intent processing and execution optimization. It leverages a subnet\u2011native incentive mechanism to deliver better, cheaper, and faster trades for users.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://minotaursubnet.com/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/minotaursubnet"
+            }
+        ],
         "subnet_id": 112
     },
     {
