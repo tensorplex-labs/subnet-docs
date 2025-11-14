@@ -2,13 +2,25 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Platform Network",
+  "github": [
+    "https://github.com/CortexLM/platform",
+    "https://github.com/PlatformNetwork"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/100/v1.png",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "Cortex Foundation",
+  "summary": "Platform is a Bittensor subnet built to advance collaborative AI research through multiple simultaneous challenges powered by sub-subnet technology. It enables miners to compete and cooperate across diverse challenges, ensuring confidentiality, transparent evaluation, and the continuous pursuit of the most efficient and innovative code.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://www.platform.network"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://docs.platform.network"
+    }
+  ]
 }
