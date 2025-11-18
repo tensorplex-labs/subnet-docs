@@ -2883,15 +2883,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "ForeverMoney \u4e5d\u516b",
+        "github": [
+            "https://github.com/orgs/SN98-ForeverMoney/repositories"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://gateway.pinata.cloud/ipfs/QmWesoGxtSxtGTwjCrnd1jS1wt5kxTJmUWoUQLPqUPGJGc",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "The REDACTED for @CreatorBid and beyond.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://forevermoney.ai/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/forevermoney_ai"
+            }
+        ],
         "subnet_id": 98
     },
     {
