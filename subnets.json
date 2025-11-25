@@ -199,30 +199,26 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "infinite_games",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Infinite Games",
+        "name": "Numinous",
         "github": [
-            "https://github.com/amedeo-gigaver/infinite_games"
+            "https://github.com/numinouslabs/numinous"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/6/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1209554949449457705",
+        "image_url": "https://backprop.finance/assets/subnet-logos/6/v2.jpg",
+        "description": "",
+        "bittensor_discord_id": "",
         "team": "",
-        "summary": "Infinite Games incentivizes the prediction of future events by rewarding contributors based on the accuracy and speed of their model's forecasts. The subnet currently focuses on binary future events listed on Polymarket and Azuro.",
-        "categories": [
-            "Prediction Market",
-            "Yuma Accelerated"
-        ],
+        "summary": "Numinous (Subnet 6) is a forecasting protocol whose goal is to aggregate agents into superhuman LLM forecasters. The key principle is that agents evolve and are scored in self-play forecasting environments.",
         "websites": [
             {
                 "label": "twitter",
-                "url": "https://x.com/Playinfgames"
+                "url": "https://x.com/numinous_ai"
             },
             {
                 "label": "website",
-                "url": "https://www.infinitegam.es/"
+                "url": "https://numinouslabs.io/"
             }
         ],
         "subnet_id": 6
@@ -2008,31 +2004,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Ocean",
+        "name": "AlphaCore",
         "github": [
-            "https://github.com/Oceans-Subnet/oceans_subnet"
+            "https://github.com/AlphaCoreBittensor/alphacore"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/66/v2.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/66/v3.png",
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "categories": [
-            "DeFi"
-        ],
-        "summary": "Oceans is on a mission to transform bittensor pools into oceans. We will use bittensor incentives to channel liquidity to where it is most productive. Subnet liquidity has been a huge issue in Bittensor and we want to solve it.",
+        "summary": "AlphaCore assists individuals and teams as they provision, monitor, and operate infrastructure across AWS, Azure, and Google Cloud. AlphaCore Agent handles infrastructure workflows so you can focus on delivering shareholder value.",
         "websites": [
             {
-                "label": "twitter",
-                "url": "https://x.com/OceansSN66"
-            },
-            {
                 "label": "website",
-                "url": "https://oceans66.com"
+                "url": "https://alpha-core.ai"
             },
             {
                 "label": "whitepaper",
-                "url": "https://oceans66.com/whitepaper/introduction"
+                "url": "https://alpha-core.ai/litepaper"
             }
         ],
         "subnet_id": 66
@@ -3127,32 +3116,22 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Taoillium",
-        "github": [
-            "https://github.com/taoillium/bittensor-subnet-taoillium"
-        ],
+        "name": "Dogelayer",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/109/v1.jpg",
-        "description": "description.html",
+        "image_url": "https://backprop.finance/assets/subnet-logos/109/v2.jpg",
+        "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Bittensor Subnet Taoillium is a comprehensive framework for building and deploying incentivized subnets on the Bittensor blockchain. This project provides a complete template that abstracts away the complexity of blockchain interactions while offering powerful tools for creating custom incentive mechanisms.",
+        "summary": "Dogelayer aims to return mining rewards to those who create real value",
         "websites": [
             {
-                "label": "website",
-                "url": "https://taoillium.ai"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://app.taoillium.ai/docs"
-            },
-            {
                 "label": "twitter",
-                "url": "https://x.com/Taoillium"
+                "url": "https://x.com/layer_doge"
             },
             {
                 "label": "discord",
-                "url": "https://discord.gg/taoillium"
+                "url": "https://discord.gg/dogelayer"
             }
         ],
         "subnet_id": 109
