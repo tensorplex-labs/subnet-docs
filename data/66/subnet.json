@@ -2,27 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Ocean",
-  "github": ["https://github.com/Oceans-Subnet/oceans_subnet"],
+  "name": "AlphaCore",
+  "github": ["https://github.com/AlphaCoreBittensor/alphacore"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/66/v2.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/66/v3.png",
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "categories": ["DeFi"],
-  "summary": "Oceans is on a mission to transform bittensor pools into oceans. We will use bittensor incentives to channel liquidity to where it is most productive. Subnet liquidity has been a huge issue in Bittensor and we want to solve it.",
+  "summary": "AlphaCore assists individuals and teams as they provision, monitor, and operate infrastructure across AWS, Azure, and Google Cloud. AlphaCore Agent handles infrastructure workflows so you can focus on delivering shareholder value.",
   "websites": [
     {
-      "label": "twitter",
-      "url": "https://x.com/OceansSN66"
-    },
-    {
       "label": "website",
-      "url": "https://oceans66.com"
+      "url": "https://alpha-core.ai"
     },
     {
       "label": "whitepaper",
-      "url": "https://oceans66.com/whitepaper/introduction"
+      "url": "https://alpha-core.ai/litepaper"
     }
   ]
 }

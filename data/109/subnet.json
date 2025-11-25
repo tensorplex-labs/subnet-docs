@@ -2,30 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Taoillium",
-  "github": ["https://github.com/taoillium/bittensor-subnet-taoillium"],
+  "name": "Dogelayer",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/109/v1.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos/109/v2.jpg",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Bittensor Subnet Taoillium is a comprehensive framework for building and deploying incentivized subnets on the Bittensor blockchain. This project provides a complete template that abstracts away the complexity of blockchain interactions while offering powerful tools for creating custom incentive mechanisms.",
+  "summary": "Dogelayer aims to return mining rewards to those who create real value",
   "websites": [
     {
-      "label": "website",
-      "url": "https://taoillium.ai"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://app.taoillium.ai/docs"
-    },
-    {
       "label": "twitter",
-      "url": "https://x.com/Taoillium"
+      "url": "https://x.com/layer_doge"
     },
     {
       "label": "discord",
-      "url": "https://discord.gg/taoillium"
+      "url": "https://discord.gg/dogelayer"
     }
   ]
 }

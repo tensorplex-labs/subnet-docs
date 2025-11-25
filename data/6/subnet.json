@@ -1,24 +1,23 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "infinite_games",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Infinite Games",
-  "github": ["https://github.com/amedeo-gigaver/infinite_games"],
+  "name": "Numinous",
+  "github": ["https://github.com/numinouslabs/numinous"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/6/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1209554949449457705",
+  "image_url": "https://backprop.finance/assets/subnet-logos/6/v2.jpg",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "Infinite Games incentivizes the prediction of future events by rewarding contributors based on the accuracy and speed of their model's forecasts. The subnet currently focuses on binary future events listed on Polymarket and Azuro.",
-  "categories": ["Prediction Market", "Yuma Accelerated"],
+  "summary": "Numinous (Subnet 6) is a forecasting protocol whose goal is to aggregate agents into superhuman LLM forecasters. The key principle is that agents evolve and are scored in self-play forecasting environments.",
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/Playinfgames"
+      "url": "https://x.com/numinous_ai"
     },
     {
       "label": "website",
-      "url": "https://www.infinitegam.es/"
+      "url": "https://numinouslabs.io/"
     }
   ]
 }
