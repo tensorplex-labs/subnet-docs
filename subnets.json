@@ -254,25 +254,29 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "proprietary_trading_network",
+        "bittensor_id": "",
         "letter": "",
-        "name": "Proprietary Trading Network",
+        "name": "Vanta Network",
         "github": [
-            "https://github.com/taoshidev/proprietary-trading-network"
+            "https://github.com/taoshidev/vanta-network"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/8/v1.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/8/v2.png",
         "description": "description.html",
         "bittensor_discord_id": "1162384774170677318",
         "team": "",
         "categories": [
             "Financial Trading"
         ],
-        "summary": "The Proprietary Trading Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
+        "summary": "Vanta Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
         "websites": [
             {
                 "label": "twitter",
                 "url": "https://x.com/taoshiio"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/VantaTrading"
             },
             {
                 "label": "website",
@@ -2759,29 +2763,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Eastworld",
-        "github": [
-            "https://github.com/Eastworld-AI/eastworld-subnet"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/94/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1343988268630409226",
-        "team": "Eastworld AI",
-        "summary": "Next-Generation Gyms for Next-Generation AI Agents, on Bittensor",
-        "categories": [
-            "AI Agent"
-        ],
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/Eastworld_AI"
-            },
-            {
-                "label": "website",
-                "url": "https://eastworld.ai"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 94
     },
     {
