@@ -2,23 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Eastworld",
-  "github": ["https://github.com/Eastworld-AI/eastworld-subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/94/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1343988268630409226",
-  "team": "Eastworld AI",
-  "summary": "Next-Generation Gyms for Next-Generation AI Agents, on Bittensor",
-  "categories": ["AI Agent"],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/Eastworld_AI"
-    },
-    {
-      "label": "website",
-      "url": "https://eastworld.ai"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
