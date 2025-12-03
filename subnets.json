@@ -713,15 +713,30 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Trishool",
+        "github": [
+            "https://github.com/TrishoolAI/trishool-subnet"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/23/v3.jpg",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "A Bittensor subnet for evaluating and detecting behavioral traits in Large Language Models (LLMs). This system creates a competitive environment where miners submit seed instructions (prompts) that are tested using the Petri alignment auditing agent to identify potentially problematic behaviors such as deception, sycophancy, manipulation, overconfidence, and power-seeking tendencies.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://trishool.ai/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/trishoolai"
+            },
+            {
+                "label": "whitepaper",
+                "url": "https://docs.trishool.ai/"
+            }
+        ],
         "subnet_id": 23
     },
     {
@@ -2692,29 +2707,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Reinforced AI",
-        "github": [
-            "https://github.com/ReinforcedAIAudits/solidity-audit"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/92/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1361761424153645217",
-        "team": "ReinforcedAI",
-        "categories": [
-            "Cybersecurity"
-        ],
-        "summary": "The mission of ReinforcedAI\u2019s Solidity Audit Subnet Pi is to accelerate this process by combining knowledge and expertise of such teams. Aligning decentralized sources of expertise towards competition and benchmarking against peers is the most effective mechanism to accomplish that mission. Bittensor\u2019s architecture and incentive mechanisms are the perfect way to organize the market for that knowledge and expertise \u2014 there are clear incentives to join and competitive mechanisms that motivate improvements, which is exactly what is needed to create the most innovative solutions.",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/Reinforced_AI"
-            },
-            {
-                "label": "website",
-                "url": "https://reinforced.app/"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
         "subnet_id": 92
     },
     {
