@@ -2,13 +2,26 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Trishool",
+  "github": ["https://github.com/TrishoolAI/trishool-subnet"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/23/v3.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "A Bittensor subnet for evaluating and detecting behavioral traits in Large Language Models (LLMs). This system creates a competitive environment where miners submit seed instructions (prompts) that are tested using the Petri alignment auditing agent to identify potentially problematic behaviors such as deception, sycophancy, manipulation, overconfidence, and power-seeking tendencies.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://trishool.ai/"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/trishoolai"
+    },
+    {
+      "label": "whitepaper",
+      "url": "https://docs.trishool.ai/"
+    }
+  ]
 }

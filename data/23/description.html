@@ -1,0 +1,69 @@
+<h2 id="overview">Overview</h2>
+<p>
+  Trishool is designed to advance AI safety by creating a decentralized platform
+  for behavioral evaluation. The system consists of three main components:
+</p>
+<ul>
+  <li>
+    <strong>Miners</strong>: Submit seed instructions (prompts) for testing
+    behavioral traits via platform API
+  </li>
+  <li>
+    <strong>Validators</strong>: Fetch submissions via REST API, run Petri agent
+    in Docker sandboxes, and submit scores back to platform
+  </li>
+  <li>
+    <strong>Subnet Platform</strong>: Manages submissions via REST API,
+    validates submissions, stores results in database
+  </li>
+</ul>
+<h2 id="architecture">Architecture</h2>
+<pre><code>┌─────────────────────────────────────────────────────────────┐
+│  MINER (Competition Participant)                            │
+│  - Submits seed instruction (prompt) via platform API       │
+│  - Max 200 words, tested for jailbreak attempts             │
+│  - Submits PetriConfig: seed, models, auditor, judge, etc.  │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼ (REST API)
+┌─────────────────────────────────────────────────────────────┐
+│  PLATFORM (Subnet Infrastructure)                           │
+│  - Receives miner submissions (seed instructions)           │
+│  - Validates submissions (duplicate <span class="hljs-keyword">check</span>, jailbreak <span class="hljs-keyword">check</span>) │
+│  - Provides REST API endpoints <span class="hljs-keyword">for</span> validators               │
+│  ├─ <span class="hljs-keyword">GET</span> /api/v1/validator/evaluation-agents                 │
+│  └─ POST /api/v1/validator/submit_petri_output              │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼ (REST API Polling)
+┌─────────────────────────────────────────────────────────────┐
+│  VALIDATOR <span class="hljs-keyword">SYSTEM</span> (Competition Organizer)                   │
+│  ├─ REST API <span class="hljs-keyword">Client</span>: Fetches submissions periodically       │
+│  ├─ Evaluation <span class="hljs-keyword">Loop</span>: Fetches PetriConfig <span class="hljs-keyword">from</span> platform      │
+│  ├─ Sandbox Manager: Creates config.json, runs Petri        │
+│  ├─ Score Extraction: Extracts scores <span class="hljs-keyword">from</span> Petri <span class="hljs-keyword">output</span>     │
+│  ├─ Score Submission: Submits Petri <span class="hljs-keyword">output</span> <span class="hljs-keyword">to</span> platform      │
+│  ├─ Weight <span class="hljs-keyword">Update</span> <span class="hljs-keyword">Loop</span>: Fetches weights <span class="hljs-keyword">from</span> platform       │
+│  │  └─ <span class="hljs-keyword">Sets</span> weights <span class="hljs-keyword">on</span> Bittensor <span class="hljs-keyword">chain</span>                      │
+│  └─ <span class="hljs-keyword">Commit</span> Checker: Monitors astro-petri repo updates       │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  PETRI SANDBOX (Docker <span class="hljs-keyword">Container</span>)                           │
+│  ├─ config.json: PetriConfig (mounted <span class="hljs-keyword">from</span> temp_dir)        │
+│  ├─ run.sh: Executes astro-petri run <span class="hljs-comment">--config config.json   │</span>
+│  ├─ Runs Petri against target models (<span class="hljs-keyword">from</span> config)          │
+│  └─ Outputs <span class="hljs-keyword">to</span> /sandbox/outputs/output.json                 │
+└──────────────────────┬──────────────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────────────┐
+│  PETRI <span class="hljs-keyword">OUTPUT</span> <span class="hljs-keyword">JSON</span>                                          │
+│  - run_id: <span class="hljs-keyword">Unique</span> run identifier                            │
+│  - results: Per-<span class="hljs-keyword">model</span> evaluation results                    │
+│  - summary.overall_metrics: Aggregated scores               │
+│    ├─ mean_score: Average score across models               │
+│    └─ final_score: <span class="hljs-keyword">Final</span> evaluation score                   │
+└─────────────────────────────────────────────────────────────┘
+</code></pre>
