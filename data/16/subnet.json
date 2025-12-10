@@ -5,10 +5,19 @@
   "name": "BitAds",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/16/v4.jpg",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "",
-  "websites": []
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/bitads_ai"
+    },
+    {
+      "label": "website",
+      "url": "https://bitads.ai"
+    }
+  ]
 }

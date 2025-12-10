@@ -2,19 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "DegenBrain",
-  "github": ["https://github.com/degenpredict/bittensor-subnet-90-brain"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/90/v1.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1361438967198908577",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "A fully implemented Bittensor subnet for automated verification of prediction market statements through distributed consensus.",
-  "categories": ["Prediction Market"],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://subnet90.com"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }
