@@ -2369,15 +2369,26 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Loosh AI",
+        "github": [
+            "https://github.com/Loosh-ai"
+        ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "image_url": "https://backprop.finance/assets/subnet-logos/78/v1.jpg",
         "description": "",
-        "bittensor_discord_id": "1351180661918142474",
+        "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "From World Models to Machine Consciousness: A cognition layer that gives robots and agents: memory, context, and continuity.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.loosh.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/loosh_ai"
+            }
+        ],
         "subnet_id": 78
     },
     {
@@ -2940,26 +2951,15 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "BetterTherapy",
-        "github": [
-            "https://github.com/BetterTherapy/BetterTherapy-Subnet"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/102/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "BetterTherapy Subnet is a decentralized protocol for deploying personalized AI Doctor Twins. Each twin represents a real-world, licensed expert, fine-tuned with domain-specific knowledge to deliver high-quality, trustworthy health insights to users.",
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://bettertherapy.ai"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/BetterTherapyAI"
-            }
-        ],
+        "summary": "",
+        "websites": [],
         "subnet_id": 102
     },
     {
