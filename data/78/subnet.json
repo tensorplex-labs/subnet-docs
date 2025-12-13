@@ -2,13 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Loosh AI",
+  "github": ["https://github.com/Loosh-ai"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos/78/v1.jpg",
   "description": "",
-  "bittensor_discord_id": "1351180661918142474",
+  "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "From World Models to Machine Consciousness: A cognition layer that gives robots and agents: memory, context, and continuity.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://www.loosh.ai"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/loosh_ai"
+    }
+  ]
 }
