@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loosh AI | Technical Overview</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --bg-color: #f8f9fa;
+            --text-color: #333;
+            --section-bg: #ffffff;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 4px solid var(--accent-color);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        h2 {
+            font-weight: 300;
+            color: #bdc3c7;
+            margin-top: 10px;
+            font-size: 1.2em;
+        }
+
+        h3 {
+            color: var(--primary-color);
+            border-left: 5px solid var(--accent-color);
+            padding-left: 15px;
+            margin-top: 30px;
+        }
+
+        section {
+            background: var(--section-bg);
+            margin: 20px 0;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        li::before {
+            content: "•";
+            color: var(--accent-color);
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+
+        .tag {
+            display: inline-block;
+            background-color: #e1ecf4;
+            color: #2c3e50;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            margin-right: 5px;
+            font-weight: 600;
+        }
+
+        .highlight-box {
+            background-color: #f1f8ff;
+            border: 1px solid #d1e3f8;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 15px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Loosh AI</h1>
+            <h2>The Robot’s Second Brain and Conscience</h2>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <section>
+            <h3>Product Mission</h3>
+            <p>Loosh AI addresses the limitations of current shallow AI models by providing a "second brain" focused on memory, moral tradeoffs, and autonomous decision-making. The platform is designed for AI agents in customer-facing roles, regulated workflows, and embodied robots operating in human spaces.</p>
+        </section>
+
+        <section>
+            <h3>System Architecture</h3>
+            <p>The platform utilizes a three-part architecture designed to maintain a rich, time-aware model of information, intent, and state changes.</p>
+            <div class="highlight-box">
+                <strong>Core Components:</strong>
+                <ul>
+                    <li>Cognitive System</li>
+                    <li>Context Builder</li>
+                    <li>Memory Fabric</li>
+                </ul>
+            </div>
+            <p><strong>The Temporal Knowledge Graph:</strong> As agents gain experience, the system generates a graph that is continually rewritten and re-weighted. This ensures agents reason over a causally consistent view of the world while improving capabilities by reflecting on past experiences.</p>
+        </section>
+
+        <section>
+            <h3>Cognitive Services & Ethics</h3>
+            <p>Loosh differentiates itself through specialized evaluators that function as an integrated moral compass to ensure predictable, safe, and trustworthy behavior.</p>
+            <ul>
+                <li><strong>Rights & Deontic Evaluators:</strong> Assess proposed actions based on established rules, duties, and rights.</li>
+                <li><strong>Virtue & Utility Evaluators:</strong> Weigh the moral character and potential outcomes of decisions.</li>
+                <li><strong>Future Capabilities:</strong> Feasibility assessment, fact analysis, planning, sensibility, and reflection.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Multimodal Inference & Human Alignment</h3>
+            <p>To support true autonomy, the system is designed to infer human intent and emotional state through language and nonverbal communication. This foundation allows for the creation of expressive, emotionally rich personas.</p>
+            <ul>
+                <li><strong>Input Channels:</strong> Audio, Video, and EEG (Electroencephalography).</li>
+                <li><strong>Function:</strong> Identifies human emotions to align robotic behavior with human needs.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Infrastructure & Scaling</h3>
+            <p>Loosh leverages decentralized infrastructure to scale its "Machine Consciousness" architecture.</p>
+            <ul>
+                <li><strong>Bittensor Protocol:</strong> Utilizes a decentralized network of global GPUs for distributed computing power.</li>
+                <li><strong>Training Data:</strong> AI models are trained against inference, emotional, and cognitive data.</li>
+                <li><strong>Yuma Subnet Accelerator:</strong> As part of the Yuma accelerator (a DCG subsidiary), Loosh utilizes validator support and capital to build within the Bittensor ecosystem.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Integration & Use Cases</h3>
+            <p>The platform is built for robotics companies and firms deploying advanced AI agents.</p>
+            <ul>
+                <li><strong>Integration Points:</strong> Works with World Models and existing AI stacks.</li>
+                <li><strong>Deliverables:</strong> Provides persistent memory, semantically searchable context, and a built-in moral compass.</li>
+                <li><strong>Goal:</strong> Enabling agents to reason like humans rather than stateless tools.</li>
+            </ul>
+        </section>
+
+    </div>
+
+    <footer>
+        <p><strong>Status:</strong> Beta rollout via waitlist.<br>
+        <strong>Website:</strong> <a href="http://www.loosh.ai">www.loosh.ai</a> | <strong>Contact:</strong> hello@loosh.ai</p>
+    </footer>
+
+</body>
+</html>
