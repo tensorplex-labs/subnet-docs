@@ -8,7 +8,7 @@
     "https://github.com/Loosh-ai/loosh-public-documentation"
   ],
   "hw_requirements": "",
-  "image_url": "https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_1/974eb6c780804ad1b8c100a4ae9aa975?ik-sanitizeSvg=true",
+  "image_url": "https://backprop.finance/assets/subnet-logos/78/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "Loosh",
@@ -18,10 +18,6 @@
     {
       "label": "twitter",
       "url": "https://x.com/Loosh_ai"
-    },
-    {
-      "label": "application",
-      "url": "TBA"
     },
     {
       "label": "website",
