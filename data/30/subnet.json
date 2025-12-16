@@ -1,32 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "bettensor",
+  "bittensor_id": "",
   "letter": "",
-  "name": "Bettensor",
-  "github": ["https://github.com/Nickel5-Inc/bettensor"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/30/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1255568373056671804",
-  "team": "Nickel5",
-  "categories": ["Sports Prediction", "Prediction Market"],
-  "summary": "Bettensor is focused on sports prediction, incentivizing the accurate forecasting of sports outcomes using various methods, including human intuition, AI models, and statistical approaches.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/Bettensor"
-    },
-    {
-      "label": "website",
-      "url": "https://bettensor.io/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://bettensor.com/alpha"
-    },
-    {
-      "label": "application",
-      "url": "https://bettensor.com/games"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
