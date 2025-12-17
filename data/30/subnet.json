@@ -2,13 +2,30 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Wahooτ",
+  "github": ["https://github.com/wahoo-predict/wahoot"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/30/v2.jpg",
+  "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "WahooPredict",
+  "summary": "The Largest Prediction Network on Bittensor.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://wahoopredict.com"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/wahootsubnet"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/Wahoopredict"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/CDWfPqpB8A"
+    }
+  ]
 }
