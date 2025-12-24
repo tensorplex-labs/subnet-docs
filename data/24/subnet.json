@@ -1,36 +1,14 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "omega_labs",
+  "bittensor_id": "",
   "letter": "",
-  "name": "OMEGA Labs",
-  "github": ["https://github.com/OMEGAlabsinc/OMEGAlabs-bittensor-subnet"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/24/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1214246819886931988",
-  "team": "Omega Labs",
-  "summary": "OMEGA Labs incentivizes the collection of open multimodal data to accelerate AGI research and development. Contributors capture videos with metadata such as title, tags, and descriptions, obtain ImageBind embeddings for video, audio, and captions, and upload them, creating one of the largest open-source multimodal datasets.",
-  "categories": ["Data Pipeline"],
-  "websites": [
-    {
-      "label": "omega focus",
-      "url": "https://focus.omega.inc/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/OMEGAlabsai"
-    },
-    {
-      "label": "website",
-      "url": "https://dataset.OMEGAtron.ai/"
-    },
-    {
-      "label": "application",
-      "url": "https://omegatron.ai/discover"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://huggingface.co/datasets/OMEGAlabsinc/OMEGA-multimodal"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": []
 }
