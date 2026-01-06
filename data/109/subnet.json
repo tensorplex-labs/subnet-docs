@@ -2,22 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Dogelayer",
+  "name": "",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/109/v2.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Dogelayer aims to return mining rewards to those who create real value",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/layer_doge"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/dogelayer"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }

@@ -2,27 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Candles",
+  "name": "",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/31/v2.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Market sentiment prediction through mining and gamified public pools.",
-  "categories": [],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://candlestao.com"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://medium.com/@neuralnexusii/candles-v1-0-lighting-the-path-to-on-chain-predictive-pools-f9acb1794e69"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/candlestao"
-    }
-  ]
+  "summary": "",
+  "websites": []
 }

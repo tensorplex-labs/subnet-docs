@@ -2,13 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "TalkHead",
+  "github": ["https://github.com/talkheadai/talkhead-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
+  "summary": "TalkHead is a Bittensor subnet that incentivizes miners to generate high-quality, lip-synced talking-head video clips from text plus a reference image (and optional voice profile). Validators evaluate realism and identity preservation, then apply a latency bonus after quality scoring before setting on-chain weights.",
   "websites": []
 }

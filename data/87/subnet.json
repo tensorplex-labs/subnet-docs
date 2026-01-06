@@ -2,18 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "AceGuard",
+  "name": "",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/87/v2.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/Aceguard87"
-    }
-  ]
+  "websites": []
 }

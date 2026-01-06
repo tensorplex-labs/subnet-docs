@@ -1,0 +1,26 @@
+<ul>
+  <li>
+    <strong>Forward</strong>: Validators query miners with a TalkHead Synapse,
+    which carries <code>image_base64</code>, <code>text</code>, and
+    <code>voice_profile</code>.
+  </li>
+  <li>
+    <strong>Generate</strong>: Miners forward the TalkHead Synapse to their own
+    talking-head video generation API to render a clip, upload it to Cloudflare
+    R2, and return a public video URL.
+  </li>
+  <li>
+    <strong>Score</strong>: Validators send the video URL to the scoring server,
+    which computes quality metrics (sync, identity, motion, etc.) and returns a
+    composite quality score.
+  </li>
+  <li>
+    <strong>Latency bonus</strong>: Validators apply a latency bonus separately
+    using the dendrite processing time versus video duration; latency is not
+    part of the composite.
+  </li>
+  <li>
+    <strong>Reward</strong>: Scores are blended with rank-based decay and an
+    optional emission burn before updating validator weights on-chain.
+  </li>
+</ul>
