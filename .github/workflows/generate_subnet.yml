@@ -30,6 +30,7 @@ jobs:
         run: python ./generate_subnets.py
 
       - name: Commit and push changes
+        if: github.event_name == 'push'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
