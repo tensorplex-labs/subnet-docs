@@ -3,7 +3,7 @@
   "bittensor_id": "alpha",
   "letter": "",
   "name": "Apex",
-  "github": ["https://github.com/macrocosm-os/prompting"],
+  "github": ["https://github.com/macrocosm-os/apex"],
   "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
   "image_url": "https://backprop.finance/assets/subnet-logos/1/v1.png",
   "description": "description.html",

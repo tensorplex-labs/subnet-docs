@@ -3,7 +3,7 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Bounty Hunter",
-  "github": [],
+  "github": ["https://github.com/RogueTensor/bitagent_subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",

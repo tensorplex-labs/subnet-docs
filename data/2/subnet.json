@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Subnet 2",
+  "name": "DSperse",
   "github": ["https://github.com/inference-labs-inc/subnet-2"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/2/v2.jpg",

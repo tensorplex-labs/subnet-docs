@@ -3,7 +3,10 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Chutes",
-  "github": ["https://github.com/rayonlabs/chutes-miner"],
+  "github": [
+    "https://github.com/rayonlabs/chutes-miner",
+    "https://github.com/rayonlabs/chutes"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/64/v2.webp",
   "description": "",

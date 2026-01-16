@@ -20,7 +20,7 @@
         "letter": "",
         "name": "Apex",
         "github": [
-            "https://github.com/macrocosm-os/prompting"
+            "https://github.com/macrocosm-os/apex"
         ],
         "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
         "image_url": "https://backprop.finance/assets/subnet-logos/1/v1.png",
@@ -52,7 +52,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 2",
+        "name": "DSperse",
         "github": [
             "https://github.com/inference-labs-inc/subnet-2"
         ],
@@ -232,7 +232,7 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1437494877578330174",
         "team": "",
         "summary": "",
         "websites": [],
@@ -343,9 +343,9 @@
         "$schema": "../../schema.json",
         "bittensor_id": "lambda",
         "letter": "",
-        "name": "Dippy Roleplay",
+        "name": "Dippy Studio",
         "github": [
-            "https://github.com/impel-intelligence/dippy-bittensor-subnet"
+            "https://github.com/impel-intelligence/dippy-studio-bittensor"
         ],
         "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
         "image_url": "https://backprop.finance/assets/subnet-logos/11/v1.jpg",
@@ -355,7 +355,7 @@
         "categories": [
             "Model Development"
         ],
-        "summary": "The Dippy Roleplay subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
+        "summary": "The Dippy Studio subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
         "websites": [
             {
                 "label": "twitter",
@@ -372,7 +372,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "horde",
         "letter": "",
-        "name": "Horde",
+        "name": "Compute Horde",
         "github": [
             "https://github.com/backend-developers-ltd/ComputeHorde"
         ],
@@ -381,7 +381,7 @@
         "description": "",
         "bittensor_discord_id": "1201941624243109888",
         "team": "",
-        "summary": "Horde is a cloud platform dedicated to networkless GPU-equipped servers. It implements hardware classes to establish a free market that optimizes for cost-effectiveness over merely the strongest hardware.",
+        "summary": "Compute Horde is a specialized subnet (subnet 12) within the Bittensor network, designed to provide scalable, decentralized, and trusted GPU computing power for validators across other Bittensor subnets. By transforming untrusted GPUs from miners into reliable compute resources, computehorde reduces dependency on centralized services and enables cost-effective, large-scale validation. Key features include fair and verified work mechanisms, scalable mining with multiple executors per miner, hardware class-based resource allocation, a developer SDK for easy integration, collateral-based trust for organic jobs, and an optional DDoS shield for miners. The project aims to support a wide range of GPU types and offers a robust scoring and incentive system to ensure quality and accountability.",
         "categories": [
             "Compute"
         ],
@@ -401,7 +401,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "dataverse",
         "letter": "",
-        "name": "Dataverse",
+        "name": "Data Universe",
         "github": [
             "https://github.com/macrocosm-os/data-universe/"
         ],
@@ -410,7 +410,7 @@
         "description": "description.html",
         "bittensor_discord_id": "1185617142914236518",
         "team": "Macrocosmos",
-        "summary": "Dataverse is focused on distributed data scraping to create datasets for training and other applications. It directs contributors to specific data sources for scraping and incentivizes them to store the data, ensuring easy retrieval and accessibility.",
+        "summary": "Macrocosmos Data Universe is a large-scale, open-access platform that scrapes and aggregates real-time and historical social media data from platforms like X (formerly Twitter), Reddit, and YouTube. Designed for precision, speed, and scalability, it offers over 55 billion structured data rows with up to 80 million new entries added daily. Users can access, analyze, and visualize this data for applications such as social listening, AI model training, forecasting, and market analysis. The platform features tools like Gravity for targeted data scraping and Nebula for interactive 3D data visualization, and provides both ready-made datasets and flexible APIs for integration into business and AI workflows.",
         "categories": [
             "Data Pipeline",
             "Macrocosmos"
@@ -619,7 +619,9 @@
         "bittensor_id": "",
         "letter": "",
         "name": "Bounty Hunter",
-        "github": [],
+        "github": [
+            "https://github.com/RogueTensor/bitagent_subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
@@ -892,9 +894,9 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/30/v2.jpg",
         "description": "description.html",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1450258703902310543",
         "team": "WahooPredict",
-        "summary": "The Largest Prediction Network on Bittensor.",
+        "summary": "Wahoo\u03c4 is a prediction market platform that enables users to trade on real-world events\u2014such as sports, politics, and economics\u2014using simple yes/no bets with real-time odds. Built on top of Bittensor, it rewards users with TAO/alpha tokens based on their trading performance, not coding skills. The platform is accessible via browser, requires no coding, and offers full API access for advanced users. Validators track and score user performance transparently, and rewards are distributed accordingly. wahoo\u03c4 aims to democratize prediction markets and Bittensor mining by making participation easy and rewarding for everyone.",
         "websites": [
             {
                 "label": "website",
@@ -1052,13 +1054,15 @@
         "bittensor_id": "",
         "letter": "",
         "name": "Cartha (0xMarkets)",
-        "github": [],
+        "github": [
+            "https://github.com/General-Tao-Ventures/cartha-cli"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/35/v2.jpg",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1415790978077556906",
         "team": "",
-        "summary": "Trade Currencies, Commodities & Crypto Without Barriers",
+        "summary": "0xmarkets is a decentralized exchange (DEX) platform designed to provide global, permissionless access to trading a wide range of financial assets, including cryptocurrencies, currencies, and commodities. Powered by the Cartha subnet on the Bittensor network, 0xmarkets offers deep, dynamically allocated liquidity and institutional-grade trading depth, aiming to rival traditional CFD platforms. Liquidity providers (miners) can earn dual rewards in the form of trading fees and subnet alpha tokens. The platform emphasizes fairness, efficiency, and accessibility, allowing users to trade perpetual contracts and participate in liquidity provision without traditional barriers or restrictions.",
         "websites": [
             {
                 "label": "website",
@@ -1138,33 +1142,18 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "DSTRBTD",
+        "name": "",
         "github": [
-            "https://github.com/dstrbtd/DistributedTraining"
+            ""
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/38/v2.jpg",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": "1281623984286334987",
-        "team": "KMFODA",
-        "summary": "Trust-less Decentralised Distributed Training",
-        "categories": [
-            "Compute"
-        ],
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://www.dstrbtd.ai"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/dstrbtd_ai"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://wandb.ai/kmfoda/distributed_training"
-            }
-        ],
+        "team": "",
+        "summary": "",
+        "categories": [],
+        "websites": [],
         "subnet_id": 38
     },
     {
@@ -1259,7 +1248,7 @@
         "letter": "",
         "name": "Gopher",
         "github": [
-            "https://github.com/gopher-lab"
+            "https://github.com/gopher-lab/subnet-42"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/42/v3.jpg",
@@ -1909,7 +1898,8 @@
         "letter": "",
         "name": "Chutes",
         "github": [
-            "https://github.com/rayonlabs/chutes-miner"
+            "https://github.com/rayonlabs/chutes-miner",
+            "https://github.com/rayonlabs/chutes"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/64/v2.webp",
@@ -2015,33 +2005,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Nova",
-        "github": [
-            "https://github.com/metanova-labs/nova"
-        ],
+        "name": "",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/68/v2.jpg",
-        "description": "description.html",
+        "image_url": "",
+        "description": "",
         "bittensor_discord_id": "1345470582161936405",
-        "team": "Metanova Labs",
-        "categories": [
-            "DeSci"
-        ],
-        "summary": "NOVA harnesses global compute and collective intelligence to navigate huge unexplored chemical spaces, uncovering breakthrough compounds at a fraction of the cost and time.",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/metanova_labs"
-            },
-            {
-                "label": "website",
-                "url": "https://www.metanova-labs.com"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://www.metanova-labs.com/whitepaper"
-            }
-        ],
+        "team": "",
+        "categories": [],
+        "summary": "",
+        "websites": [],
         "subnet_id": 68
     },
     {
@@ -2539,10 +2512,19 @@
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
-        "bittensor_discord_id": "",
+        "bittensor_discord_id": "1409555541910355998",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Checkerchain is a next-generation, AI-powered decentralized crypto review platform that leverages a trustless review consensus mechanism (TRCM) to ensure honest and reliable product evaluations. The platform combines human and AI-driven assessments, where validators distribute review tasks and aggregate ground truth ratings, while miners use large language models to predict trust scores for products. Through reinforcement learning from human feedback (RLHF), the system continuously refines its AI models, discourages dishonest reviews, and rewards participants based on the accuracy of their predictions. Checkerchain aims to create a transparent, scalable, and corruption-resistant ecosystem for product reviews in the crypto space.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://x.com/LuminarNetwork"
+            },
+            {
+                "label": "website",
+                "url": "https://luminar.network/"
+            }
+        ],
         "subnet_id": 87
     },
     {

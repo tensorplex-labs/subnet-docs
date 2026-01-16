@@ -2,15 +2,15 @@
   "$schema": "../../schema.json",
   "bittensor_id": "lambda",
   "letter": "",
-  "name": "Dippy Roleplay",
-  "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
+  "name": "Dippy Studio",
+  "github": ["https://github.com/impel-intelligence/dippy-studio-bittensor"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
   "image_url": "https://backprop.finance/assets/subnet-logos/11/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1232378968187867147",
   "team": "Impel",
   "categories": ["Model Development"],
-  "summary": "The Dippy Roleplay subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
+  "summary": "The Dippy Studio subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
   "websites": [
     {
       "label": "twitter",

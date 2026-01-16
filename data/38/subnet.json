@@ -2,27 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "DSTRBTD",
-  "github": ["https://github.com/dstrbtd/DistributedTraining"],
+  "name": "",
+  "github": [""],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/38/v2.jpg",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1281623984286334987",
-  "team": "KMFODA",
-  "summary": "Trust-less Decentralised Distributed Training",
-  "categories": ["Compute"],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://www.dstrbtd.ai"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/dstrbtd_ai"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://wandb.ai/kmfoda/distributed_training"
-    }
-  ]
+  "team": "",
+  "summary": "",
+  "categories": [],
+  "websites": []
 }

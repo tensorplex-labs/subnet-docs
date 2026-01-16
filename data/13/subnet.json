@@ -2,14 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "dataverse",
   "letter": "",
-  "name": "Dataverse",
+  "name": "Data Universe",
   "github": ["https://github.com/macrocosm-os/data-universe/"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/13/v1.png",
   "description": "description.html",
   "bittensor_discord_id": "1185617142914236518",
   "team": "Macrocosmos",
-  "summary": "Dataverse is focused on distributed data scraping to create datasets for training and other applications. It directs contributors to specific data sources for scraping and incentivizes them to store the data, ensuring easy retrieval and accessibility.",
+  "summary": "Macrocosmos Data Universe is a large-scale, open-access platform that scrapes and aggregates real-time and historical social media data from platforms like X (formerly Twitter), Reddit, and YouTube. Designed for precision, speed, and scalability, it offers over 55 billion structured data rows with up to 80 million new entries added daily. Users can access, analyze, and visualize this data for applications such as social listening, AI model training, forecasting, and market analysis. The platform features tools like Gravity for targeted data scraping and Nebula for interactive 3D data visualization, and provides both ready-made datasets and flexible APIs for integration into business and AI workflows.",
   "categories": ["Data Pipeline", "Macrocosmos"],
   "websites": [
     {

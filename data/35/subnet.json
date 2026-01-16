@@ -3,13 +3,13 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Cartha (0xMarkets)",
-  "github": [],
+  "github": ["https://github.com/General-Tao-Ventures/cartha-cli"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/35/v2.jpg",
   "description": "",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1415790978077556906",
   "team": "",
-  "summary": "Trade Currencies, Commodities & Crypto Without Barriers",
+  "summary": "0xmarkets is a decentralized exchange (DEX) platform designed to provide global, permissionless access to trading a wide range of financial assets, including cryptocurrencies, currencies, and commodities. Powered by the Cartha subnet on the Bittensor network, 0xmarkets offers deep, dynamically allocated liquidity and institutional-grade trading depth, aiming to rival traditional CFD platforms. Liquidity providers (miners) can earn dual rewards in the form of trading fees and subnet alpha tokens. The platform emphasizes fairness, efficiency, and accessibility, allowing users to trade perpetual contracts and participate in liquidity provision without traditional barriers or restrictions.",
   "websites": [
     {
       "label": "website",

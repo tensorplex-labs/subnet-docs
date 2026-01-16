@@ -7,9 +7,9 @@
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/30/v2.jpg",
   "description": "description.html",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1450258703902310543",
   "team": "WahooPredict",
-  "summary": "The Largest Prediction Network on Bittensor.",
+  "summary": "Wahooτ is a prediction market platform that enables users to trade on real-world events—such as sports, politics, and economics—using simple yes/no bets with real-time odds. Built on top of Bittensor, it rewards users with TAO/alpha tokens based on their trading performance, not coding skills. The platform is accessible via browser, requires no coding, and offers full API access for advanced users. Validators track and score user performance transparently, and rewards are distributed accordingly. wahooτ aims to democratize prediction markets and Bittensor mining by making participation easy and rewarding for everyone.",
   "websites": [
     {
       "label": "website",

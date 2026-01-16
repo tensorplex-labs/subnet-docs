@@ -7,8 +7,17 @@
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
-  "bittensor_discord_id": "",
+  "bittensor_discord_id": "1409555541910355998",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Checkerchain is a next-generation, AI-powered decentralized crypto review platform that leverages a trustless review consensus mechanism (TRCM) to ensure honest and reliable product evaluations. The platform combines human and AI-driven assessments, where validators distribute review tasks and aggregate ground truth ratings, while miners use large language models to predict trust scores for products. Through reinforcement learning from human feedback (RLHF), the system continuously refines its AI models, discourages dishonest reviews, and rewards participants based on the accuracy of their predictions. Checkerchain aims to create a transparent, scalable, and corruption-resistant ecosystem for product reviews in the crypto space.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://x.com/LuminarNetwork"
+    },
+    {
+      "label": "website",
+      "url": "https://luminar.network/"
+    }
+  ]
 }

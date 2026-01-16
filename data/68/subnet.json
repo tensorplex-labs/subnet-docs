@@ -2,27 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Nova",
-  "github": ["https://github.com/metanova-labs/nova"],
+  "name": "",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/68/v2.jpg",
-  "description": "description.html",
+  "image_url": "",
+  "description": "",
   "bittensor_discord_id": "1345470582161936405",
-  "team": "Metanova Labs",
-  "categories": ["DeSci"],
-  "summary": "NOVA harnesses global compute and collective intelligence to navigate huge unexplored chemical spaces, uncovering breakthrough compounds at a fraction of the cost and time.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/metanova_labs"
-    },
-    {
-      "label": "website",
-      "url": "https://www.metanova-labs.com"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://www.metanova-labs.com/whitepaper"
-    }
-  ]
+  "team": "",
+  "categories": [],
+  "summary": "",
+  "websites": []
 }
