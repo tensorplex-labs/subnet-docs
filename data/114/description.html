@@ -1,78 +1,10 @@
+<h2>SOMA</h2>
+
 <p>
-  A Bittensor subnet that enables miners to register with a
-  collector-center-main service and allows validators to evaluate miner
-  performance based on reported metrics.
+  OnChain identity (Soma) is developing AI solutions that leverage the MCP
+  infrastructure, aiming to deliver advanced artificial intelligence
+  capabilities through a dedicated platform. The project is in its pre-launch
+  phase, with further details and features to be announced. Soma appears to
+  focus on integrating AI technologies within a specialized infrastructure to
+  enable innovative applications and services.
 </p>
-<h2 id="overview">Overview</h2>
-<p>Level114 is a subnet designed for:</p>
-<ul>
-  <li>
-    <strong>Miners</strong>: Register with the collector-center-main service and
-    report performance metrics
-  </li>
-  <li>
-    <strong>Validators</strong>: Query miners for metrics and set weights based
-    on performance evaluation
-  </li>
-</ul>
-<h2 id="architecture">Architecture</h2>
-<pre><code>┌─────────────────┐    ┌──────────────────┐    ┌─────────────────────┐
-│                 │    │                  │    │                     │
-│   Validators    │◄──►│   <span class="hljs-keyword">Bittensor </span>     │◄──►│      Miners         │
-│                 │    │   Network        │    │                     │
-└─────────────────┘    └──────────────────┘    └─────────────────────┘
-         │                                               │
-         │               Query Metrics                   │
-         └───────────────────────────────────────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────┐
-                    │                     │
-                    │ Collector-Center    │
-                    │ Main Service        │
-                    │                     │
-                    └─────────────────────┘
-</code></pre>
-<h2 id="key-features">Key Features</h2>
-<ul>
-  <li>
-    <strong>Automatic Registration</strong>: Miners automatically register with
-    collector-center-main
-  </li>
-  <li>
-    <strong>Performance Metrics</strong>: Comprehensive system and application
-    metrics collection
-  </li>
-  <li>
-    <strong>Decentralized Validation</strong>: Validators independently assess
-    miner performance
-  </li>
-  <li>
-    <strong>Weight-based Incentives</strong>: Performance-based reward
-    distribution
-  </li>
-</ul>
-<h2 id="components">Components</h2>
-<h3 id="miners">Miners</h3>
-<ul>
-  <li>Register with collector-center-main on startup (one-time only)</li>
-  <li>Respond to validator queries for basic system metrics</li>
-  <li>
-    Run minimal overhead - just registration and validator response handling
-  </li>
-</ul>
-<h3 id="validators">Validators</h3>
-<ul>
-  <li>Query miners for performance metrics</li>
-  <li>Evaluate miner performance using multiple criteria</li>
-  <li>Set weights on the Bittensor network based on performance scores</li>
-</ul>
-<h3 id="collector-integration">Collector Integration</h3>
-<ul>
-  <li>
-    Miners register with collector-center-main service on startup (one-time)
-  </li>
-  <li>No background reporting or periodic tasks</li>
-  <li>Simple HTTP POST registration with signature verification</li>
-  <li>Validators query collector service independently for metrics</li>
-</ul>

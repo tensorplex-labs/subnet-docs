@@ -2,23 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "HappyAI",
-  "github": ["https://github.com/graph-it-uk/HappyAI-subnet"],
+  "name": "Djinn",
+  "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
-  "description": "description.html",
+  "description": "Information X Execution",
   "bittensor_discord_id": "",
-  "team": "",
+  "team": "info@djinn.gg",
   "categories": ["Social"],
-  "summary": "Powering the Avocado mental-health companion",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/smile_mem"
-    },
-    {
-      "label": "website",
-      "url": "https://www.happysmile.ai"
-    }
-  ]
+  "summary": "Avocado is an AI-powered mental health companion app developed by HappyAI, designed to provide accessible, empathetic, and evidence-based support 24/7. Leveraging advanced natural language understanding and running on the Bittensor blockchain subnet, Avocado offers personalized conversations guided by cognitive behavioral therapy principles, practical wellness tools such as mindfulness exercises, stress management techniques, sleep tips, journaling prompts, and mood tracking. The platform emphasizes user privacy, safety, and adaptive support, including crisis escalation protocols and the ability to connect users with local helplines or professionals when needed. Avocado aims to make mental health support more approachable, confidential, and always available.",
+  "websites": []
 }

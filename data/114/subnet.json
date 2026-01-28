@@ -2,22 +2,22 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Level 114",
+  "name": "SOMA",
   "github": ["https://github.com/Level114/level114-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/114/v2.jpg",
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "A Bittensor subnet that enables miners to register with a collector-center-main service and allows validators to evaluate miner performance based on reported metrics.",
+  "summary": "AI solutions delivered through MCP infrastructure",
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/level_114"
+      "url": "https://x.com/SomaSubnet"
     },
     {
       "label": "website",
-      "url": "https://level114.io"
+      "url": "https://thesoma.ai"
     }
   ]
 }
