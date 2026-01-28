@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Dippy Speech",
+  "name": "Parked (focused on SN11)",
   "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
   "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",
   "image_url": "https://backprop.finance/assets/subnet-logos/58/v1.jpg",

@@ -805,9 +805,9 @@
         "$schema": "../../schema.json",
         "bittensor_id": "neural_internet",
         "letter": "",
-        "name": "Neural Internet",
+        "name": "Nodexo",
         "github": [
-            "https://github.com/neuralinternet/SN27"
+            "https://github.com/neuralinternet/compute-subnet"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/27/v1.jpg",
@@ -817,19 +817,15 @@
         "categories": [
             "Compute"
         ],
-        "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
+        "summary": "Nodexo Compute (Subnet 27) is a decentralized platform that enables a trustless GPU compute marketplace, allowing individuals (miners) to contribute their GPU resources and earn rewards based on performance. Validators assess and score miners' hardware, ensuring efficient allocation of GPU power for machine learning and AI workloads. Built on the Bittensor network, Nodexo Compute aims to provide scalable, on-demand GPU compute without reliance on centralized providers, supporting both resource contributors and users seeking GPU power for AI tasks.",
         "websites": [
             {
                 "label": "website",
-                "url": "https://neuralinternet.ai/"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://opencompute.streamlit.app/"
+                "url": "https://nodexo.ai/"
             },
             {
                 "label": "application",
-                "url": "https://compute.neuralinternet.ai/"
+                "url": "https://console.nodexo.ai/"
             }
         ],
         "subnet_id": 27
@@ -1208,16 +1204,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "sportstensor",
         "letter": "",
-        "name": "Sportstensor",
+        "name": "Almanac",
         "github": [
-            "https://github.com/xzistance/sportstensor"
+            "https://github.com/sportstensor/sn41"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/41/v1.jpg",
+        "image_url": "https://beta.almanac.market/assets/favicons/favicon-32x32.png",
         "description": "description.html",
         "bittensor_discord_id": "1263142301786574889",
         "team": "Sports Tensor",
-        "summary": "Sportstensor is focused on sports prediction, incentivizing contributors to train and develop accurate sports prediction models.",
+        "summary": "Almanac, powered by the Sportstensor subnet on Bittensor, is an incentivized information layer for prediction markets, focusing on sports outcomes. It enables global AI talent and independent traders to deploy predictive models, trade on their insights, and compete for rewards based on accuracy and profitability. The platform uses a two-phase optimization system to fairly distribute token rewards, prioritizing high-quality, consistent trading signals while preventing manipulation. Almanac serves as the user-friendly interface for submitting predictions and tracking performance, with a leaderboard and daily rewards to encourage superior research and predictive modeling, ultimately aiming to improve market accuracy and truth.",
         "categories": [
             "Sports Prediction",
             "Prediction Market"
@@ -1225,19 +1221,15 @@
         "websites": [
             {
                 "label": "twitter",
-                "url": "https://x.com/sportstensor"
+                "url": "https://x.com/almanac_market"
             },
             {
                 "label": "website",
-                "url": "https://www.sportstensor.com/"
+                "url": "https://almanac.market"
             },
             {
                 "label": "blog",
                 "url": "https://medium.com/@sportstensor"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://dashboard.sportstensor.com/dashboard?league=NBA"
             }
         ],
         "subnet_id": 41
@@ -1375,7 +1367,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Reboot",
+        "name": "EvolAI",
         "github": [
             "https://github.com/reboot-org/reboot-subnet"
         ],
@@ -1680,31 +1672,23 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Gaia",
+        "name": "Sparket.AI",
         "github": [
-            "https://github.com/Nickel5-Inc/Gaia"
+            "https://github.com/sparket-ai/sparket-ai"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/57/v1.png",
         "description": "description.html",
         "bittensor_discord_id": "1310698546852528180",
-        "team": "Nickel5",
-        "summary": "Gaia is a subnet and platform for geospatial inference tasks.",
+        "team": "",
+        "summary": "Sparket.ai is a decentralized prediction infrastructure focused on sports and live events, operating as the first Bittensor subnet built on a patented architecture for decentralized betting markets. The platform enables participants to contribute data\u2014such as odds origination and outcome verification\u2014to the markets they wager in, rewarding miners for providing valuable and accurate live-event data. Its patented system covers custom bet creation, dynamic odds, data normalization, and trust-scored outcome verification, supporting a global network of miners and validators. Real-money wagering is planned for future phases, with the current beta supporting data contribution and validation tasks to power the Sparket ecosystem.",
         "categories": [
-            "Inference"
+            "Prediction Market"
         ],
         "websites": [
             {
-                "label": "whitepaper",
-                "url": "https://www.gaiaresearch.ai/whitepaper"
-            },
-            {
-                "label": "discord",
-                "url": "https://discord.gg/6NAaK3QX7m"
-            },
-            {
                 "label": "twitter",
-                "url": "https://x.com/VenturaLabs"
+                "url": "https://x.com/sparket_ai"
             }
         ],
         "subnet_id": 57
@@ -1713,7 +1697,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Dippy Speech",
+        "name": "Parked (focused on SN11)",
         "github": [
             "https://github.com/impel-intelligence/dippy-bittensor-subnet"
         ],
@@ -2319,7 +2303,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "\u03c4aos",
+        "name": "MVTRX",
         "github": [
             "https://github.com/taos-im/sn-79"
         ],
@@ -2814,7 +2798,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Neza",
+        "name": "Problems",
         "github": [
             "https://github.com/subnet99/neza"
         ],
@@ -2897,29 +2881,18 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "HappyAI",
-        "github": [
-            "https://github.com/graph-it-uk/HappyAI-subnet"
-        ],
+        "name": "Djinn",
+        "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
-        "description": "description.html",
+        "description": "Information X Execution",
         "bittensor_discord_id": "",
-        "team": "",
+        "team": "info@djinn.gg",
         "categories": [
             "Social"
         ],
-        "summary": "Powering the Avocado mental-health companion",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/smile_mem"
-            },
-            {
-                "label": "website",
-                "url": "https://www.happysmile.ai"
-            }
-        ],
+        "summary": "Avocado is an AI-powered mental health companion app developed by HappyAI, designed to provide accessible, empathetic, and evidence-based support 24/7. Leveraging advanced natural language understanding and running on the Bittensor blockchain subnet, Avocado offers personalized conversations guided by cognitive behavioral therapy principles, practical wellness tools such as mindfulness exercises, stress management techniques, sleep tips, journaling prompts, and mood tracking. The platform emphasizes user privacy, safety, and adaptive support, including crisis escalation protocols and the ability to connect users with local helplines or professionals when needed. Avocado aims to make mental health support more approachable, confidential, and always available.",
+        "websites": [],
         "subnet_id": 103
     },
     {
@@ -2991,7 +2964,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "ALPHA",
+        "name": "KDN-1",
         "github": [
             "https://github.com/tigerinvests-com/sn107-alpha"
         ],
@@ -3000,8 +2973,13 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Verifiable On-Chain Treasury Data via Decentralized AI",
-        "websites": [],
+        "summary": "Tiger Royalties and Investments PLC is an investment company focused on driving growth in transformative technologies, particularly within the utility meme coin and natural resources sectors. The company leverages world-class expertise to identify and invest in emerging opportunities, including dedicated subnets on the Bittensor network and strategic investments in AI agent accelerators and related ventures. Tiger aims to bridge the gap between crypto cultural tokens and real-world utility, providing comprehensive analysis and support for the evolving meme coin market while maintaining a diversified portfolio in innovative digital and resource-based assets.",
+        "websites": [
+            {
+                "label": "twitter",
+                "url": "https://twitter.com/tigerinvests"
+            }
+        ],
         "subnet_id": 107
     },
     {
@@ -3130,7 +3108,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Level 114",
+        "name": "SOMA",
         "github": [
             "https://github.com/Level114/level114-subnet"
         ],
@@ -3139,15 +3117,15 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "A Bittensor subnet that enables miners to register with a collector-center-main service and allows validators to evaluate miner performance based on reported metrics.",
+        "summary": "AI solutions delivered through MCP infrastructure",
         "websites": [
             {
                 "label": "twitter",
-                "url": "https://x.com/level_114"
+                "url": "https://x.com/SomaSubnet"
             },
             {
                 "label": "website",
-                "url": "https://level114.io"
+                "url": "https://thesoma.ai"
             }
         ],
         "subnet_id": 114
@@ -3379,16 +3357,14 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Flyspeck",
-        "github": [
-            "https://github.com/proofofproofs/flyspeck_project"
-        ],
+        "name": "8 Ball",
+        "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/125/v1.webp",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "Decentralized, permissionless marketplace for proving mathematical theorems",
+        "summary": "",
         "websites": [],
         "subnet_id": 125
     },

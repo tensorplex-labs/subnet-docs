@@ -2,13 +2,13 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Flyspeck",
-  "github": ["https://github.com/proofofproofs/flyspeck_project"],
+  "name": "8 Ball",
+  "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/125/v1.webp",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Decentralized, permissionless marketplace for proving mathematical theorems",
+  "summary": "",
   "websites": []
 }

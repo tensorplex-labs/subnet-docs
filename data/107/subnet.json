@@ -2,13 +2,18 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "ALPHA",
+  "name": "KDN-1",
   "github": ["https://github.com/tigerinvests-com/sn107-alpha"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "Verifiable On-Chain Treasury Data via Decentralized AI",
-  "websites": []
+  "summary": "Tiger Royalties and Investments PLC is an investment company focused on driving growth in transformative technologies, particularly within the utility meme coin and natural resources sectors. The company leverages world-class expertise to identify and invest in emerging opportunities, including dedicated subnets on the Bittensor network and strategic investments in AI agent accelerators and related ventures. Tiger aims to bridge the gap between crypto cultural tokens and real-world utility, providing comprehensive analysis and support for the evolving meme coin market while maintaining a diversified portfolio in innovative digital and resource-based assets.",
+  "websites": [
+    {
+      "label": "twitter",
+      "url": "https://twitter.com/tigerinvests"
+    }
+  ]
 }

@@ -2,31 +2,27 @@
   "$schema": "../../schema.json",
   "bittensor_id": "sportstensor",
   "letter": "",
-  "name": "Sportstensor",
-  "github": ["https://github.com/xzistance/sportstensor"],
+  "name": "Almanac",
+  "github": ["https://github.com/sportstensor/sn41"],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/41/v1.jpg",
+  "image_url": "https://beta.almanac.market/assets/favicons/favicon-32x32.png",
   "description": "description.html",
   "bittensor_discord_id": "1263142301786574889",
   "team": "Sports Tensor",
-  "summary": "Sportstensor is focused on sports prediction, incentivizing contributors to train and develop accurate sports prediction models.",
+  "summary": "Almanac, powered by the Sportstensor subnet on Bittensor, is an incentivized information layer for prediction markets, focusing on sports outcomes. It enables global AI talent and independent traders to deploy predictive models, trade on their insights, and compete for rewards based on accuracy and profitability. The platform uses a two-phase optimization system to fairly distribute token rewards, prioritizing high-quality, consistent trading signals while preventing manipulation. Almanac serves as the user-friendly interface for submitting predictions and tracking performance, with a leaderboard and daily rewards to encourage superior research and predictive modeling, ultimately aiming to improve market accuracy and truth.",
   "categories": ["Sports Prediction", "Prediction Market"],
   "websites": [
     {
       "label": "twitter",
-      "url": "https://x.com/sportstensor"
+      "url": "https://x.com/almanac_market"
     },
     {
       "label": "website",
-      "url": "https://www.sportstensor.com/"
+      "url": "https://almanac.market"
     },
     {
       "label": "blog",
       "url": "https://medium.com/@sportstensor"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://dashboard.sportstensor.com/dashboard?league=NBA"
     }
   ]
 }

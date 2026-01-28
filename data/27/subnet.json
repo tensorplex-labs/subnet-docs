@@ -2,27 +2,23 @@
   "$schema": "../../schema.json",
   "bittensor_id": "neural_internet",
   "letter": "",
-  "name": "Neural Internet",
-  "github": ["https://github.com/neuralinternet/SN27"],
+  "name": "Nodexo",
+  "github": ["https://github.com/neuralinternet/compute-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/27/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1174835090539433994",
   "team": "Neural Internet",
   "categories": ["Compute"],
-  "summary": "Neural Internet is a compute-composable subnet designed to integrate various centralized and decentralized cloud platforms, such as Runpod, Lambda, Akash, and AWS, into a unified system, facilitating seamless compute composability across these different platforms.",
+  "summary": "Nodexo Compute (Subnet 27) is a decentralized platform that enables a trustless GPU compute marketplace, allowing individuals (miners) to contribute their GPU resources and earn rewards based on performance. Validators assess and score miners' hardware, ensuring efficient allocation of GPU power for machine learning and AI workloads. Built on the Bittensor network, Nodexo Compute aims to provide scalable, on-demand GPU compute without reliance on centralized providers, supporting both resource contributors and users seeking GPU power for AI tasks.",
   "websites": [
     {
       "label": "website",
-      "url": "https://neuralinternet.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://opencompute.streamlit.app/"
+      "url": "https://nodexo.ai/"
     },
     {
       "label": "application",
-      "url": "https://compute.neuralinternet.ai/"
+      "url": "https://console.nodexo.ai/"
     }
   ]
 }
