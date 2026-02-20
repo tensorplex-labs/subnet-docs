@@ -2,13 +2,20 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "blockmachine",
+  "github": [
+    "https://github.com/taostat/blockmachine"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
-  "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "description": "description.html",
+  "bittensor_discord_id": "1414687189752746167",
+  "team": "blockmachine",
+  "summary": "Blockmachine is a Bittensor subnet under active development, aiming to provide production-grade infrastructure with a focus on measurable work and real demand. Designed to function like a real business, it leverages Bittensor's incentive layer to create self-optimizing infrastructure. The project is currently progressing through key milestones such as subnet identity and key migration, with plans to release detailed documentation, onboarding guides, reference implementations, and a public roadmap in upcoming updates.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://blockmachine.io/"
+    }
+  ]
 }

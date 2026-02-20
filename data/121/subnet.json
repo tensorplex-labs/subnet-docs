@@ -6,10 +6,12 @@
   "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/121/v1.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "sundae_bar ai",
-  "categories": ["AI Agent"],
+  "categories": [
+    "AI Agent"
+  ],
   "summary": "",
   "websites": [
     {

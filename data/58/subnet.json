@@ -2,15 +2,15 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Parked (focused on SN11)",
-  "github": ["https://github.com/impel-intelligence/dippy-bittensor-subnet"],
-  "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",
+  "name": "Handshake",
+  "github": ["https://github.com/Handshake58/HS58"],
+  "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/58/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1304499133675081761",
   "team": "Impel",
-  "summary": "The Dippy Empathetic Speech Subnet on Bittensor is dedicated to developing the world's most advanced open-source Speech model for immersive, lifelike interactions.",
-  "categories": ["Model Development", "Yuma Accelerated"],
+  "summary": "Trustless micropayments for autonomous AI agent",
+  "categories": ["AI Agent", "Yuma Accelerated"],
   "websites": [
     {
       "label": "twitter",
@@ -18,7 +18,7 @@
     },
     {
       "label": "application",
-      "url": "https://www.dippyspeech.com/"
+      "url": "ttps://handshake58.com"
     }
   ]
 }

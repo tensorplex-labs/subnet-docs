@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Bounty Hunter",
-  "github": ["https://github.com/RogueTensor/bitagent_subnet"],
+  "github": [
+    "https://github.com/RogueTensor/bitagent_subnet"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",

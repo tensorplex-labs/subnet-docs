@@ -1,14 +1,24 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "",
+  "bittensor_id": "mainframe",
   "letter": "",
-  "name": "Embryon",
-  "github": [],
+  "name": "Mainframe",
+  "github": ["https://github.com/macrocosm-os/mainframe"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
-  "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "description": "description.html",
+  "bittensor_discord_id": "1234881153832321024",
+  "team": "Macrocosmos",
+  "summary": "Powering decentralized science on Bittensor",
+  "categories": ["DeSci"],
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://macrocosmos.ai/sn25"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/macrocosmosai"
+    }
+  ]
 }

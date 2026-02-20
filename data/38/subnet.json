@@ -1,15 +1,20 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "",
+  "bittensor_id": "colosseum",
   "letter": "",
-  "name": "",
-  "github": [""],
+  "name": "colosseum",
+  "github": ["https://github.com/TAO-Colosseum/tao-colosseum-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/38/v2.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1281623984286334987",
   "team": "",
-  "summary": "",
-  "categories": [],
-  "websites": []
+  "summary": "Tao Colosseum is a decentralized peer-to-peer betting protocol built on the Bittensor EVM, featuring an 'underdog' game where participants bet on either the red or blue team, and the side with less total stake wins and shares the pool. The platform incentivizes participation by distributing rewards to miners based on their time-decayed betting volume over a 7-day window, with recent activity weighted more heavily. Validators query the smart contract to track betting volumes and set network weights, while features like verifiable on-chain randomness, anti-sniping mechanisms, and cryptographic wallet mapping enhance fairness and security. The protocol includes a leaderboard, REST API for validator data, and supports seamless integration with the Bittensor metagraph.",
+  "categories": ["Prediction Market"],
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://taocolosseum.com/"
+    }
+  ]
 }

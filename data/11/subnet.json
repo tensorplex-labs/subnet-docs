@@ -2,23 +2,19 @@
   "$schema": "../../schema.json",
   "bittensor_id": "lambda",
   "letter": "",
-  "name": "Dippy Studio",
-  "github": ["https://github.com/impel-intelligence/dippy-studio-bittensor"],
-  "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
-  "image_url": "https://backprop.finance/assets/subnet-logos/11/v1.jpg",
+  "name": "TrajectoryRL",
+  "github": ["https://github.com/trajectoryRL/trajectoryRL"],
+  "hw_requirements": "",
+  "image_url": "https://backprop.finance/assets/subnet-logos/11/v2.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1232378968187867147",
-  "team": "Impel",
-  "categories": ["Model Development"],
-  "summary": "The Dippy Studio subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
+  "team": "",
+  "categories": ["AI Agent", "Reinforcement Learning"],
+  "summary": "Agentic RL as a Service, Optimize agent trajectories to make agents cheaper, safer, and more reliable.",
   "websites": [
     {
-      "label": "twitter",
-      "url": "https://x.com/dippy_ai"
-    },
-    {
-      "label": "application",
-      "url": "https://bittensor.dippy.ai/play"
+      "label": "website",
+      "url": "https://trajrl.com"
     }
   ]
 }

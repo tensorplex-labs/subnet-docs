@@ -3,14 +3,18 @@
   "bittensor_id": "gamma",
   "letter": "",
   "name": "Templar",
-  "github": ["https://github.com/tplr-ai/templar"],
+  "github": [
+    "https://github.com/tplr-ai/templar"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/3/v2.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1222226314824777853",
   "team": "distributed_tensor",
   "summary": "Incentivized Wide-Internet Training.",
-  "categories": ["Distributed Training"],
+  "categories": [
+    "Distributed Training"
+  ],
   "websites": [
     {
       "label": "dashboard",

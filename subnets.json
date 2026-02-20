@@ -99,7 +99,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/3/v2.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1222226314824777853",
         "team": "distributed_tensor",
         "summary": "Incentivized Wide-Internet Training.",
@@ -173,7 +173,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/5/v3.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "Manifold Labs",
         "summary": "Hierarchical AI Pretraining",
@@ -207,7 +207,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/6/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "Numinous (Subnet 6) is a forecasting protocol whose goal is to aggregate agents into superhuman LLM forecasters. The key principle is that agents evolve and are scored in self-play forecasting environments.",
@@ -227,7 +227,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 7",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -323,7 +323,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/10/v2.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1217952256306057298",
         "team": "TaoFi",
         "categories": [
@@ -343,27 +343,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "lambda",
         "letter": "",
-        "name": "Dippy Studio",
+        "name": "TrajectoryRL",
         "github": [
-            "https://github.com/impel-intelligence/dippy-studio-bittensor"
+            "https://github.com/trajectoryRL/trajectoryRL"
         ],
-        "hw_requirements": "https://github.com/impel-intelligence/dippy-bittensor-subnet/blob/main/min_compute.yml",
-        "image_url": "https://backprop.finance/assets/subnet-logos/11/v1.jpg",
+        "hw_requirements": "",
+        "image_url": "https://backprop.finance/assets/subnet-logos/11/v2.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1232378968187867147",
-        "team": "Impel",
+        "team": "",
         "categories": [
-            "Model Development"
+            "AI Agent",
+            "Reinforcement Learning"
         ],
-        "summary": "The Dippy Studio subnet on Bittensor aims to create the world's best open-source roleplay LLM by leveraging the collective efforts of the open-source community.",
+        "summary": "Agentic RL as a Service, Optimize agent trajectories to make agents cheaper, safer, and more reliable.",
         "websites": [
             {
-                "label": "twitter",
-                "url": "https://x.com/dippy_ai"
-            },
-            {
-                "label": "application",
-                "url": "https://bittensor.dippy.ai/play"
+                "label": "website",
+                "url": "https://trajrl.com"
             }
         ],
         "subnet_id": 11
@@ -378,7 +375,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/12/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1201941624243109888",
         "team": "",
         "summary": "Compute Horde is a specialized subnet (subnet 12) within the Bittensor network, designed to provide scalable, decentralized, and trusted GPU computing power for validators across other Bittensor subnets. By transforming untrusted GPUs from miners into reliable compute resources, computehorde reduces dependency on centralized services and enables cost-effective, large-scale validation. Key features include fair and verified work mechanisms, scalable mining with multiple executors per miner, hardware class-based resource allocation, a developer SDK for easy integration, collateral-based trust for organic jobs, and an optional DDoS shield for miners. The project aims to support a wide range of GPU types and offers a robust scoring and incentive system to ensure quality and accountability.",
@@ -480,33 +477,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "BitQuant",
-        "github": [
-            "https://github.com/OpenGradient/BitQuant-Subnet"
-        ],
+        "name": "Subnet 15",
+        "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/15/v2.jpg",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": "",
-        "team": "OpenGradient",
-        "categories": [
-            "Yuma Accelerated"
-        ],
-        "summary": "The Incentivized Network for AI-Powered Quantitative Analysis",
-        "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/BitQuantAI"
-            },
-            {
-                "label": "website",
-                "url": "https://www.bitquant.io"
-            },
-            {
-                "label": "website",
-                "url": "https://www.opengradient.ai"
-            }
-        ],
+        "team": "",
+        "categories": [],
+        "summary": "",
+        "websites": [],
         "subnet_id": 15
     },
     {
@@ -517,7 +497,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/16/v4.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -603,15 +583,22 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "blockmachine",
+        "github": [
+            "https://github.com/taostat/blockmachine"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "description": "description.html",
+        "bittensor_discord_id": "1414687189752746167",
+        "team": "blockmachine",
+        "summary": "Blockmachine is a Bittensor subnet under active development, aiming to provide production-grade infrastructure with a focus on measurable work and real demand. Designed to function like a real business, it leverages Bittensor's incentive layer to create self-optimizing infrastructure. The project is currently progressing through key milestones such as subnet identity and key migration, with plans to release detailed documentation, onboarding guides, reference implementations, and a public roadmap in upcoming updates.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://blockmachine.io/"
+            }
+        ],
         "subnet_id": 19
     },
     {
@@ -624,7 +611,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
@@ -640,7 +627,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "omega_any_to_any",
         "letter": "",
-        "name": "OMEGA Any-to-Any",
+        "name": "OMEGA inc: The Awakening",
         "github": [
             "https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"
         ],
@@ -648,8 +635,8 @@
         "image_url": "https://backprop.finance/assets/subnet-logos/21/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1240801129177157692",
-        "team": "",
-        "summary": "OMEGA Any-to-Any specializes in developing SOTA multimodal models that excel across text, video, audio, and image modalities.",
+        "team": "Omega Labs",
+        "summary": "Proto-limb for emerging superintelligence.",
         "categories": [
             "Model Development"
         ],
@@ -687,7 +674,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/22/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1189589759065067580",
         "team": "",
         "summary": "Welcome to Desearch, the AI-powered search engine built on Bittensor. Designed for the Bittensor community and general internet users, Desearch delivers an unbiased and verifiable search experience. Through our API, developers and AI builders are empowered to integrate AI search capabilities into their products, with access to metadata from platforms like X, Reddit, Arxiv and general web search.",
@@ -738,32 +725,58 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "",
+        "bittensor_id": "quasar",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Quasar",
+        "github": [
+            "https://github.com/SILX-LABS/QUASAR-SUBNET/"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "",
+        "description": "description.html",
+        "bittensor_discord_id": "1453112474692751532",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Quasar is a Bittensor subnet (Subnet 24) designed to overcome the long-context limitation in AI models by enabling efficient reasoning across millions of tokens in a single context window. Leveraging a novel continuous-time attention transformer architecture and optimized flash-linear attention kernels, Quasar achieves linear scaling, high retrieval accuracy, and significantly reduced inference costs. The project utilizes decentralized compute and a competitive mining environment, where independent miners optimize and verify model performance, with validators ensuring accuracy and rewarding top contributors with $TAO. Quasar's open-source models are available for deployment and collaboration, supporting advanced applications like narrative understanding, codebase analysis, and legal review",
+        "categories": [
+            "Model Development",
+            "Inference",
+            "Compute"
+        ],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://silxinc.com/"
+            }
+        ],
         "subnet_id": 24
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "",
+        "bittensor_id": "mainframe",
         "letter": "",
-        "name": "Embryon",
-        "github": [],
+        "name": "Mainframe",
+        "github": [
+            "https://github.com/macrocosm-os/mainframe"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "description": "description.html",
+        "bittensor_discord_id": "1234881153832321024",
+        "team": "Macrocosmos",
+        "summary": "Powering decentralized science on Bittensor",
+        "categories": [
+            "DeSci"
+        ],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://macrocosmos.ai/sn25"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/macrocosmosai"
+            }
+        ],
         "subnet_id": 25
     },
     {
@@ -834,7 +847,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 28",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -849,7 +862,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "coldint",
         "letter": "",
-        "name": "AI ASSeSS",
+        "name": "Coldint",
         "github": [
             "https://github.com/coldint/sn29",
             "https://github.com/coldint/coldint_validator"
@@ -917,11 +930,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 31",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -1055,7 +1068,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/35/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1415790978077556906",
         "team": "",
         "summary": "0xmarkets is a decentralized exchange (DEX) platform designed to provide global, permissionless access to trading a wide range of financial assets, including cryptocurrencies, currencies, and commodities. Powered by the Cartha subnet on the Bittensor network, 0xmarkets offers deep, dynamically allocated liquidity and institutional-grade trading depth, aiming to rival traditional CFD platforms. Liquidity providers (miners) can earn dual rewards in the form of trading fees and subnet alpha tokens. The platform emphasizes fairness, efficiency, and accessibility, allowing users to trade perpetual contracts and participate in liquidity provision without traditional barriers or restrictions.",
@@ -1136,20 +1149,27 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "",
+        "bittensor_id": "colosseum",
         "letter": "",
-        "name": "",
+        "name": "colosseum",
         "github": [
-            ""
+            "https://github.com/TAO-Colosseum/tao-colosseum-subnet"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/38/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1281623984286334987",
         "team": "",
-        "summary": "",
-        "categories": [],
-        "websites": [],
+        "summary": "Tao Colosseum is a decentralized peer-to-peer betting protocol built on the Bittensor EVM, featuring an 'underdog' game where participants bet on either the red or blue team, and the side with less total stake wins and shares the pool. The platform incentivizes participation by distributing rewards to miners based on their time-decayed betting volume over a 7-day window, with recent activity weighted more heavily. Validators query the smart contract to track betting volumes and set network weights, while features like verifiable on-chain randomness, anti-sniping mechanisms, and cryptographic wallet mapping enhance fairness and security. The protocol includes a leaderboard, REST API for validator data, and supports seamless integration with the Bittensor metagraph.",
+        "categories": [
+            "Prediction Market"
+        ],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://taocolosseum.com/"
+            }
+        ],
         "subnet_id": 38
     },
     {
@@ -1189,11 +1209,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 40",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -1244,7 +1264,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/42/v3.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1275149537547391058",
         "team": "Masa",
         "summary": "A Layer-1 for the AI data economy. Access AI-ready data on demand. The fastest & simplest way to scrape and stream data straight into models, apps & agents.",
@@ -1270,7 +1290,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/43/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1263507367405031434",
         "categories": [
             "Inference"
@@ -1303,7 +1323,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/44/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1271486854830755981",
         "team": "",
         "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
@@ -1332,7 +1352,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/45/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -1399,7 +1419,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/48/v2.jpeg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "qBitTensor Labs",
         "categories": [
@@ -1427,7 +1447,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -1600,28 +1620,23 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Precog",
+        "name": "NIOME",
         "github": [
-            "https://github.com/coinmetrics/precog"
+            "https://github.com/genomesio/subnet-niome"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/55/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/55/55_v1.jpg",
         "description": "",
         "bittensor_discord_id": "1320766712508977192",
-        "team": "Coin Metric",
-        "summary": "The Precog Subnet will serve as an arena to identify the analysts with the best strategies and information to anticipate Bitcoin price movements, and recruit them to share their insight with the broader community.",
+        "team": "",
+        "summary": "NIOME is a decentralized AI subnet that enables privacy-safe genomic intelligence by replacing real human genomes with high-fidelity synthetic genomic profiles.",
         "categories": [
-            "Financial Trading",
-            "Yuma Accelerated"
+            "Data Pipeline"
         ],
         "websites": [
             {
                 "label": "website",
-                "url": "http://coinmetrics.io/precog"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/CM_Precog"
+                "url": "https://niome.genomes.io"
             }
         ],
         "subnet_id": 55
@@ -1636,7 +1651,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/56/v2.webp",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1311360495428702240",
         "team": "Rayon Labs",
         "summary": "On Gradients, Train SOTA Artificial Intelligence Models in a few clicks. The world's best AutoML platform.",
@@ -1697,18 +1712,18 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Parked (focused on SN11)",
+        "name": "Handshake",
         "github": [
-            "https://github.com/impel-intelligence/dippy-bittensor-subnet"
+            "https://github.com/Handshake58/HS58"
         ],
-        "hw_requirements": "https://github.com/impel-intelligence/dippy-synthetic-speech-subnet",
+        "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/58/v1.jpg",
         "description": "description.html",
         "bittensor_discord_id": "1304499133675081761",
         "team": "Impel",
-        "summary": "The Dippy Empathetic Speech Subnet on Bittensor is dedicated to developing the world's most advanced open-source Speech model for immersive, lifelike interactions.",
+        "summary": "Trustless micropayments for autonomous AI agent",
         "categories": [
-            "Model Development",
+            "AI Agent",
             "Yuma Accelerated"
         ],
         "websites": [
@@ -1718,7 +1733,7 @@
             },
             {
                 "label": "application",
-                "url": "https://www.dippyspeech.com/"
+                "url": "ttps://handshake58.com"
             }
         ],
         "subnet_id": 58
@@ -1763,7 +1778,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/60/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1300553352274382848",
         "team": "Bitsec",
         "summary": "Bitsec is an Ecosystem for AI-powered code vulnerability detection. Initially it will help other Bittensor Subnet owners find and fix flaws in their incentive mechanisms, and find exploits in smart contract code. As the project grows, Bitsec will expand coverage to other types of codebases.",
@@ -1793,7 +1808,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/61/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1319313447435108413",
         "team": "Innerworks",
         "summary": "At RedTeam, we're creating a hub for ethical hacking and amplifying the collective intelligence of a unique community of engineers. For the first time, sophisticated attackers can be rewarded for their ingenuity through a powerful incentive mechanism designed to uncover vulnerabilities and build more resilient systems.",
@@ -1887,7 +1902,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/64/v2.webp",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1320739778534047785",
         "team": "Rayon Labs",
         "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world. Run any available model at scale, or deploy your own in seconds.",
@@ -1921,7 +1936,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/65/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1342275465267642408",
         "team": "Taofu Labs",
         "summary": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers. By coordinating miners and validators, TPN ensures reliable, censorship-resistant connectivity while rewarding contributors for their participation.",
@@ -1974,7 +1989,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 67",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -1989,7 +2004,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 68",
         "github": [],
         "hw_requirements": "",
         "image_url": "",
@@ -2005,7 +2020,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 69",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2082,7 +2097,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/72/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1349122541754515538",
         "team": "NATIX",
         "summary": "This network is a decentralized subnet designed to inference images to extract information such as construction sites. Built on Bittensor, this subnet incentivizes miners to develop and deploy models that accurately detect features, starting with construction sites.",
@@ -2150,7 +2165,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/74/v1.jpeg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1349123574820245534",
         "team": "",
         "summary": "Gittensor aims to accelerate the development of open source software (OSS) and enable OSS developers to be rewarded for meaningful work.",
@@ -2205,33 +2220,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Safe Scan",
-        "github": [
-            "https://github.com/safe-scan-ai/cancer-ai"
-        ],
+        "name": "Subnet 76",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/76/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1264939518641963070",
-        "team": "Safe Scan",
-        "summary": "Cancer is one of the most significant challenges of our time, and we believe that AI holds the key to addressing it. However, this solution should be accessible and free for everyone. Machine vision technology has long proven effective in early diagnosis, which is crucial for curing cancer. Yet, until now, it has largely remained in the realm of whitepapers. SAFESCAN is a project dedicated to aggregating and enhancing the best algorithms for detecting various types of cancer and providing free computational power for practical cancer detection. We aim to create open-source products that support cancer diagnosis for both patients and doctors.",
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://safe-scan.ai/"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/SAFESCAN_AI"
-            },
-            {
-                "label": "discord",
-                "url": "https://discord.gg/UprVG96C"
-            }
-        ],
-        "categories": [
-            "DeSci"
-        ],
+        "image_url": "",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "categories": [],
         "subnet_id": 76
     },
     {
@@ -2244,7 +2242,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/77/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1351180132295118848",
         "team": "",
         "summary": "A complete on-chain liquidity mining system for the Bittensor ecosystem.",
@@ -2337,7 +2335,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/109/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "Dogelayer aims to return mining rewards to those who create real value",
@@ -2381,17 +2379,32 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "",
+        "bittensor_id": "hermes",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "Hermes",
+        "github": [
+            "https://github.com/SN-Hermes/hermes-subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1354838433142542407",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "SubQuery Hermes (SN82) is a decentralized infrastructure that bridges AI agents and on-chain data by enabling natural language queries over blockchain datasets. Built as a specialized Bittensor subnet, Hermes leverages miners to generate and optimize GraphQL queries, allowing AI-powered applications and users to access and analyze indexed blockchain data efficiently and cost-effectively. The network incentivizes performance and accuracy through a token-based reward system, supports multi-chain data access, and features products like AskSubQuery, which lets users query blockchain data in plain English without writing code. Hermes aims to make intelligent, scalable blockchain data access practical for AI-driven Web3 applications.",
+        "categories": [
+            "AI Agent",
+            "Infrastructure"
+        ],
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://subquery.network/hermes"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/hermessubnet"
+            }
+        ],
         "subnet_id": 82
     },
     {
@@ -2476,11 +2489,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 86",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -2495,7 +2508,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1409555541910355998",
         "team": "",
         "summary": "Checkerchain is a next-generation, AI-powered decentralized crypto review platform that leverages a trustless review consensus mechanism (TRCM) to ensure honest and reliable product evaluations. The platform combines human and AI-driven assessments, where validators distribute review tasks and aggregate ground truth ratings, while miners use large language models to predict trust scores for products. Through reinforcement learning from human feedback (RLHF), the system continuously refines its AI models, discourages dishonest reviews, and rewards participants based on the accuracy of their predictions. Checkerchain aims to create a transparent, scalable, and corruption-resistant ecosystem for product reviews in the crypto space.",
@@ -2521,7 +2534,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/88/v2.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1358854051634221328",
         "team": "Mobius Fund",
         "summary": "Envisioned as the world's first DeFAI powered AUM, leveraging a decentralized network of both human and artificial intelligence, Investing is the Bittensor subnet with the mission to provide investment services for both retail and institutional investors.",
@@ -2547,7 +2560,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/89/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "categories": [
@@ -2570,7 +2583,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 90",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2616,17 +2629,28 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "",
+        "bittensor_id": "storynet",
         "letter": "",
-        "name": "",
-        "github": [],
+        "name": "LUCID",
+        "github": [
+            "https://github.com/StorynetAI/storynet-subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "",
+        "description": "description.html",
+        "bittensor_discord_id": "1445809870317289554",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Storynet (Subnet 92, LUCID) is a decentralized AI-powered network on Bittensor focused on generating high-quality, interactive narratives for games, novels, and immersive experiences. Utilizing a four-stage pipeline\u2014blueprint, characters, story arc, and chapters\u2014Storynet enables both creators and developers to produce structured, choice-driven stories via a standard API. Miners contribute compute power to generate stories and are rewarded in $TAO based on a meritocratic, multi-dimensional scoring system that evaluates technical quality, structure, content, and narrative creativity. Anti-cheating mechanisms, including plagiarism detection and originality scoring, ensure content integrity and fairness within the network.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://storynet.app"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/storyfi"
+            }
+        ],
         "subnet_id": 92
     },
     {
@@ -2639,7 +2663,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/93/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "categories": [
             "Marketing",
             "Social"
@@ -2679,7 +2703,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/94/v2.webp",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -2778,7 +2802,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/98/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "The REDACTED for @CreatorBid and beyond.",
@@ -2831,7 +2855,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/100/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "Cortex Foundation",
         "summary": "Platform is a Bittensor subnet built to advance collaborative AI research through multiple simultaneous challenges powered by sub-subnet technology. It enables miners to compete and cooperate across diverse challenges, ensuring confidentiality, transparent evaluation, and the continuous pursuit of the most efficient and innovative code.",
@@ -2851,7 +2875,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 101",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2866,11 +2890,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 102",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -2885,7 +2909,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/103/v1.jpg",
-        "description": "Information X Execution",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "info@djinn.gg",
         "categories": [
@@ -2899,11 +2923,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 104",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -2914,7 +2938,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 105",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -3003,7 +3027,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 109",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -3024,7 +3048,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/110/v1.jpeg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "Rich Kids of TAO is a Bittensor subnet that distributes rewards to miners based on their emissions across subnets chosen by community vote. Unlike previous \"Miner Appreciation\" subnets, this system allows existing miners to vote on which subnets should be weighted for reward distribution, making the process more adaptive to the ecosystem.",
@@ -3068,7 +3092,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/112/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "minotaur is a Bittensor subnet focused on swap\u2011intent processing and execution optimization. It leverages a subnet\u2011native incentive mechanism to deliver better, cheaper, and faster trades for users.",
@@ -3092,7 +3116,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/113/v2.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "A reserve-backed stablecoin designed to support 1:1 redeemability for the US Dollar within the Bittensor ecosystem, powered by Bittensor SN113.",
@@ -3134,11 +3158,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 115",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -3155,7 +3179,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "TaoLend is a decentralized lending protocol within the Bittensor ($TAO) ecosystem. It enables users to lend TAO with confidence while borrowers can secure loans using subnet ALPHA as collateral. By unlocking TAO liquidity and keeping ALPHA staked within subnets, TaoLend enhances both capital efficiency and network security.",
@@ -3203,7 +3227,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "Mobius Fund",
         "summary": "Incentivizing long-term conviction",
@@ -3219,11 +3243,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 119",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -3258,7 +3282,7 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/121/v1.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "sundae_bar ai",
         "categories": [
@@ -3372,11 +3396,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 126",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -3387,11 +3411,11 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "",
+        "name": "Subnet 127",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
@@ -3409,7 +3433,7 @@
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/128/v1.jpg",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "A Blockchain-Enhanced, Fully Decentralized Cloud Platform",

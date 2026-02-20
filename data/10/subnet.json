@@ -3,13 +3,18 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Swap",
-  "github": ["https://github.com/Swap-Subnet/swap-subnet"],
+  "github": [
+    "https://github.com/Swap-Subnet/swap-subnet"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/10/v2.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1217952256306057298",
   "team": "TaoFi",
-  "categories": ["DeFi", "Yuma Accelerated"],
+  "categories": [
+    "DeFi",
+    "Yuma Accelerated"
+  ],
   "summary": "Swap (SN10 on Bittensor) incentivizes miners to provide liquidity to the TAO<>USDC pool on TaoFi. Miners are scored based on how much fees their positions received in the past 24 hours.",
   "websites": [
     {

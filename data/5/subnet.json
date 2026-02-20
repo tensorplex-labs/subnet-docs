@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Hone",
-  "github": ["https://github.com/manifold-inc/hone"],
+  "github": [
+    "https://github.com/manifold-inc/hone"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/5/v3.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "Manifold Labs",
   "summary": "Hierarchical AI Pretraining",

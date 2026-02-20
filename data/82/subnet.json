@@ -1,14 +1,24 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "",
+  "bittensor_id": "hermes",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Hermes",
+  "github": ["https://github.com/SN-Hermes/hermes-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1354838433142542407",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "SubQuery Hermes (SN82) is a decentralized infrastructure that bridges AI agents and on-chain data by enabling natural language queries over blockchain datasets. Built as a specialized Bittensor subnet, Hermes leverages miners to generate and optimize GraphQL queries, allowing AI-powered applications and users to access and analyze indexed blockchain data efficiently and cost-effectively. The network incentivizes performance and accuracy through a token-based reward system, supports multi-chain data access, and features products like AskSubQuery, which lets users query blockchain data in plain English without writing code. Hermes aims to make intelligent, scalable blockchain data access practical for AI-driven Web3 applications.",
+  "categories": ["AI Agent", "Infrastructure"],
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://subquery.network/hermes"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/hermessubnet"
+    }
+  ]
 }

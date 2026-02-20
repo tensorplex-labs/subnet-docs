@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Gopher",
-  "github": ["https://github.com/gopher-lab/subnet-42"],
+  "github": [
+    "https://github.com/gopher-lab/subnet-42"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/42/v3.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1275149537547391058",
   "team": "Masa",
   "summary": "A Layer-1 for the AI data economy. Access AI-ready data on demand. The fastest & simplest way to scrape and stream data straight into models, apps & agents.",

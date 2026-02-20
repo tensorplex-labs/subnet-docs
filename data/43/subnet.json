@@ -3,12 +3,16 @@
   "bittensor_id": "graphite",
   "letter": "",
   "name": "Graphite",
-  "github": ["https://github.com/GraphiteAI/Graphite-Subnet"],
+  "github": [
+    "https://github.com/GraphiteAI/Graphite-Subnet"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/43/v1.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1263507367405031434",
-  "categories": ["Inference"],
+  "categories": [
+    "Inference"
+  ],
   "team": "",
   "summary": "Graphite focuses on graph problems, which involve optimizing algorithms to solve computational challenges, such as finding the shortest path, optimizing network flow, or determining optimal arrangements.",
   "websites": [

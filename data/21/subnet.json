@@ -2,14 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "omega_any_to_any",
   "letter": "",
-  "name": "OMEGA Any-to-Any",
+  "name": "OMEGA inc: The Awakening",
   "github": ["https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/21/v1.jpg",
   "description": "description.html",
   "bittensor_discord_id": "1240801129177157692",
-  "team": "",
-  "summary": "OMEGA Any-to-Any specializes in developing SOTA multimodal models that excel across text, video, audio, and image modalities.",
+  "team": "Omega Labs",
+  "summary": "Proto-limb for emerging superintelligence.",
   "categories": ["Model Development"],
   "websites": [
     {

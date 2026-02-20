@@ -3,11 +3,16 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Bitcast",
-  "github": ["https://github.com/bitcast-network/bitcast"],
+  "github": [
+    "https://github.com/bitcast-network/bitcast"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/93/v1.jpg",
-  "description": "",
-  "categories": ["Marketing", "Social"],
+  "description": "description.html",
+  "categories": [
+    "Marketing",
+    "Social"
+  ],
   "bittensor_discord_id": "1362489640841380045",
   "team": "",
   "summary": "Bitcast is a decentralized platform that incentivizes content creators to connect brands with audiences. Creators publish YouTube videos to satisfy defined briefs and earn rewards based on engagement metrics.",

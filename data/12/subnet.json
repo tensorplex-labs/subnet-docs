@@ -3,14 +3,18 @@
   "bittensor_id": "horde",
   "letter": "",
   "name": "Compute Horde",
-  "github": ["https://github.com/backend-developers-ltd/ComputeHorde"],
+  "github": [
+    "https://github.com/backend-developers-ltd/ComputeHorde"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/12/v1.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1201941624243109888",
   "team": "",
   "summary": "Compute Horde is a specialized subnet (subnet 12) within the Bittensor network, designed to provide scalable, decentralized, and trusted GPU computing power for validators across other Bittensor subnets. By transforming untrusted GPUs from miners into reliable compute resources, computehorde reduces dependency on centralized services and enables cost-effective, large-scale validation. Key features include fair and verified work mechanisms, scalable mining with multiple executors per miner, hardware class-based resource allocation, a developer SDK for easy integration, collateral-based trust for organic jobs, and an optional DDoS shield for miners. The project aims to support a wide range of GPU types and offers a robust scoring and incentive system to ensure quality and accountability.",
-  "categories": ["Compute"],
+  "categories": [
+    "Compute"
+  ],
   "websites": [
     {
       "label": "dashboard",

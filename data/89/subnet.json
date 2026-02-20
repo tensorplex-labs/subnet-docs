@@ -3,13 +3,17 @@
   "bittensor_id": "",
   "letter": "",
   "name": "InfiniteHash",
-  "github": ["https://github.com/backend-developers-ltd/InfiniteHash"],
+  "github": [
+    "https://github.com/backend-developers-ltd/InfiniteHash"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/89/v2.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
-  "categories": ["Mining"],
+  "categories": [
+    "Mining"
+  ],
   "summary": "",
   "websites": [
     {

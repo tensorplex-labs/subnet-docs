@@ -1,14 +1,23 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "",
+  "bittensor_id": "storynet",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "LUCID",
+  "github": ["https://github.com/StorynetAI/storynet-subnet"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
-  "bittensor_discord_id": "",
+  "description": "description.html",
+  "bittensor_discord_id": "1445809870317289554",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Storynet (Subnet 92, LUCID) is a decentralized AI-powered network on Bittensor focused on generating high-quality, interactive narratives for games, novels, and immersive experiences. Utilizing a four-stage pipeline—blueprint, characters, story arc, and chapters—Storynet enables both creators and developers to produce structured, choice-driven stories via a standard API. Miners contribute compute power to generate stories and are rewarded in $TAO based on a meritocratic, multi-dimensional scoring system that evaluates technical quality, structure, content, and narrative creativity. Anti-cheating mechanisms, including plagiarism detection and originality scoring, ensure content integrity and fairness within the network.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://storynet.app"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/storyfi"
+    }
+  ]
 }

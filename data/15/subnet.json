@@ -2,27 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "BitQuant",
-  "github": ["https://github.com/OpenGradient/BitQuant-Subnet"],
+  "name": "Subnet 15",
+  "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/15/v2.jpg",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
-  "team": "OpenGradient",
-  "categories": ["Yuma Accelerated"],
-  "summary": "The Incentivized Network for AI-Powered Quantitative Analysis",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/BitQuantAI"
-    },
-    {
-      "label": "website",
-      "url": "https://www.bitquant.io"
-    },
-    {
-      "label": "website",
-      "url": "https://www.opengradient.ai"
-    }
-  ]
+  "team": "",
+  "categories": [],
+  "summary": "",
+  "websites": []
 }

@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "HODL - The ETF Subnet",
-  "github": ["https://github.com/mobiusfund/etf"],
+  "github": [
+    "https://github.com/mobiusfund/etf"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/88/v1.webp",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "Mobius Fund",
   "summary": "Incentivizing long-term conviction",

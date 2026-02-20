@@ -3,14 +3,19 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Redteam",
-  "github": ["https://github.com/RedTeamSubnet/RedTeam"],
+  "github": [
+    "https://github.com/RedTeamSubnet/RedTeam"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/61/v1.png",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1319313447435108413",
   "team": "Innerworks",
   "summary": "At RedTeam, we're creating a hub for ethical hacking and amplifying the collective intelligence of a unique community of engineers. For the first time, sophisticated attackers can be rewarded for their ingenuity through a powerful incentive mechanism designed to uncover vulnerabilities and build more resilient systems.",
-  "categories": ["Cybersecurity", "Yuma Accelerated"],
+  "categories": [
+    "Cybersecurity",
+    "Yuma Accelerated"
+  ],
   "websites": [
     {
       "label": "website",

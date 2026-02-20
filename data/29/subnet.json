@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "coldint",
   "letter": "",
-  "name": "AI ASSeSS",
+  "name": "Coldint",
   "github": [
     "https://github.com/coldint/sn29",
     "https://github.com/coldint/coldint_validator"

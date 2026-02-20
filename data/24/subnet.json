@@ -1,14 +1,26 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "",
+  "bittensor_id": "quasar",
   "letter": "",
-  "name": "",
-  "github": [],
+  "name": "Quasar",
+  "github": [
+    "https://github.com/SILX-LABS/QUASAR-SUBNET/"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "",
-  "bittensor_discord_id": "",
+  "description": "description.html",
+  "bittensor_discord_id": "1453112474692751532",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Quasar is a Bittensor subnet (Subnet 24) designed to overcome the long-context limitation in AI models by enabling efficient reasoning across millions of tokens in a single context window. Leveraging a novel continuous-time attention transformer architecture and optimized flash-linear attention kernels, Quasar achieves linear scaling, high retrieval accuracy, and significantly reduced inference costs. The project utilizes decentralized compute and a competitive mining environment, where independent miners optimize and verify model performance, with validators ensuring accuracy and rewarding top contributors with $TAO. Quasar's open-source models are available for deployment and collaboration, supporting advanced applications like narrative understanding, codebase analysis, and legal review",
+  "categories": [
+    "Model Development",
+    "Inference",
+    "Compute"
+  ],
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://silxinc.com/"
+    }
+  ]
 }

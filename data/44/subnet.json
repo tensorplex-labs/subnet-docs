@@ -3,14 +3,20 @@
   "bittensor_id": "score_vision",
   "letter": "",
   "name": "Score Vision",
-  "github": ["https://github.com/score-technologies/score-vision/"],
+  "github": [
+    "https://github.com/score-technologies/score-vision/"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/44/v2.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "1271486854830755981",
   "team": "",
   "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
-  "categories": ["Model Development", "Sports Prediction", "Yuma Accelerated"],
+  "categories": [
+    "Model Development",
+    "Sports Prediction",
+    "Yuma Accelerated"
+  ],
   "websites": [
     {
       "label": "twitter",

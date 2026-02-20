@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Numinous",
-  "github": ["https://github.com/numinouslabs/numinous"],
+  "github": [
+    "https://github.com/numinouslabs/numinous"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/6/v2.jpg",
-  "description": "",
+  "description": "description.html",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Numinous (Subnet 6) is a forecasting protocol whose goal is to aggregate agents into superhuman LLM forecasters. The key principle is that agents evolve and are scored in self-play forecasting environments.",
