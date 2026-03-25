@@ -2,13 +2,25 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Subnet 40",
-  "github": [],
+  "name": "Chunking",
+  "github": [
+    "https://github.com/VectorChat/chunking_subnet"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "",
-  "websites": []
+  "team": "VectorChat",
+  "summary": "Chunking incentivizes miners to break large documents into semantically coherent, optimally-sized text chunks for use in LLM pipelines, improving RAG query relevance and reducing inference cost.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://vectorchat.ai"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/vectorchatai"
+    }
+  ],
+  "categories": ["Data Pipeline"]
 }

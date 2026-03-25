@@ -605,21 +605,34 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Bounty Hunter",
-        "github": [
-            "https://github.com/RogueTensor/bitagent_subnet"
-        ],
+        "name": "GroundLayer",
+        "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "",
-        "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
+        "team": "Rizzo Network",
+        "summary": "Structured OTC deals for subnet tokens.",
         "websites": [
             {
-                "label": "application",
-                "url": "https://aiboards.io"
+                "label": "website",
+                "url": "https://www.groundlayer.xyz"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/GroundLayerHQ"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/TeamRizzoAI"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/9t7rmR7Q7t"
             }
+        ],
+        "categories": [
+            "DeFi"
         ],
         "subnet_id": 20
     },
@@ -896,34 +909,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Wahoo\u03c4",
-        "github": [
-            "https://github.com/wahoo-predict/wahoot"
-        ],
+        "name": "Pending",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/30/v2.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1450258703902310543",
-        "team": "WahooPredict",
-        "summary": "Wahoo\u03c4 is a prediction market platform that enables users to trade on real-world events\u2014such as sports, politics, and economics\u2014using simple yes/no bets with real-time odds. Built on top of Bittensor, it rewards users with TAO/alpha tokens based on their trading performance, not coding skills. The platform is accessible via browser, requires no coding, and offers full API access for advanced users. Validators track and score user performance transparently, and rewards are distributed accordingly. wahoo\u03c4 aims to democratize prediction markets and Bittensor mining by making participation easy and rewarding for everyone.",
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://wahoopredict.com"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/wahootsubnet"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/Wahoopredict"
-            },
-            {
-                "label": "discord",
-                "url": "https://discord.gg/CDWfPqpB8A"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "categories": [],
         "subnet_id": 30
     },
     {
@@ -934,11 +929,12 @@
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "description.html",
+        "description": "",
         "bittensor_discord_id": "",
         "team": "",
         "summary": "",
         "websites": [],
+        "categories": [],
         "subnet_id": 31
     },
     {
@@ -1209,15 +1205,29 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 40",
-        "github": [],
+        "name": "Chunking",
+        "github": [
+            "https://github.com/VectorChat/chunking_subnet"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
         "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "team": "VectorChat",
+        "summary": "Chunking incentivizes miners to break large documents into semantically coherent, optimally-sized text chunks for use in LLM pipelines, improving RAG query relevance and reducing inference cost.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://vectorchat.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/vectorchatai"
+            }
+        ],
+        "categories": [
+            "Data Pipeline"
+        ],
         "subnet_id": 40
     },
     {
@@ -2004,16 +2014,33 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 68",
-        "github": [],
+        "name": "NOVA",
+        "github": [
+            "https://github.com/metanova-labs/nova"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
+        "description": "description.html",
         "bittensor_discord_id": "1345470582161936405",
-        "team": "",
-        "categories": [],
-        "summary": "",
-        "websites": [],
+        "team": "Metanova Labs",
+        "summary": "NOVA is a decentralized, AI-powered drug discovery platform that crowdsources screening of billions of synthesizable molecules to identify promising therapeutic compounds, rewarding miners with TAO emissions based on binding affinity predictions.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://www.metanova-labs.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/metanova_labs"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://www.metanova-labs.ai/dashboard"
+            }
+        ],
+        "categories": [
+            "DeSci"
+        ],
         "subnet_id": 68
     },
     {
@@ -2220,7 +2247,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 76",
+        "name": "Byzantium",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
@@ -2598,58 +2625,59 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Tensorprox",
-        "github": [
-            "https://github.com/shugo-labs/tensorprox"
-        ],
+        "name": "Bitstarter #1",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/91/v1.jpg",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
-        "bittensor_discord_id": "1361439346154016900",
-        "team": "Shugo LTD",
-        "summary": "The Incentivized DDoS Scrubbing Center",
-        "categories": [
-            "Cybersecurity"
-        ],
+        "bittensor_discord_id": "",
+        "team": "Bitstarter",
+        "summary": "A new subnet launch on Bitstarter - coming soon!",
         "websites": [
             {
-                "label": "twitter",
-                "url": "https://x.com/shugoio"
-            },
-            {
                 "label": "website",
-                "url": "https://shugo.io"
+                "url": "https://www.bitstarter.ai"
             },
             {
-                "label": "dashboard",
-                "url": "https://dashprox.com"
+                "label": "application",
+                "url": "https://app.bitstarter.ai/subnets/"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/bitstarterAI"
             }
+        ],
+        "categories": [
+            "Infrastructure"
         ],
         "subnet_id": 91
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "storynet",
+        "bittensor_id": "",
         "letter": "",
-        "name": "LUCID",
+        "name": "TensorClaw",
         "github": [
-            "https://github.com/StorynetAI/storynet-subnet"
+            "https://github.com/tensorclaw/tensorclaw"
         ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "description.html",
-        "bittensor_discord_id": "1445809870317289554",
-        "team": "",
-        "summary": "Storynet (Subnet 92, LUCID) is a decentralized AI-powered network on Bittensor focused on generating high-quality, interactive narratives for games, novels, and immersive experiences. Utilizing a four-stage pipeline\u2014blueprint, characters, story arc, and chapters\u2014Storynet enables both creators and developers to produce structured, choice-driven stories via a standard API. Miners contribute compute power to generate stories and are rewarded in $TAO based on a meritocratic, multi-dimensional scoring system that evaluates technical quality, structure, content, and narrative creativity. Anti-cheating mechanisms, including plagiarism detection and originality scoring, ensure content integrity and fairness within the network.",
+        "bittensor_discord_id": "",
+        "team": "Tensorclaw",
+        "summary": "TensorClaw is a decentralized LLM inference subnet that aggregates high-quality LLM API nodes globally and exposes them through a unified, load-balanced, OpenAI-compatible API with anti-cheat verification.",
         "websites": [
             {
                 "label": "website",
-                "url": "https://storynet.app"
+                "url": "https://www.tensorclaw.ai"
             },
             {
-                "label": "twitter",
-                "url": "https://x.com/storyfi"
+                "label": "discord",
+                "url": "https://discord.gg/5Qsqcttq"
             }
+        ],
+        "categories": [
+            "Inference"
         ],
         "subnet_id": 92
     },

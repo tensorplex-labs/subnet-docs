@@ -2,20 +2,31 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Bounty Hunter",
-  "github": [
-    "https://github.com/RogueTensor/bitagent_subnet"
-  ],
+  "name": "GroundLayer",
+  "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "description.html",
   "bittensor_discord_id": "",
-  "team": "",
-  "summary": "BitAgent incentivizes the development and hosting of AI models that handle daily tasks, providing personalized assistance and automating workflows to enhance productivity.",
+  "team": "Rizzo Network",
+  "summary": "Structured OTC deals for subnet tokens.",
   "websites": [
     {
-      "label": "application",
-      "url": "https://aiboards.io"
+      "label": "website",
+      "url": "https://www.groundlayer.xyz"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/GroundLayerHQ"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/TeamRizzoAI"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/9t7rmR7Q7t"
     }
-  ]
+  ],
+  "categories": ["DeFi"]
 }
