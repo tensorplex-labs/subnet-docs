@@ -2,13 +2,19 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Subnet 7",
-  "github": [],
+  "name": "Allways",
+  "github": ["https://github.com/entrius/allways"],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "1437494877578330174",
   "team": "",
-  "summary": "",
-  "websites": []
+  "summary": "Allways is a Universal Transaction Layer enabling trustless, peer-to-peer native asset swaps across independent blockchains on Bittensor, currently live with BTC-TAO swaps.",
+  "websites": [
+    {
+      "label": "website",
+      "url": "https://all-ways.io"
+    }
+  ],
+  "categories": ["DeFi"]
 }

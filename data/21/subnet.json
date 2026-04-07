@@ -1,36 +1,24 @@
 {
   "$schema": "../../schema.json",
-  "bittensor_id": "omega_any_to_any",
+  "bittensor_id": "",
   "letter": "",
-  "name": "OMEGA inc: The Awakening",
-  "github": ["https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"],
+  "name": "AdTAO",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/21/v1.jpg",
-  "description": "description.html",
-  "bittensor_discord_id": "1240801129177157692",
-  "team": "Omega Labs",
-  "summary": "Proto-limb for emerging superintelligence.",
-  "categories": ["Model Development"],
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "1489651673944297472",
+  "team": "PPC Rebel",
+  "summary": "AdTAO is a decentralized advertising subnet that uses counterfactual impact prediction to measure true causal lift from ad interventions, enabling pay-per-verified-conversion advertising.",
   "websites": [
     {
-      "label": "website",
-      "url": "https://sn21.ai/"
-    },
-    {
       "label": "twitter",
-      "url": "https://x.com/OMEGAlabsai"
+      "url": "https://x.com/ppcrebel"
     },
     {
       "label": "website",
-      "url": "https://OMEGA-labs.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://sn21.ai/dashboard"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://bittensor.OMEGA.inc/"
+      "url": "https://www.ppcrebel.com"
     }
-  ]
+  ],
+  "categories": ["AI Agent"]
 }

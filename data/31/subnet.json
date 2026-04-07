@@ -2,14 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Subnet 31",
+  "name": "Halftime",
   "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "summary": "",
+  "summary": "Halftime is a decentralized multimodal intelligence project focused on context-aware analysis for media and advertising. Planned go-live Q2 2026.",
   "websites": [],
   "categories": []
 }

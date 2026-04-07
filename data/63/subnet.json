@@ -2,23 +2,29 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Quantum Innovate",
-  "github": ["https://github.com/qbittensor-labs/quantum"],
+  "name": "Enigma",
+  "github": [
+    "https://github.com/qbittensor-labs/quantum"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/63/v3.webp",
   "description": "description.html",
   "bittensor_discord_id": "",
   "team": "qBitTensor Labs",
-  "categories": ["Quantum Computing", "Compute"],
-  "summary": "Quantum Innovate (SN63) is a Bittensor subnet dedicated to fostering innovation in quantum computing algorithm execution. Miners are challenged with synthetic quantum circuits, such as peaked circuits, HStab circuits, and upcoming Shor's algorithm-based tasks, to push the boundaries of quantum circuit execution through pre-processing, simulator selection, simulation efficiency, and post-processing.",
+  "summary": "Enigma (formerly Quantum Innovate) is a decentralized innovation challenges marketplace for quantum computing on Bittensor. Miners are challenged with synthetic quantum circuits and scored on execution fidelity, pushing the boundaries of classical quantum simulation.",
   "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/qBitTensor"
-    },
     {
       "label": "website",
       "url": "https://www.qbittensorlabs.com"
+    },
+    {
+      "label": "twitter",
+      "url": "https://x.com/qBitTensorLabs"
+    },
+    {
+      "label": "discord",
+      "url": "https://discord.gg/xJ9JKPMJQD"
     }
-  ]
+  ],
+  "categories": ["Quantum Computing", "Compute"]
 }

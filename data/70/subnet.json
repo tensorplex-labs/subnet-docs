@@ -2,23 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Vericore",
-  "github": ["https://github.com/dfusionai/Vericore"],
+  "name": "NexisGen",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/70/v1.png",
-  "description": "description.html",
-  "bittensor_discord_id": "1349119225868058644",
-  "team": "dFusion",
-  "summary": "Vericore is a Bittensor subnet seeking to improve large-scale semantic fact-checking and verification. The subnet processes statements and returns evidence-based validation through relevant quotes and source materials that either support or contradict the input claims.",
-  "categories": ["Fraud Protection", "Yuma Accelerated"],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://dfusion.ai/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/dFusionAI"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "NexisGen",
+  "summary": "Enterprise dataset delivery",
+  "websites": [],
+  "categories": ["Data Pipeline"]
 }

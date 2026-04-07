@@ -2,23 +2,14 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Web Agents",
-  "github": ["https://github.com/autoppia/autoppia_web_agents_subnet"],
+  "name": "Subnet 36",
+  "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/36/v1.png",
-  "summary": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor miners to develop SOTA web agents.",
-  "categories": ["AI Agent"],
-  "bittensor_discord_id": "1339356060787408996",
-  "team": "Autoppia",
-  "description": "description.html",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://autoppia.com"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/AutoppiaAI"
-    }
-  ]
+  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "description": "",
+  "bittensor_discord_id": "",
+  "team": "",
+  "summary": "",
+  "websites": [],
+  "categories": []
 }

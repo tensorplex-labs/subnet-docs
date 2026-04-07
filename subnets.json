@@ -227,15 +227,25 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 7",
-        "github": [],
+        "name": "Allways",
+        "github": [
+            "https://github.com/entrius/allways"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
         "bittensor_discord_id": "1437494877578330174",
         "team": "",
-        "summary": "",
-        "websites": [],
+        "summary": "Allways is a Universal Transaction Layer enabling trustless, peer-to-peer native asset swaps across independent blockchains on Bittensor, currently live with BTC-TAO swaps.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://all-ways.io"
+            }
+        ],
+        "categories": [
+            "DeFi"
+        ],
         "subnet_id": 7
     },
     {
@@ -477,16 +487,37 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 15",
-        "github": [],
+        "name": "ORO",
+        "github": [
+            "https://github.com/ORO-AI/oro"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "",
-        "team": "",
-        "categories": [],
-        "summary": "",
-        "websites": [],
+        "description": "description.html",
+        "bittensor_discord_id": "1466080859164643389",
+        "team": "team@oroagents.com",
+        "summary": "Oro is a Bittensor subnet (sn15) focused on evaluating AI-powered shopping agents in real-world commerce scenarios. Developers (miners) submit Python-based agents that search, compare, and recommend products from a dataset of 2.5 million real items. Validators run these agents in isolated Docker environments, scoring their performance on accuracy and compliance using the ShoppingBench benchmark. The top-performing agents are rewarded with TAO emissions, incentivizing the creation of effective AI shopping assistants. Oro aims to set a gold standard for AI agent evaluation in online commerce, providing open participation and transparent incentives.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://oroagents.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/oroagents"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/MHqAVWTdka"
+            },
+            {
+                "label": "application",
+                "url": "https://app.oroagents.com"
+            }
+        ],
+        "categories": [
+            "AI Agent"
+        ],
         "subnet_id": 15
     },
     {
@@ -638,42 +669,28 @@
     },
     {
         "$schema": "../../schema.json",
-        "bittensor_id": "omega_any_to_any",
+        "bittensor_id": "",
         "letter": "",
-        "name": "OMEGA inc: The Awakening",
-        "github": [
-            "https://github.com/OMEGAlabsinc/OMEGAlabs-anytoany-bittensor"
-        ],
+        "name": "AdTAO",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/21/v1.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1240801129177157692",
-        "team": "Omega Labs",
-        "summary": "Proto-limb for emerging superintelligence.",
-        "categories": [
-            "Model Development"
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "1489651673944297472",
+        "team": "PPC Rebel",
+        "summary": "AdTAO is a decentralized advertising subnet that uses counterfactual impact prediction to measure true causal lift from ad interventions, enabling pay-per-verified-conversion advertising.",
         "websites": [
             {
-                "label": "website",
-                "url": "https://sn21.ai/"
-            },
-            {
                 "label": "twitter",
-                "url": "https://x.com/OMEGAlabsai"
+                "url": "https://x.com/ppcrebel"
             },
             {
                 "label": "website",
-                "url": "https://OMEGA-labs.ai/"
-            },
-            {
-                "label": "dashboard",
-                "url": "https://sn21.ai/dashboard"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://bittensor.OMEGA.inc/"
+                "url": "https://www.ppcrebel.com"
             }
+        ],
+        "categories": [
+            "AI Agent"
         ],
         "subnet_id": 21
     },
@@ -925,14 +942,14 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 31",
+        "name": "Halftime",
         "github": [],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
         "description": "",
         "bittensor_discord_id": "",
         "team": "",
-        "summary": "",
+        "summary": "Halftime is a decentralized multimodal intelligence project focused on context-aware analysis for media and advertising. Planned go-live Q2 2026.",
         "websites": [],
         "categories": [],
         "subnet_id": 31
@@ -1088,29 +1105,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Web Agents",
-        "github": [
-            "https://github.com/autoppia/autoppia_web_agents_subnet"
-        ],
+        "name": "Subnet 36",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/36/v1.png",
-        "summary": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor miners to develop SOTA web agents.",
-        "categories": [
-            "AI Agent"
-        ],
-        "bittensor_discord_id": "1339356060787408996",
-        "team": "Autoppia",
-        "description": "description.html",
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://autoppia.com"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/AutoppiaAI"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "categories": [],
         "subnet_id": 36
     },
     {
@@ -1268,26 +1272,16 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Gopher",
-        "github": [
-            "https://github.com/gopher-lab/subnet-42"
-        ],
+        "name": "Subnet 42",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/42/v3.jpg",
-        "description": "description.html",
-        "bittensor_discord_id": "1275149537547391058",
-        "team": "Masa",
-        "summary": "A Layer-1 for the AI data economy. Access AI-ready data on demand. The fastest & simplest way to scrape and stream data straight into models, apps & agents.",
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://gopher-ai.com"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/gopher_ai"
-            }
-        ],
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "",
+        "summary": "",
+        "websites": [],
+        "categories": [],
         "subnet_id": 42
     },
     {
@@ -1875,7 +1869,7 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Quantum Innovate",
+        "name": "Enigma",
         "github": [
             "https://github.com/qbittensor-labs/quantum"
         ],
@@ -1884,20 +1878,24 @@
         "description": "description.html",
         "bittensor_discord_id": "",
         "team": "qBitTensor Labs",
-        "categories": [
-            "Quantum Computing",
-            "Compute"
-        ],
-        "summary": "Quantum Innovate (SN63) is a Bittensor subnet dedicated to fostering innovation in quantum computing algorithm execution. Miners are challenged with synthetic quantum circuits, such as peaked circuits, HStab circuits, and upcoming Shor's algorithm-based tasks, to push the boundaries of quantum circuit execution through pre-processing, simulator selection, simulation efficiency, and post-processing.",
+        "summary": "Enigma (formerly Quantum Innovate) is a decentralized innovation challenges marketplace for quantum computing on Bittensor. Miners are challenged with synthetic quantum circuits and scored on execution fidelity, pushing the boundaries of classical quantum simulation.",
         "websites": [
-            {
-                "label": "twitter",
-                "url": "https://x.com/qBitTensor"
-            },
             {
                 "label": "website",
                 "url": "https://www.qbittensorlabs.com"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/qBitTensorLabs"
+            },
+            {
+                "label": "discord",
+                "url": "https://discord.gg/xJ9JKPMJQD"
             }
+        ],
+        "categories": [
+            "Quantum Computing",
+            "Compute"
         ],
         "subnet_id": 63
     },
@@ -1973,25 +1971,24 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "AlphaCore",
+        "name": "Tau coding agent",
         "github": [
-            "https://github.com/AlphaCoreBittensor/alphacore"
+            "https://github.com/unarbos/tau"
         ],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/66/v3.png",
-        "description": "description.html",
-        "bittensor_discord_id": "",
-        "team": "",
-        "summary": "AlphaCore assists individuals and teams as they provision, monitor, and operate infrastructure across AWS, Azure, and Google Cloud. AlphaCore Agent handles infrastructure workflows so you can focus on delivering shareholder value.",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "1486739181093785600",
+        "team": "au@arbos.life",
+        "summary": "Tau is a Bittensor subnet for distilling and benchmarking software engineering agents. Miners submit AI coding agents that are evaluated on real software engineering tasks through a staged workflow of task generation, solving, comparison, and LLM-judged ranking.",
         "websites": [
             {
                 "label": "website",
-                "url": "https://alpha-core.ai"
-            },
-            {
-                "label": "whitepaper",
-                "url": "https://alpha-core.ai/litepaper"
+                "url": "https://tau.arbos.life"
             }
+        ],
+        "categories": [
+            "AI Agent"
         ],
         "subnet_id": 66
     },
@@ -1999,15 +1996,33 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Subnet 67",
-        "github": [],
+        "name": "Harnyx",
+        "github": [
+            "https://github.com/harnyx/harnyx"
+        ],
         "hw_requirements": "",
         "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-        "description": "",
-        "bittensor_discord_id": "",
-        "team": "",
-        "summary": "",
-        "websites": [],
+        "description": "description.html",
+        "bittensor_discord_id": "1457737666316472351",
+        "team": "harnyx@brightmount.co",
+        "summary": "Harnyx provides deep research as a commodity via a competitive swarm of miners on Bittensor. Miners submit Python research agents that produce comprehensive, citation-backed analytical content at a fraction of the cost of centralized alternatives.",
+        "websites": [
+            {
+                "label": "website",
+                "url": "https://harnyx.ai"
+            },
+            {
+                "label": "twitter",
+                "url": "https://x.com/harnyx_ai"
+            },
+            {
+                "label": "dashboard",
+                "url": "https://dashboard.harnyx.ai"
+            }
+        ],
+        "categories": [
+            "AI Agent"
+        ],
         "subnet_id": 67
     },
     {
@@ -2062,29 +2077,17 @@
         "$schema": "../../schema.json",
         "bittensor_id": "",
         "letter": "",
-        "name": "Vericore",
-        "github": [
-            "https://github.com/dfusionai/Vericore"
-        ],
+        "name": "NexisGen",
+        "github": [],
         "hw_requirements": "",
-        "image_url": "https://backprop.finance/assets/subnet-logos/70/v1.png",
-        "description": "description.html",
-        "bittensor_discord_id": "1349119225868058644",
-        "team": "dFusion",
-        "summary": "Vericore is a Bittensor subnet seeking to improve large-scale semantic fact-checking and verification. The subnet processes statements and returns evidence-based validation through relevant quotes and source materials that either support or contradict the input claims.",
+        "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+        "description": "",
+        "bittensor_discord_id": "",
+        "team": "NexisGen",
+        "summary": "Enterprise dataset delivery",
+        "websites": [],
         "categories": [
-            "Fraud Protection",
-            "Yuma Accelerated"
-        ],
-        "websites": [
-            {
-                "label": "website",
-                "url": "https://dfusion.ai/"
-            },
-            {
-                "label": "twitter",
-                "url": "https://x.com/dFusionAI"
-            }
+            "Data Pipeline"
         ],
         "subnet_id": 70
     },
