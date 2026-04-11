@@ -3,12 +3,16 @@
   "bittensor_id": "",
   "letter": "",
   "name": "vidaio",
-  "github": ["https://github.com/vidaio-subnet/vidaio-subnet"],
+  "github": [
+    "https://github.com/vidaio-subnet/vidaio-subnet"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/85/v1.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/85/v2.png",
+  "description": "",
   "bittensor_discord_id": "1342559689690583202",
-  "categories": ["Computer Vision"],
+  "categories": [
+    "Computer Vision"
+  ],
   "team": "",
   "summary": "Revolutionizing Video Upscaling with AI-Driven Decentralisation",
   "websites": [

@@ -3,12 +3,17 @@
   "bittensor_id": "",
   "letter": "",
   "name": "MANTIS",
-  "github": ["https://github.com/Barbariandev/MANTIS"],
+  "github": [
+    "https://github.com/Barbariandev/MANTIS"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
-  "categories": ["Prediction Market", "Inference"],
+  "categories": [
+    "Prediction Market",
+    "Inference"
+  ],
   "team": "",
   "summary": "The Ultimate Signal Machine",
   "websites": []

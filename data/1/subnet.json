@@ -3,14 +3,19 @@
   "bittensor_id": "alpha",
   "letter": "",
   "name": "Apex",
-  "github": ["https://github.com/macrocosm-os/apex"],
+  "github": [
+    "https://github.com/macrocosm-os/apex"
+  ],
   "hw_requirements": "https://github.com/macrocosm-os/prompting/blob/main/min_compute.yml",
-  "image_url": "https://backprop.finance/assets/subnet-logos/1/v1.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/1/v2.png",
+  "description": "",
   "bittensor_discord_id": "1161764867166961704",
   "team": "Macrocosmos",
   "summary": "This Subnet defines an incentive mechanism to create a distributed conversational AI.",
-  "categories": ["AI Agent", "Macrocosmos"],
+  "categories": [
+    "AI Agent",
+    "Macrocosmos"
+  ],
   "websites": [
     {
       "label": "twitter",

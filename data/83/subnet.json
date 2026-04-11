@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "CliqueAI",
-  "github": ["https://github.com/toptensor/CliqueAI"],
+  "github": [
+    "https://github.com/toptensor/CliqueAI"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1355560253076410428",
   "team": "TopTensor",
   "summary": "AI-Powered Maximum Clique Solver Network",

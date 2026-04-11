@@ -3,12 +3,16 @@
   "bittensor_id": "",
   "letter": "",
   "name": "FLock OFF",
-  "github": ["https://github.com/FLock-io/FLock-subnet"],
+  "github": [
+    "https://github.com/FLock-io/FLock-subnet"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/96/v1.jpg",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
-  "categories": ["Yuma Accelerated"],
+  "categories": [
+    "Yuma Accelerated"
+  ],
   "team": "FLock.io",
   "summary": "FLock OFF is a Bittensor subnet designed to incentivize the creation of high-quality datasets for machine learning. Miners generate and upload datasets to Hugging Face, while validators assess their quality by training LoRA (Low-Rank Adaptation) models on a standardized base model (Qwen/Qwen2.5-1.5B-Instruct) and rewarding miners based on performance.",
   "websites": [

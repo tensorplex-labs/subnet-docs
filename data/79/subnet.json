@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "MVTRX",
-  "github": ["https://github.com/taos-im/sn-79"],
+  "github": [
+    "https://github.com/taos-im/sn-79"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/79/v1.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/79/v2.png",
+  "description": "",
   "bittensor_discord_id": "1353733356470276096",
   "team": "",
   "summary": "Decentralized Simulation of Automated Trading in Intelligent Markets: Risk-Averse Agent Optimization",

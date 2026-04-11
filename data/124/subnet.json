@@ -3,13 +3,17 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Swarm",
-  "github": ["https://github.com/swarm-subnet/swarm"],
+  "github": [
+    "https://github.com/swarm-subnet/swarm"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/124/v2.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/124/v3.png",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
-  "categories": ["Robotics"],
+  "categories": [
+    "Robotics"
+  ],
   "summary": "Developing OS autopilot for drones",
   "websites": [
     {

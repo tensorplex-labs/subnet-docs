@@ -4,10 +4,12 @@
   "letter": "",
   "name": "VoidAI Liquidity Provisioning",
   "github": [],
-  "categories": ["DeFi"],
+  "categories": [
+    "DeFi"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/106/v1.jpg",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Incentivized liquidity provisioning on Solana",

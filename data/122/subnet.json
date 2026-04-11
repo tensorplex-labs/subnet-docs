@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Bitrecs",
-  "github": ["https://github.com/bitrecs/bitrecs-subnet"],
+  "github": [
+    "https://github.com/bitrecs/bitrecs-subnet"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/122/v1.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/122/v2.png",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Bitrecs is a novel recommendation engine built on the Bittensor network. This implementation provides a framework for serving realtime e-commerce recommendations using LLMs. Miners are encouraged to experiment with their own implementations to improve latency and quality. We aim to provide relevant and timely recommendations for any ecommerce site.",

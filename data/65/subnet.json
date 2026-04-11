@@ -7,8 +7,8 @@
     "https://github.com/taofu-labs/tpn-subnet"
   ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/65/v2.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/65/v3.jpg",
+  "description": "",
   "bittensor_discord_id": "1342275465267642408",
   "team": "Taofu Labs",
   "summary": "TPN is a decentralized subnet designed to empower secure, private, and geographically diverse internet access through a global network of VPN providers. By coordinating miners and validators, TPN ensures reliable, censorship-resistant connectivity while rewarding contributors for their participation.",

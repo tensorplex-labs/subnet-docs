@@ -8,7 +8,7 @@
   ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "VectorChat",
   "summary": "Chunking incentivizes miners to break large documents into semantically coherent, optimally-sized text chunks for use in LLM pipelines, improving RAG query relevance and reducing inference cost.",
@@ -22,5 +22,7 @@
       "url": "https://x.com/vectorchatai"
     }
   ],
-  "categories": ["Data Pipeline"]
+  "categories": [
+    "Data Pipeline"
+  ]
 }

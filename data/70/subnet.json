@@ -5,11 +5,13 @@
   "name": "NexisGen",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/70/v2.png",
   "description": "",
   "bittensor_discord_id": "",
   "team": "NexisGen",
   "summary": "Enterprise dataset delivery",
   "websites": [],
-  "categories": ["Data Pipeline"]
+  "categories": [
+    "Data Pipeline"
+  ]
 }

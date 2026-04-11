@@ -6,7 +6,7 @@
   "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "Bitstarter",
   "summary": "A new subnet launch on Bitstarter - coming soon!",
@@ -24,5 +24,7 @@
       "url": "https://x.com/bitstarterAI"
     }
   ],
-  "categories": ["Infrastructure"]
+  "categories": [
+    "Infrastructure"
+  ]
 }

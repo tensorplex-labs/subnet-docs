@@ -3,13 +3,18 @@
   "bittensor_id": "its_ai",
   "letter": "",
   "name": "It's AI",
-  "github": ["https://github.com/It-s-AI/llm-detection"],
+  "github": [
+    "https://github.com/It-s-AI/llm-detection"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/32/v1.jpeg",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1215319932062011464",
   "team": "",
-  "categories": ["Model Development", "DeepFake Detection"],
+  "categories": [
+    "Model Development",
+    "DeepFake Detection"
+  ],
   "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
   "websites": [
     {

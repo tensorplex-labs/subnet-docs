@@ -3,13 +3,15 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Aurelius",
-  "github": ["https://github.com/Aurelius-Protocol"],
+  "github": [
+    "https://github.com/Aurelius-Protocol"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/37/v3.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/37/v4.png",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "Aurelius Labs",
-  "summary": "Aurelius transforms alignment into an adversarial, incentive-driven process. Rather than trusting centralized judgment, it rewards independent discovery and reproducible scoring. The result is a continuously evolving dataset of alignment failures — built in public, governed by logic, and available to all.",
+  "summary": "Aurelius transforms alignment into an adversarial, incentive-driven process. Rather than trusting centralized judgment, it rewards independent discovery and reproducible scoring. The result is a continuously evolving dataset of alignment failures \u2014 built in public, governed by logic, and available to all.",
   "websites": [
     {
       "label": "twitter",

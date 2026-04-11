@@ -8,9 +8,11 @@
     "https://github.com/coldint/coldint_validator"
   ],
   "hw_requirements": "",
-  "categories": ["Model Development"],
+  "categories": [
+    "Model Development"
+  ],
   "image_url": "https://backprop.finance/assets/subnet-logos/29/v1.webp",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1263866060780605501",
   "team": "Coldint",
   "summary": "AI Agent Safety&Security Specialist Subnet",

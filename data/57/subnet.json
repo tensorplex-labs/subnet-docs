@@ -3,14 +3,18 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Sparket.AI",
-  "github": ["https://github.com/sparket-ai/sparket-ai"],
+  "github": [
+    "https://github.com/sparket-ai/sparket-ai"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/57/v1.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1310698546852528180",
   "team": "",
-  "summary": "Sparket.ai is a decentralized prediction infrastructure focused on sports and live events, operating as the first Bittensor subnet built on a patented architecture for decentralized betting markets. The platform enables participants to contribute data—such as odds origination and outcome verification—to the markets they wager in, rewarding miners for providing valuable and accurate live-event data. Its patented system covers custom bet creation, dynamic odds, data normalization, and trust-scored outcome verification, supporting a global network of miners and validators. Real-money wagering is planned for future phases, with the current beta supporting data contribution and validation tasks to power the Sparket ecosystem.",
-  "categories": ["Prediction Market"],
+  "summary": "Sparket.ai is a decentralized prediction infrastructure focused on sports and live events, operating as the first Bittensor subnet built on a patented architecture for decentralized betting markets. The platform enables participants to contribute data\u2014such as odds origination and outcome verification\u2014to the markets they wager in, rewarding miners for providing valuable and accurate live-event data. Its patented system covers custom bet creation, dynamic odds, data normalization, and trust-scored outcome verification, supporting a global network of miners and validators. Real-money wagering is planned for future phases, with the current beta supporting data contribution and validation tasks to power the Sparket ecosystem.",
+  "categories": [
+    "Prediction Market"
+  ],
   "websites": [
     {
       "label": "twitter",

@@ -5,8 +5,8 @@
   "name": "GroundLayer",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/20/v2.png",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "Rizzo Network",
   "summary": "Structured OTC deals for subnet tokens.",
@@ -28,5 +28,7 @@
       "url": "https://discord.gg/9t7rmR7Q7t"
     }
   ],
-  "categories": ["DeFi"]
+  "categories": [
+    "DeFi"
+  ]
 }

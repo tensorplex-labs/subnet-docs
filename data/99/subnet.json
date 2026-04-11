@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Problems",
-  "github": ["https://github.com/subnet99/neza"],
+  "github": [
+    "https://github.com/subnet99/neza"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/99/v1.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/99/v2.png",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Focused on faster, higher-quality video generation, driving innovation, empowering creators, and enabling commercial impact.",

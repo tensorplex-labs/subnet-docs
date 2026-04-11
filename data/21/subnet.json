@@ -5,7 +5,7 @@
   "name": "AdTAO",
   "github": [],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/21/v2.jpg",
   "description": "",
   "bittensor_discord_id": "1489651673944297472",
   "team": "PPC Rebel",
@@ -20,5 +20,7 @@
       "url": "https://www.ppcrebel.com"
     }
   ],
-  "categories": ["AI Agent"]
+  "categories": [
+    "AI Agent"
+  ]
 }

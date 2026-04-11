@@ -8,11 +8,15 @@
     "https://github.com/Loosh-ai/loosh-public-documentation"
   ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/78/v1.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/78/v2.jpg",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "Loosh",
-  "categories": ["Robotics", "Infrastructure", "Yuma Accelerated"],
+  "categories": [
+    "Robotics",
+    "Infrastructure",
+    "Yuma Accelerated"
+  ],
   "summary": "Loosh leverages Bittensor's scalable infrastructure to form Machine Consciousness. Starting Q4 2025 subnet workloads will be processing inference of live prompts from the beta testing of our cognitive engine, deontological framework, and persistent memory. In Q1 2026 our plan involves a mechanism (sub-subnet) for our EEG Data Model which is designed in-house that will process EEG signals from studies to make accurate readings on 1 of 9 emotional states. Loosh has designed a three-part architecture that gives AI a brain, a conscience, and a decentralized source of intelligence - powering robotics and agentic systems for everyday life.",
   "websites": [
     {

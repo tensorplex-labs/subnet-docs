@@ -3,12 +3,16 @@
   "bittensor_id": "",
   "letter": "",
   "name": "affine",
-  "github": ["https://github.com/AffineFoundation/affine"],
+  "github": [
+    "https://github.com/AffineFoundation/affine"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/120/v1.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/120/v2.png",
+  "description": "",
   "bittensor_discord_id": "",
-  "categories": ["Reinforcement Learning"],
+  "categories": [
+    "Reinforcement Learning"
+  ],
   "team": "Affine Foundation",
   "summary": "affinity with the machine",
   "websites": []

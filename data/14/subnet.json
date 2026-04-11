@@ -3,14 +3,18 @@
   "bittensor_id": "",
   "letter": "",
   "name": "TAO Hash",
-  "github": ["https://github.com/latent-to/taohash"],
+  "github": [
+    "https://github.com/latent-to/taohash"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/14/v3.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/14/v4.png",
+  "description": "",
   "bittensor_discord_id": "1310625466411122789",
   "team": "",
   "summary": "The first and leading subnet for decentralizing PoW (proof-of-work) mining hashrate, rental and exchange. Validators receive hashrate in exchange for weights, and miners speculate on hashrate, hashprice, and Alpha emissions.",
-  "categories": ["Mining"],
+  "categories": [
+    "Mining"
+  ],
   "websites": [
     {
       "label": "twitter",

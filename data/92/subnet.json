@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "TensorClaw",
-  "github": ["https://github.com/tensorclaw/tensorclaw"],
+  "github": [
+    "https://github.com/tensorclaw/tensorclaw"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "Tensorclaw",
   "summary": "TensorClaw is a decentralized LLM inference subnet that aggregates high-quality LLM API nodes globally and exposes them through a unified, load-balanced, OpenAI-compatible API with anti-cheat verification.",
@@ -20,5 +22,7 @@
       "url": "https://discord.gg/5Qsqcttq"
     }
   ],
-  "categories": ["Inference"]
+  "categories": [
+    "Inference"
+  ]
 }

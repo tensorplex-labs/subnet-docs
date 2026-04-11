@@ -3,9 +3,11 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Allways",
-  "github": ["https://github.com/entrius/allways"],
+  "github": [
+    "https://github.com/entrius/allways"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/7/v2.png",
   "description": "",
   "bittensor_discord_id": "1437494877578330174",
   "team": "",
@@ -16,5 +18,7 @@
       "url": "https://all-ways.io"
     }
   ],
-  "categories": ["DeFi"]
+  "categories": [
+    "DeFi"
+  ]
 }

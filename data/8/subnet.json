@@ -3,13 +3,17 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Vanta Network",
-  "github": ["https://github.com/taoshidev/vanta-network"],
+  "github": [
+    "https://github.com/taoshidev/vanta-network"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/8/v2.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/8/v3.png",
+  "description": "",
   "bittensor_discord_id": "1162384774170677318",
   "team": "",
-  "categories": ["Financial Trading"],
+  "categories": [
+    "Financial Trading"
+  ],
   "summary": "Vanta Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
   "websites": [
     {

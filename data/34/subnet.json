@@ -3,14 +3,19 @@
   "bittensor_id": "bitmind",
   "letter": "",
   "name": "BitMind",
-  "github": ["https://github.com/BitMind-AI/bitmind-subnet"],
+  "github": [
+    "https://github.com/BitMind-AI/bitmind-subnet"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/34/v1.svg",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1247680967225905273",
   "team": "",
   "summary": "BitMind is focused on detecting AI-generated media. Contributors are incentivized to create advanced models that can reliably differentiate between authentic and fabricated content.",
-  "categories": ["DeepFake Detection", "Inference"],
+  "categories": [
+    "DeepFake Detection",
+    "Inference"
+  ],
   "websites": [
     {
       "label": "twitter",

@@ -3,14 +3,18 @@
   "bittensor_id": "",
   "letter": "",
   "name": "NIOME",
-  "github": ["https://github.com/genomesio/subnet-niome"],
+  "github": [
+    "https://github.com/genomesio/subnet-niome"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/55/55_v1.jpg",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/55/v2.webp",
   "description": "",
   "bittensor_discord_id": "1320766712508977192",
   "team": "",
   "summary": "NIOME is a decentralized AI subnet that enables privacy-safe genomic intelligence by replacing real human genomes with high-fidelity synthetic genomic profiles.",
-  "categories": ["Data Pipeline"],
+  "categories": [
+    "Data Pipeline"
+  ],
   "websites": [
     {
       "label": "website",

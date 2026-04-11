@@ -3,14 +3,18 @@
   "bittensor_id": "cortex_t",
   "letter": "",
   "name": "Zeus",
-  "github": ["https://github.com/Orpheus-AI/Zeus"],
+  "github": [
+    "https://github.com/Orpheus-AI/Zeus"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/18/v2.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/18/v3.png",
+  "description": "",
   "bittensor_discord_id": "1172669887697653881",
-  "team": "Ørpheus AI",
+  "team": "\u00d8rpheus AI",
   "summary": "The Zeus Subnet leverages advanced AI models within the Bittensor network to forecast environmental data. This platform is engineered on a decentralized, incentive-driven framework to enhance trustworthiness and stimulate continuous technological advancement. The datasource for this subnet consists of ERA5 reanalysis data from the Climate Data Store (CDS) of the European Union's Earth observation programme (Copernicus). This comprises the largest global environmental dataset to date, containing hourly measurements from 1940 until the present across a multitude of hundreds of variables. Validators can stream data from this data source in real-time, allowing miners to be queried on terrabytes of data.",
-  "categories": ["DeSci"],
+  "categories": [
+    "DeSci"
+  ],
   "websites": [
     {
       "label": "website",

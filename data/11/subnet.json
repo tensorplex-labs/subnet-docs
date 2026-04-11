@@ -3,13 +3,18 @@
   "bittensor_id": "lambda",
   "letter": "",
   "name": "TrajectoryRL",
-  "github": ["https://github.com/trajectoryRL/trajectoryRL"],
+  "github": [
+    "https://github.com/trajectoryRL/trajectoryRL"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/11/v2.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/11/v3.jpg",
+  "description": "",
   "bittensor_discord_id": "1232378968187867147",
   "team": "",
-  "categories": ["AI Agent", "Reinforcement Learning"],
+  "categories": [
+    "AI Agent",
+    "Reinforcement Learning"
+  ],
   "summary": "Agentic RL as a Service, Optimize agent trajectories to make agents cheaper, safer, and more reliable.",
   "websites": [
     {

@@ -8,8 +8,8 @@
     "https://github.com/rayonlabs/chutes"
   ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/64/v2.webp",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/64/v3.png",
+  "description": "",
   "bittensor_discord_id": "1320739778534047785",
   "team": "Rayon Labs",
   "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world. Run any available model at scale, or deploy your own in seconds.",

@@ -3,14 +3,19 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Handshake",
-  "github": ["https://github.com/Handshake58/HS58"],
+  "github": [
+    "https://github.com/Handshake58/HS58"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/58/v1.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/58/v2.png",
+  "description": "",
   "bittensor_discord_id": "1304499133675081761",
   "team": "Impel",
   "summary": "Trustless micropayments for autonomous AI agent",
-  "categories": ["AI Agent", "Yuma Accelerated"],
+  "categories": [
+    "AI Agent",
+    "Yuma Accelerated"
+  ],
   "websites": [
     {
       "label": "twitter",

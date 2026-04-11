@@ -9,10 +9,10 @@
   ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/84/v1.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
-  "team": "Taτsu",
-  "summary": "ChipForge (SN84) introduces the first digital design subnet for decentralized hardware innovation. This subnet enables miners to compete in designing real silicon. Processor development is organized into on-chain challenges — spanning AI accelerators, cryptographic modules, mini-GPUs, and other critical components. Participants download specifications, leverage AI tools, and submit complete Verilog/SystemVerilog implementations. The highest-quality designs earn rewards while contributing to fully manufacturable chips.",
+  "team": "Ta\u03c4su",
+  "summary": "ChipForge (SN84) introduces the first digital design subnet for decentralized hardware innovation. This subnet enables miners to compete in designing real silicon. Processor development is organized into on-chain challenges \u2014 spanning AI accelerators, cryptographic modules, mini-GPUs, and other critical components. Participants download specifications, leverage AI tools, and submit complete Verilog/SystemVerilog implementations. The highest-quality designs earn rewards while contributing to fully manufacturable chips.",
   "websites": [
     {
       "label": "twitter",

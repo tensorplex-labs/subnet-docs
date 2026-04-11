@@ -3,10 +3,12 @@
   "bittensor_id": "",
   "letter": "",
   "name": "Harnyx",
-  "github": ["https://github.com/harnyx/harnyx"],
+  "github": [
+    "https://github.com/harnyx/harnyx"
+  ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "1457737666316472351",
   "team": "harnyx@brightmount.co",
   "summary": "Harnyx provides deep research as a commodity via a competitive swarm of miners on Bittensor. Miners submit Python research agents that produce comprehensive, citation-backed analytical content at a fraction of the cost of centralized alternatives.",
@@ -24,5 +26,7 @@
       "url": "https://dashboard.harnyx.ai"
     }
   ],
-  "categories": ["AI Agent"]
+  "categories": [
+    "AI Agent"
+  ]
 }

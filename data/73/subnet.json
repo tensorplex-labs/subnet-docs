@@ -3,14 +3,18 @@
   "bittensor_id": "",
   "letter": "",
   "name": "MetaHash",
-  "github": ["https://github.com/fx-integral/metahash"],
+  "github": [
+    "https://github.com/fx-integral/metahash"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/73/v2.jpg",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/73/v3.png",
+  "description": "",
   "bittensor_discord_id": "1351969903132938302",
   "team": "",
   "summary": "Metahash (Subnet 73) is a decentralized over-the-counter (OTC) layer that allows dTAO holders swap $ALPHA directly for $META, eliminating slippage and price impact on their native subnets.",
-  "categories": ["DeFi"],
+  "categories": [
+    "DeFi"
+  ],
   "websites": [
     {
       "label": "twitter",

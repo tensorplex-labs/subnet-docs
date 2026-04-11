@@ -2,15 +2,19 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "404—GEN",
-  "github": ["https://github.com/404-Repo/three-gen-subnet/"],
+  "name": "404\u2014GEN",
+  "github": [
+    "https://github.com/404-Repo/three-gen-subnet/"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/17/v1.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/17/v2.png",
+  "description": "",
   "bittensor_discord_id": "1179081290289528864",
   "team": "404",
   "summary": "Three Gen incentivizes the development of AI models for generating 3D digital assets and the creation of synthetic 3D model datasets.",
-  "categories": ["Inference"],
+  "categories": [
+    "Inference"
+  ],
   "websites": [
     {
       "label": "twitter",

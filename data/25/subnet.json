@@ -3,14 +3,18 @@
   "bittensor_id": "mainframe",
   "letter": "",
   "name": "Mainframe",
-  "github": ["https://github.com/macrocosm-os/mainframe"],
+  "github": [
+    "https://github.com/macrocosm-os/mainframe"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/25/v2.png",
+  "description": "",
   "bittensor_discord_id": "1234881153832321024",
   "team": "Macrocosmos",
   "summary": "Powering decentralized science on Bittensor",
-  "categories": ["DeSci"],
+  "categories": [
+    "DeSci"
+  ],
   "websites": [
     {
       "label": "website",

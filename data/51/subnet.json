@@ -3,14 +3,18 @@
   "bittensor_id": "",
   "letter": "",
   "name": "lium.io",
-  "github": ["https://github.com/Datura-ai/lium-io"],
+  "github": [
+    "https://github.com/Datura-ai/lium-io"
+  ],
   "hw_requirements": "",
-  "image_url": "https://backprop.finance/assets/subnet-logos/51/v2.png",
-  "description": "description.html",
+  "image_url": "https://backprop.finance/assets/subnet-logos-test/51/v3.png",
+  "description": "",
   "bittensor_discord_id": "1291754566957928469",
   "team": "Datura",
   "summary": "This project enables a decentralized, peer-to-peer GPU rental marketplace, connecting miners who contribute GPU resources with users who need computational power. Our frontend interface is available at lium.io, where you can easily rent machines from the subnet.",
-  "categories": ["Compute"],
+  "categories": [
+    "Compute"
+  ],
   "websites": [
     {
       "label": "website",

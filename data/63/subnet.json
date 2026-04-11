@@ -8,7 +8,7 @@
   ],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/63/v3.webp",
-  "description": "description.html",
+  "description": "",
   "bittensor_discord_id": "",
   "team": "qBitTensor Labs",
   "summary": "Enigma (formerly Quantum Innovate) is a decentralized innovation challenges marketplace for quantum computing on Bittensor. Miners are challenged with synthetic quantum circuits and scored on execution fidelity, pushing the boundaries of classical quantum simulation.",
@@ -26,5 +26,8 @@
       "url": "https://discord.gg/xJ9JKPMJQD"
     }
   ],
-  "categories": ["Quantum Computing", "Compute"]
+  "categories": [
+    "Quantum Computing",
+    "Compute"
+  ]
 }
