@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Chutes",
+  "name": "",
   "github": [
     "https://github.com/rayonlabs/chutes-miner",
     "https://github.com/rayonlabs/chutes"
@@ -11,24 +11,12 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/64/v3.png",
   "description": "",
   "bittensor_discord_id": "1320739778534047785",
-  "team": "Rayon Labs",
+  "team": "",
   "summary": "Chutes provides true serverless, permissionless, decentralized, affordable compute to the world. Run any available model at scale, or deploy your own in seconds.",
   "categories": [
     "Compute",
+    "Infrastructure",
     "Rayon Labs"
   ],
-  "websites": [
-    {
-      "label": "application",
-      "url": "https://chutes.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://chutes.ai/app/research/leaderboard"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/chutes_ai"
-    }
-  ]
+  "websites": []
 }

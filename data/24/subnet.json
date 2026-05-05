@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "quasar",
   "letter": "",
-  "name": "Quasar",
+  "name": "",
   "github": [
     "https://github.com/SILX-LABS/QUASAR-SUBNET/"
   ],
@@ -17,10 +17,5 @@
     "Inference",
     "Compute"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://silxinc.com/"
-    }
-  ]
+  "websites": []
 }

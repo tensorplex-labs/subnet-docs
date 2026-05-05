@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Bitcast",
+  "name": "",
   "github": [
     "https://github.com/bitcast-network/bitcast"
   ],
@@ -16,26 +16,5 @@
   "bittensor_discord_id": "1362489640841380045",
   "team": "",
   "summary": "Bitcast is a decentralized platform that incentivizes content creators to connect brands with audiences. Creators publish YouTube videos to satisfy defined briefs and earn rewards based on engagement metrics.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/Bitcast_network"
-    },
-    {
-      "label": "website",
-      "url": "https://www.bitcast.network"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://www.bitcast.network/white-paper"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://dashboard.bitcast.network/"
-    },
-    {
-      "label": "wandb logger",
-      "url": "https://wandb.ai/bitcast_network/bitcast_vali_logs"
-    }
-  ]
+  "websites": []
 }

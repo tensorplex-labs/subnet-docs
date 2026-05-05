@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Tau coding agent",
+  "name": "",
   "github": [
     "https://github.com/unarbos/tau"
   ],
@@ -10,14 +10,9 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/66/v4.png",
   "description": "",
   "bittensor_discord_id": "1486739181093785600",
-  "team": "au@arbos.life",
+  "team": "",
   "summary": "Tau is a Bittensor subnet for distilling and benchmarking software engineering agents. Miners submit AI coding agents that are evaluated on real software engineering tasks through a staged workflow of task generation, solving, comparison, and LLM-judged ranking.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://tau.arbos.life"
-    }
-  ],
+  "websites": [],
   "categories": [
     "AI Agent"
   ]

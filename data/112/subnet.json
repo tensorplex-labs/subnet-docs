@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "minotaur",
+  "name": "",
   "github": [
     "https://github.com/subnet112/minotaur_subnet"
   ],
@@ -12,14 +12,9 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "minotaur is a Bittensor subnet focused on swap\u2011intent processing and execution optimization. It leverages a subnet\u2011native incentive mechanism to deliver better, cheaper, and faster trades for users.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://minotaursubnet.com/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/minotaursubnet"
-    }
+  "websites": [],
+  "categories": [
+    "DeFi",
+    "Financial Trading"
   ]
 }

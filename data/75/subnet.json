@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Hippius",
+  "name": "",
   "github": [
     "https://github.com/thenervelab/thebrain",
     "https://github.com/thenervelab/hippius-validator",
@@ -15,24 +15,9 @@
   "team": "",
   "summary": "Hippius is a decentralized cloud storage platform powered by a custom Substrate blockchain, IPFS, and S3-compatible storage.",
   "categories": [
-    "Storage"
+    "Storage",
+    "Compute",
+    "Infrastructure"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/hippius_subnet"
-    },
-    {
-      "label": "website",
-      "url": "https://hippius.com"
-    },
-    {
-      "label": "application",
-      "url": "https://console.hippius.com"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.hippius.com"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "graphite",
   "letter": "",
-  "name": "Graphite",
+  "name": "",
   "github": [
     "https://github.com/GraphiteAI/Graphite-Subnet"
   ],
@@ -11,22 +11,9 @@
   "description": "",
   "bittensor_discord_id": "1263507367405031434",
   "categories": [
-    "Inference"
+    "Compute"
   ],
   "team": "",
   "summary": "Graphite focuses on graph problems, which involve optimizing algorithms to solve computational challenges, such as finding the shortest path, optimizing network flow, or determining optimal arrangements.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/GraphiteSubnet"
-    },
-    {
-      "label": "website",
-      "url": "https://graphite-ai.net/"
-    },
-    {
-      "label": "application",
-      "url": "https://bestpath.world/"
-    }
-  ]
+  "websites": []
 }

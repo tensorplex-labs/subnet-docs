@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "its_ai",
   "letter": "",
-  "name": "It's AI",
+  "name": "",
   "github": [
     "https://github.com/It-s-AI/llm-detection"
   ],
@@ -12,34 +12,9 @@
   "bittensor_discord_id": "1215319932062011464",
   "team": "",
   "categories": [
-    "Model Development",
-    "DeepFake Detection"
+    "DeepFake Detection",
+    "Model Development"
   ],
   "summary": "It's AI incentivizes the development of systems that can identify LLM-generated content.",
-  "websites": [
-    {
-      "label": "chrome extension",
-      "url": "https://chromewebstore.google.com/detail/its-ai/lbjiajoblhodlkfloiphigkcemdonidn"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/ai_detection"
-    },
-    {
-      "label": "website",
-      "url": "https://its-ai.org/"
-    },
-    {
-      "label": "application",
-      "url": "https://app.its-ai.org/main/scan"
-    },
-    {
-      "label": "website",
-      "url": "https://playground.corcel.io/its-ai"
-    },
-    {
-      "label": "roadmap",
-      "url": "https://github.com/It-s-AI/llm-detection/blob/v3.0/docs/vision_and_roadmap.md"
-    }
-  ]
+  "websites": []
 }

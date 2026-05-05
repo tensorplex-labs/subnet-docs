@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "gamma",
   "letter": "",
-  "name": "Templar",
+  "name": "",
   "github": [
     "https://github.com/tplr-ai/templar"
   ],
@@ -10,27 +10,10 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/3/v3.png",
   "description": "",
   "bittensor_discord_id": "1222226314824777853",
-  "team": "distributed_tensor",
+  "team": "",
   "summary": "Incentivized Wide-Internet Training.",
   "categories": [
     "Distributed Training"
   ],
-  "websites": [
-    {
-      "label": "dashboard",
-      "url": "https://wandb.ai/tplr/templar"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/tplr_ai"
-    },
-    {
-      "label": "website",
-      "url": "https://www.tplr.ai"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/McJ2jGwj"
-    }
-  ]
+  "websites": []
 }

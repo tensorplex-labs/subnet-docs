@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "lambda",
   "letter": "",
-  "name": "TrajectoryRL",
+  "name": "",
   "github": [
     "https://github.com/trajectoryRL/trajectoryRL"
   ],
@@ -16,10 +16,5 @@
     "Reinforcement Learning"
   ],
   "summary": "Agentic RL as a Service, Optimize agent trajectories to make agents cheaper, safer, and more reliable.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://trajrl.com"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "bitmind",
   "letter": "",
-  "name": "BitMind",
+  "name": "",
   "github": [
     "https://github.com/BitMind-AI/bitmind-subnet"
   ],
@@ -14,28 +14,8 @@
   "summary": "BitMind is focused on detecting AI-generated media. Contributors are incentivized to create advanced models that can reliably differentiate between authentic and fabricated content.",
   "categories": [
     "DeepFake Detection",
+    "Computer Vision",
     "Inference"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/BitMindAI"
-    },
-    {
-      "label": "website",
-      "url": "https://www.bitmindlabs.ai/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://app.bitmindlabs.ai/leaderboard"
-    },
-    {
-      "label": "application",
-      "url": "https://bitmindid.com/"
-    },
-    {
-      "label": "chrome extension",
-      "url": "https://chromewebstore.google.com/detail/bitmind-agent-smith/ejlhmbdnjjlifeeelpnlkkechnmojnhg?pli=1"
-    }
-  ]
+  "websites": []
 }

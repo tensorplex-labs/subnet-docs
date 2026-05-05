@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "NOVA",
+  "name": "",
   "github": [
     "https://github.com/metanova-labs/nova"
   ],
@@ -10,22 +10,9 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/68/v3.jpg",
   "description": "",
   "bittensor_discord_id": "1345470582161936405",
-  "team": "Metanova Labs",
+  "team": "",
   "summary": "NOVA is a decentralized, AI-powered drug discovery platform that crowdsources screening of billions of synthesizable molecules to identify promising therapeutic compounds, rewarding miners with TAO emissions based on binding affinity predictions.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://www.metanova-labs.ai"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/metanova_labs"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://www.metanova-labs.ai/dashboard"
-    }
-  ],
+  "websites": [],
   "categories": [
     "DeSci"
   ]

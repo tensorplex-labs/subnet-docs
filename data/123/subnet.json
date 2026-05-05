@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "MANTIS",
+  "name": "",
   "github": [
     "https://github.com/Barbariandev/MANTIS"
   ],
@@ -12,6 +12,7 @@
   "bittensor_discord_id": "",
   "categories": [
     "Prediction Market",
+    "Financial Trading",
     "Inference"
   ],
   "team": "",

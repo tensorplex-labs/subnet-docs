@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Gradients",
+  "name": "",
   "github": [
     "https://github.com/rayonlabs/G.O.D"
   ],
@@ -10,32 +10,12 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/56/v3.png",
   "description": "",
   "bittensor_discord_id": "1311360495428702240",
-  "team": "Rayon Labs",
+  "team": "",
   "summary": "On Gradients, Train SOTA Artificial Intelligence Models in a few clicks. The world's best AutoML platform.",
   "categories": [
     "Distributed Training",
+    "Model Development",
     "Rayon Labs"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://gradients.io/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/gradients_ai"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://gradients.io/app/research"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://arxiv.org/pdf/2506.07940"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/HbysyPuZns"
-    }
-  ]
+  "websites": []
 }

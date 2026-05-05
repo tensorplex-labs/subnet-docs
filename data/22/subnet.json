@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "desearch",
   "letter": "",
-  "name": "Desearch",
+  "name": "",
   "github": [
     "https://github.com/Datura-ai/desearch"
   ],
@@ -13,16 +13,8 @@
   "team": "",
   "summary": "Welcome to Desearch, the AI-powered search engine built on Bittensor. Designed for the Bittensor community and general internet users, Desearch delivers an unbiased and verifiable search experience. Through our API, developers and AI builders are empowered to integrate AI search capabilities into their products, with access to metadata from platforms like X, Reddit, Arxiv and general web search.",
   "categories": [
-    "Inference"
+    "Inference",
+    "Data Pipeline"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/desearch_ai/"
-    },
-    {
-      "label": "website",
-      "url": "https://desearch.ai/"
-    }
-  ]
+  "websites": []
 }

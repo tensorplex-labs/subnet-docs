@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Liquidity",
+  "name": "",
   "github": [
     "https://github.com/creativebuilds/sn77"
   ],
@@ -15,14 +15,5 @@
   "categories": [
     "DeFi"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/77Liquidity"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/CreativeBuilds"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "affine",
+  "name": "",
   "github": [
     "https://github.com/AffineFoundation/affine"
   ],
@@ -11,9 +11,10 @@
   "description": "",
   "bittensor_discord_id": "",
   "categories": [
-    "Reinforcement Learning"
+    "Reinforcement Learning",
+    "Model Development"
   ],
-  "team": "Affine Foundation",
+  "team": "",
   "summary": "affinity with the machine",
   "websites": []
 }

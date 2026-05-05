@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Vanta Network",
+  "name": "",
   "github": [
     "https://github.com/taoshidev/vanta-network"
   ],
@@ -15,22 +15,5 @@
     "Financial Trading"
   ],
   "summary": "Vanta Network incentivizes the contribution of profitable trading strategies across various financial markets. Contributors who provide the best trading signals receive the highest rewards, attracting skilled traders, data scientists, and machine learning teams to compete.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/taoshiio"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/VantaTrading"
-    },
-    {
-      "label": "website",
-      "url": "https://www.taoshi.io/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://dashboard.taoshi.io/"
-    }
-  ]
+  "websites": []
 }

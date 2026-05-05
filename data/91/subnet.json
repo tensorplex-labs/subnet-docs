@@ -2,28 +2,15 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Bitstarter #1",
+  "name": "",
   "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos/default.png",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "Bitstarter",
+  "team": "",
   "summary": "A new subnet launch on Bitstarter - coming soon!",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://www.bitstarter.ai"
-    },
-    {
-      "label": "application",
-      "url": "https://app.bitstarter.ai/subnets/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/bitstarterAI"
-    }
-  ],
+  "websites": [],
   "categories": [
     "Infrastructure"
   ]

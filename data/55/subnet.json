@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "NIOME",
+  "name": "",
   "github": [
     "https://github.com/genomesio/subnet-niome"
   ],
@@ -13,12 +13,8 @@
   "team": "",
   "summary": "NIOME is a decentralized AI subnet that enables privacy-safe genomic intelligence by replacing real human genomes with high-fidelity synthetic genomic profiles.",
   "categories": [
-    "Data Pipeline"
+    "Data Pipeline",
+    "DeSci"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://niome.genomes.io"
-    }
-  ]
+  "websites": []
 }

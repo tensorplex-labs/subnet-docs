@@ -2,25 +2,17 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "AdTAO",
+  "name": "",
   "github": [],
   "hw_requirements": "",
   "image_url": "https://backprop.finance/assets/subnet-logos-test/21/v2.jpg",
   "description": "",
   "bittensor_discord_id": "1489651673944297472",
-  "team": "PPC Rebel",
+  "team": "",
   "summary": "AdTAO is a decentralized advertising subnet that uses counterfactual impact prediction to measure true causal lift from ad interventions, enabling pay-per-verified-conversion advertising.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/ppcrebel"
-    },
-    {
-      "label": "website",
-      "url": "https://www.ppcrebel.com"
-    }
-  ],
+  "websites": [],
   "categories": [
-    "AI Agent"
+    "AI Agent",
+    "Marketing"
   ]
 }

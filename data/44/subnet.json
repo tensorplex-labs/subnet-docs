@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "score_vision",
   "letter": "",
-  "name": "Score Vision",
+  "name": "",
   "github": [
     "https://github.com/score-technologies/score-vision/"
   ],
@@ -13,18 +13,10 @@
   "team": "",
   "summary": "Score Vision is a decentralised computer vision framework built on Bittensor that drastically reduces the cost and time required for complex video analysis.",
   "categories": [
-    "Model Development",
+    "Computer Vision",
     "Sports Prediction",
+    "Model Development",
     "Yuma Accelerated"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/webuildscore"
-    },
-    {
-      "label": "website",
-      "url": "https://scorevision.io/"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Numinous",
+  "name": "",
   "github": [
     "https://github.com/numinouslabs/numinous"
   ],
@@ -12,14 +12,9 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Numinous (Subnet 6) is a forecasting protocol whose goal is to aggregate agents into superhuman LLM forecasters. The key principle is that agents evolve and are scored in self-play forecasting environments.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/numinous_ai"
-    },
-    {
-      "label": "website",
-      "url": "https://numinouslabs.io/"
-    }
+  "websites": [],
+  "categories": [
+    "AI Agent",
+    "Prediction Market"
   ]
 }

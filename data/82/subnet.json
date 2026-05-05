@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "hermes",
   "letter": "",
-  "name": "Hermes",
+  "name": "",
   "github": [
     "https://github.com/SN-Hermes/hermes-subnet"
   ],
@@ -16,14 +16,5 @@
     "AI Agent",
     "Infrastructure"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://subquery.network/hermes"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/hermessubnet"
-    }
-  ]
+  "websites": []
 }

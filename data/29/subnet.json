@@ -2,32 +2,20 @@
   "$schema": "../../schema.json",
   "bittensor_id": "coldint",
   "letter": "",
-  "name": "Coldint",
+  "name": "",
   "github": [
     "https://github.com/coldint/sn29",
     "https://github.com/coldint/coldint_validator"
   ],
   "hw_requirements": "",
   "categories": [
+    "Distributed Training",
     "Model Development"
   ],
   "image_url": "https://backprop.finance/assets/subnet-logos/29/v1.webp",
   "description": "",
   "bittensor_discord_id": "1263866060780605501",
-  "team": "Coldint",
+  "team": "",
   "summary": "AI Agent Safety&Security Specialist Subnet",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://coldint.io/"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://coldint.io/leaderboard/"
-    },
-    {
-      "label": "huggingface",
-      "url": "https://huggingface.co/coldint"
-    }
-  ]
+  "websites": []
 }

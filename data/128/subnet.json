@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "ByteLeap",
+  "name": "",
   "github": [
     "https://github.com/byteleapai/byteleap-Miner",
     "https://github.com/byteleapai/byteleap-Validator"
@@ -13,14 +13,9 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "A Blockchain-Enhanced, Fully Decentralized Cloud Platform",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/byteleap_ai"
-    },
-    {
-      "label": "website",
-      "url": "https://byteleap.ai"
-    }
+  "websites": [],
+  "categories": [
+    "Compute",
+    "Infrastructure"
   ]
 }

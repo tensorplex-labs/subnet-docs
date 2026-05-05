@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Efficient Frontier",
+  "name": "",
   "github": [
     "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier"
   ],
@@ -10,19 +10,10 @@
   "image_url": "https://backprop.finance/assets/subnet-logos/53/v1.jpg",
   "description": "",
   "bittensor_discord_id": "1302975822554202142",
-  "team": "Efficient Frontier",
+  "team": "",
   "summary": "Efficient Frontier is a project initiated by SignalPlus and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratised access and empowering the open-access initiative.",
   "categories": [
     "Financial Trading"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://t.signalplus.com"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/Effi_Frontier"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "colosseum",
   "letter": "",
-  "name": "colosseum",
+  "name": "",
   "github": [
     "https://github.com/TAO-Colosseum/tao-colosseum-subnet"
   ],
@@ -15,10 +15,5 @@
   "categories": [
     "Prediction Market"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://taocolosseum.com/"
-    }
-  ]
+  "websites": []
 }

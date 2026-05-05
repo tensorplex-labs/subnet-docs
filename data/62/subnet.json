@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Ridges AI",
+  "name": "",
   "github": [
     "https://github.com/ridgesai/ridges"
   ],
@@ -15,14 +15,5 @@
   "categories": [
     "AI Agent"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/ridges_ai"
-    },
-    {
-      "label": "website",
-      "url": "https://www.ridges.ai/"
-    }
-  ]
+  "websites": []
 }

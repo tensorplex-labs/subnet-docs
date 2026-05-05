@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "horde",
   "letter": "",
-  "name": "Compute Horde",
+  "name": "",
   "github": [
     "https://github.com/backend-developers-ltd/ComputeHorde"
   ],
@@ -15,14 +15,5 @@
   "categories": [
     "Compute"
   ],
-  "websites": [
-    {
-      "label": "dashboard",
-      "url": "https://grafana.bactensor.io/d/b2d70a9d-e838-402c-8e2a-5476fac8de1c/sn12-compute-power?orgId=1&from=now-2d&to=now"
-    },
-    {
-      "label": "application",
-      "url": "https://facilitator.computehorde.io/"
-    }
-  ]
+  "websites": []
 }

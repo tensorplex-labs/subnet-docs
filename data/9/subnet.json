@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "pre_training_llms",
   "letter": "",
-  "name": "IOTA",
+  "name": "",
   "github": [
     "https://github.com/macrocosm-os/IOTA"
   ],
@@ -10,28 +10,12 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/9/v2.png",
   "description": "",
   "bittensor_discord_id": "1162768567821930597",
-  "team": "Macrocosmos",
+  "team": "",
   "summary": "Incentivized Orchestrated Training Architecture (IOTA) is a framework for pretraining large language models across a network of heterogeneous, unreliable, permissionless and token incentivized machines. IOTA employs a data- and pipeline-parallel architecture to accelerate training and reduce hardware requirements for participants.",
   "categories": [
+    "Distributed Training",
     "Model Development",
     "Macrocosmos"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/MacrocosmosAI"
-    },
-    {
-      "label": "website",
-      "url": "https://iota.macrocosmos.ai"
-    },
-    {
-      "label": "dashboard",
-      "url": "https://iota.macrocosmos.ai/dashboard"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://www.macrocosmos.ai/research/iota_primer.pdf"
-    }
-  ]
+  "websites": []
 }

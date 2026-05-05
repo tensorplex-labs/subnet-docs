@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "MetaHash",
+  "name": "",
   "github": [
     "https://github.com/fx-integral/metahash"
   ],
@@ -15,18 +15,5 @@
   "categories": [
     "DeFi"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/MetaHashSn73"
-    },
-    {
-      "label": "website",
-      "url": "https://metahash73.com"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/m9J8QTf5JT"
-    }
-  ]
+  "websites": []
 }

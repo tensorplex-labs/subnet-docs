@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "SOMA",
+  "name": "",
   "github": [
     "https://github.com/Level114/level114-subnet"
   ],
@@ -12,14 +12,9 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "AI solutions delivered through MCP infrastructure",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/SomaSubnet"
-    },
-    {
-      "label": "website",
-      "url": "https://thesoma.ai"
-    }
+  "websites": [],
+  "categories": [
+    "Infrastructure",
+    "AI Agent"
   ]
 }

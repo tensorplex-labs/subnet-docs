@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Handshake",
+  "name": "",
   "github": [
     "https://github.com/Handshake58/HS58"
   ],
@@ -10,20 +10,12 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/58/v2.png",
   "description": "",
   "bittensor_discord_id": "1304499133675081761",
-  "team": "Impel",
+  "team": "",
   "summary": "Trustless micropayments for autonomous AI agent",
   "categories": [
     "AI Agent",
+    "Infrastructure",
     "Yuma Accelerated"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/dippy_ai"
-    },
-    {
-      "label": "application",
-      "url": "ttps://handshake58.com"
-    }
-  ]
+  "websites": []
 }

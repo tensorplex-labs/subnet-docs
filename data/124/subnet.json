@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Swarm",
+  "name": "",
   "github": [
     "https://github.com/swarm-subnet/swarm"
   ],
@@ -12,13 +12,10 @@
   "bittensor_discord_id": "",
   "team": "",
   "categories": [
-    "Robotics"
+    "Robotics",
+    "Computer Vision",
+    "Reinforcement Learning"
   ],
   "summary": "Developing OS autopilot for drones",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/SwarmSubnet"
-    }
-  ]
+  "websites": []
 }

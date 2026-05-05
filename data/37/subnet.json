@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Aurelius",
+  "name": "",
   "github": [
     "https://github.com/Aurelius-Protocol"
   ],
@@ -10,20 +10,10 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/37/v4.png",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "Aurelius Labs",
+  "team": "",
   "summary": "Aurelius transforms alignment into an adversarial, incentive-driven process. Rather than trusting centralized judgment, it rewards independent discovery and reproducible scoring. The result is a continuously evolving dataset of alignment failures \u2014 built in public, governed by logic, and available to all.",
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/AureliusAligned"
-    },
-    {
-      "label": "website",
-      "url": "https://www.aureliusaligned.ai"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://github.com/Aurelius-Protocol/aurelius-whitepaper/blob/main/Aurelius%2C%20A%20Peer-to-Peer%20Alignment%20Protocol.pdf"
-    }
+  "websites": [],
+  "categories": [
+    "Model Development"
   ]
 }

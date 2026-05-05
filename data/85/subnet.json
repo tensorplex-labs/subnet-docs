@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "vidaio",
+  "name": "",
   "github": [
     "https://github.com/vidaio-subnet/vidaio-subnet"
   ],
@@ -11,22 +11,10 @@
   "description": "",
   "bittensor_discord_id": "1342559689690583202",
   "categories": [
-    "Computer Vision"
+    "Computer Vision",
+    "Inference"
   ],
   "team": "",
   "summary": "Revolutionizing Video Upscaling with AI-Driven Decentralisation",
-  "websites": [
-    {
-      "label": "discord",
-      "url": "https://discord.gg/Cn5VcGEb"
-    },
-    {
-      "label": "website",
-      "url": "https://vidaio.io"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/vidaio_"
-    }
-  ]
+  "websites": []
 }

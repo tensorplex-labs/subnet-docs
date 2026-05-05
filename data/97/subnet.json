@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Flamewire",
+  "name": "",
   "github": [
     "https://github.com/unitone-labs/FlameWire"
   ],
@@ -10,23 +10,11 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/97/v2.png",
   "description": "",
   "bittensor_discord_id": "",
-  "team": "UnitOne Labs",
+  "team": "",
   "summary": "FlameWire powers Ethereum, Bittensor, SUI, and more through a decentralized RPC/API infrastructure with global coverage, preserving crypto's core values decentralization, availability, and censorship resistance.",
   "categories": [
-    "Infrastructure"
+    "Model Development",
+    "Inference"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://flamewire.io/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/FlameWire_SN"
-    },
-    {
-      "label": "whitepaper",
-      "url": "https://unitone.gitbook.io/flamewire"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "ForeverMoney \u4e5d\u516b",
+  "name": "",
   "github": [
     "https://github.com/orgs/SN98-ForeverMoney/repositories"
   ],
@@ -12,14 +12,9 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "The REDACTED for @CreatorBid and beyond.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://forevermoney.ai/"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/forevermoney_ai"
-    }
+  "websites": [],
+  "categories": [
+    "DeFi",
+    "Financial Trading"
   ]
 }

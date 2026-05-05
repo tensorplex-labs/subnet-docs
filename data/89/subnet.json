@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "InfiniteHash",
+  "name": "",
   "github": [
     "https://github.com/backend-developers-ltd/InfiniteHash"
   ],
@@ -15,14 +15,5 @@
     "Mining"
   ],
   "summary": "",
-  "websites": [
-    {
-      "label": "dashboard",
-      "url": "https://grafana.bactensor.io/d/infinitehash/infinitehash"
-    },
-    {
-      "label": "website",
-      "url": "https://infinitehash.xyz"
-    }
-  ]
+  "websites": []
 }

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "mainframe",
   "letter": "",
-  "name": "Mainframe",
+  "name": "",
   "github": [
     "https://github.com/macrocosm-os/mainframe"
   ],
@@ -10,19 +10,11 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/25/v2.png",
   "description": "",
   "bittensor_discord_id": "1234881153832321024",
-  "team": "Macrocosmos",
+  "team": "",
   "summary": "Powering decentralized science on Bittensor",
   "categories": [
-    "DeSci"
+    "DeSci",
+    "Macrocosmos"
   ],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://macrocosmos.ai/sn25"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/macrocosmosai"
-    }
-  ]
+  "websites": []
 }

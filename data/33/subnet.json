@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "readyai",
   "letter": "",
-  "name": "ReadyAI",
+  "name": "",
   "github": [
     "https://github.com/afterpartyai/bittensor-conversation-genome-project"
   ],
@@ -10,19 +10,10 @@
   "image_url": "https://backprop.finance/assets/subnet-logos/33/v1.png",
   "description": "",
   "bittensor_discord_id": "1233428828479819876",
-  "team": "After Party",
+  "team": "",
   "summary": "ReadyAI is focused on data structuring, incentivizing the transformation of unstructured data from sources like videos, podcasts, text, and images into structured formats suitable for training AI models.",
   "categories": [
     "Data Pipeline"
   ],
-  "websites": [
-    {
-      "label": "twitter",
-      "url": "https://x.com/readyai_"
-    },
-    {
-      "label": "website",
-      "url": "https://conversations.xyz/"
-    }
-  ]
+  "websites": []
 }

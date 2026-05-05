@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "ORO",
+  "name": "",
   "github": [
     "https://github.com/ORO-AI/oro"
   ],
@@ -10,26 +10,9 @@
   "image_url": "https://backprop.finance/assets/subnet-logos-test/15/v3.png",
   "description": "",
   "bittensor_discord_id": "1466080859164643389",
-  "team": "team@oroagents.com",
+  "team": "",
   "summary": "Oro is a Bittensor subnet (sn15) focused on evaluating AI-powered shopping agents in real-world commerce scenarios. Developers (miners) submit Python-based agents that search, compare, and recommend products from a dataset of 2.5 million real items. Validators run these agents in isolated Docker environments, scoring their performance on accuracy and compliance using the ShoppingBench benchmark. The top-performing agents are rewarded with TAO emissions, incentivizing the creation of effective AI shopping assistants. Oro aims to set a gold standard for AI agent evaluation in online commerce, providing open participation and transparent incentives.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://oroagents.com"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/oroagents"
-    },
-    {
-      "label": "discord",
-      "url": "https://discord.gg/MHqAVWTdka"
-    },
-    {
-      "label": "application",
-      "url": "https://app.oroagents.com"
-    }
-  ],
+  "websites": [],
   "categories": [
     "AI Agent"
   ]

@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "kinitro",
+  "name": "",
   "github": [
     "https://github.com/threetau/kinitro"
   ],
@@ -12,23 +12,8 @@
   "bittensor_discord_id": "1321148494253264998",
   "team": "",
   "summary": "Advancing Embodied Intelligence With Directed Incentives",
-  "categories": [],
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://kinitro.ai"
-    },
-    {
-      "label": "website",
-      "url": "https://threetau.net"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/kinitroai"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/threetau"
-    }
-  ]
+  "categories": [
+    "Data Pipeline"
+  ],
+  "websites": []
 }

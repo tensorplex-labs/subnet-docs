@@ -2,7 +2,7 @@
   "$schema": "../../schema.json",
   "bittensor_id": "",
   "letter": "",
-  "name": "Problems",
+  "name": "",
   "github": [
     "https://github.com/subnet99/neza"
   ],
@@ -12,14 +12,9 @@
   "bittensor_discord_id": "",
   "team": "",
   "summary": "Focused on faster, higher-quality video generation, driving innovation, empowering creators, and enabling commercial impact.",
-  "websites": [
-    {
-      "label": "website",
-      "url": "https://neza.video"
-    },
-    {
-      "label": "twitter",
-      "url": "https://x.com/neza_video"
-    }
+  "websites": [],
+  "categories": [
+    "Computer Vision",
+    "Inference"
   ]
 }
